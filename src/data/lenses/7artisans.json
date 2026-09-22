@@ -431,8 +431,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 146,
-    "diameter": null,
-    "length": null,
+    "diameter": 61,
+    "length": 26.5,
     "filterSize": 49,
     "minFocus": 0.3,
     "maxMagnification": null,
@@ -449,11 +449,17 @@
         "title": "7ARTISANS 官方产品规格",
         "url": "https://7artisans.store/products/18mm-f-5-6-full-frame-lens-for-e-z-l",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：七工匠日本正规代理规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002252/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "官网表格给出 E 卡口约 146g；固定 F5.6，叶片栏为 0（不适用），现有空值以本备注解释。"
+      "官网表格给出 E 卡口约 146g；固定 F5.6，叶片栏为 0（不适用），现有空值以本备注解释。",
+      "日本正规代理 Sony E 独立型号 7A-18F56-E-B 列直径约 61mm、长度约 26.5mm（不含卡口突出部分）；固定光圈无叶片，不以虚构叶片数补齐。"
     ],
     "verification": "partial"
   },
@@ -569,7 +575,7 @@
     "diameter": null,
     "length": null,
     "filterSize": 52,
-    "minFocus": null,
+    "minFocus": 0.33,
     "maxMagnification": null,
     "elements": 7,
     "groups": 5,
@@ -584,11 +590,17 @@
         "title": "7ARTISANS 官方产品规格",
         "url": "https://7artisans.store/products/35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：七工匠日本正规代理规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002149/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "官方正文公布光学结构与叶片、滤镜；仍缺 E 专属重量尺寸及倍率。"
+      "官方正文公布光学结构与叶片、滤镜；仍缺 E 专属重量尺寸及倍率。",
+      "日本正规代理列最近对焦 0.33m。其尺寸重量附注因卡口而异，未标明所列数值属于 E 版本，因此不补填。"
     ],
     "verification": "partial"
   },
@@ -610,7 +622,7 @@
     "apertureTele": 5.6,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
+    "weight": 467,
     "diameter": 70,
     "length": 86,
     "filterSize": null,
@@ -629,11 +641,17 @@
         "title": "7ARTISANS 官方产品规格",
         "url": "https://7artisans.store/products/9mm-f-5-6-full-frame-wide-angle-lens-for-e-l-r-z",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：七工匠日本正规代理规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002165/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。34mm 为后置 ND，不作为前置旋入滤镜口径。"
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。34mm 为后置 ND，不作为前置旋入滤镜口径。",
+      "日本正规代理 Sony E 独立型号 7A-9F56-E-B 列重量约 467g。仅支持专用后置滤镜，不填前置滤镜口径。"
     ],
     "verification": "partial"
   },
@@ -704,7 +722,7 @@
     "diameter": null,
     "length": null,
     "filterSize": null,
-    "minFocus": null,
+    "minFocus": 0.3,
     "maxMagnification": null,
     "elements": 5,
     "groups": 4,
@@ -719,11 +737,17 @@
         "title": "7ARTISANS 官方产品规格",
         "url": "https://7artisans.store/products/35mm-f5-6",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：七工匠 35mm F5.6 无反版规格",
+        "url": "https://www.stkb.jp/shopdetail/000000001572/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "官网正文明确 5 片 4 组；固定 F5.6，不臆填叶片数。"
+      "官网正文明确 5 片 4 组；固定 F5.6，不臆填叶片数。",
+      "日本正规代理列最近对焦约 0.3m，固定 F5.6，不能安装滤镜。重量为跨卡口 155–180g，未据此补填 E 卡口定值。"
     ],
     "verification": "partial"
   }
