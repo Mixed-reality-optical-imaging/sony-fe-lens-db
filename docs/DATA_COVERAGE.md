@@ -30,7 +30,7 @@
 | 字段 | 已有值 | 空值 |
 |---|---:|---:|
 | 重量（g） | 287 | 12 |
-| 直径（mm） | 286 | 13 |
+| 直径（mm） | 287 | 12 |
 | 长度（mm） | 280 | 19 |
 | 滤镜口径（mm） | 267 | 32 |
 | 最近对焦距离（m） | 297 | 2 |
@@ -73,7 +73,7 @@
 | 100mm F2.8 Macro Tilt-Shift（ttartisan） | 重量（g）、直径（mm）、长度（mm） |
 | 50mm F1.4 Tilt（ttartisan） | 最大放大倍率（×） |
 | 50mm F2.0（ttartisan） | 重量（g）、直径（mm）、长度（mm）、最大放大倍率（×） |
-| 11mm F2.8 Fisheye（ttartisan） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
+| 11mm F2.8 Fisheye（ttartisan） | 重量（g）、长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
 | 90mm F1.25（ttartisan） | 重量（g）、长度（mm）、最大放大倍率（×） |
 | 21mm F1.5（ttartisan） | 最大放大倍率（×） |
 | 14mm F2.8 ASPH.（ttartisan） | 最大放大倍率（×） |

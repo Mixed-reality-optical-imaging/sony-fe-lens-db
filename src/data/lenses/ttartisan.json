@@ -448,7 +448,8 @@
     "name": "11mm F2.8 Fisheye",
     "model": "11mm F2.8 Fisheye",
     "aliases": [
-      "11mm F2.8 Fisheye Multi mount"
+      "11mm F2.8 Fisheye Multi mount",
+      "TT-11F28-E-S"
     ],
     "series": null,
     "generation": null,
@@ -461,7 +462,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
+    "diameter": 67,
     "length": null,
     "filterSize": null,
     "minFocus": 0.17,
@@ -479,11 +480,17 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/11mmf28",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房正規代理商：11mm F2.8 E/L/RF/Z 微单版规格",
+        "url": "https://www.stkb.jp/shopdetail/000000001355/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "官网区分无反/M 与单反：Sony E 采用无反栏 7 组 11 片、7 叶片、0.17m，不采用单反栏 10 组 12 片。无前置旋入滤镜。"
+      "官网区分无反/M 与单反：Sony E 采用无反栏 7 组 11 片、7 叶片、0.17m，不采用单反栏 10 组 12 片。无前置旋入滤镜。",
+      "代理商 E/L/RF/Z 微单版页面的共同直径为 67mm；长度仅给 85—89mm、重量约 490—510g，未逐卡口分配，因此两项单值继续留空。银色 Sony E 型号为 TT-11F28-E-S。不要混用另页单反版的 72mm 直径、580/595g 重量或 10 群 12 片结构。"
     ],
     "verification": "partial"
   },
