@@ -42,7 +42,8 @@
       }
     ],
     "notes": [
-      "Cosina E-mount 规格：最大倍率 1:22.7，换算为约 0.044×；无前置滤镜螺纹。"
+      "Cosina E-mount 规格：最大倍率 1:22.7，换算为约 0.044×；无前置滤镜螺纹。",
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
     ],
     "verification": "verified"
   },
@@ -89,7 +90,8 @@
       }
     ],
     "notes": [
-      "Cosina E-mount 规格：最大倍率 1:15.4，换算为约 0.065×。"
+      "Cosina E-mount 规格：最大倍率 1:15.4，换算为约 0.065×。",
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
     ],
     "verification": "verified"
   },
@@ -136,7 +138,8 @@
       }
     ],
     "notes": [
-      "Cosina E-mount 规格采用直径×长度 70.5×79.5mm。"
+      "Cosina E-mount 规格采用直径×长度 70.5×79.5mm。",
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
     ],
     "verification": "verified"
   },
@@ -182,7 +185,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -210,7 +215,7 @@
     "elements": 12,
     "groups": 8,
     "blades": 12,
-    "releaseDate": "2025-12-12",
+    "releaseDate": "2025-11-14",
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
@@ -225,9 +230,16 @@
         "title": "Cosina 官方 E 卡口产品目录及上市日期",
         "url": "https://www.cosina.co.jp/voigtlander/en/e-mount/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Cosina E-mount 官方发售通知：明确首次发布日与日本发售日",
+        "url": "https://www.cosina.co.jp/news/%E3%83%95%E3%82%A9%E3%82%AF%E3%83%88%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BCapo-lanthar-28mm-f2-aspherical-e-mount-%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "首次发布日为 2025-11-14；日本正式发售日为 2025-12-12。此前日期字段使用了发售日，本次按官方公告正文修正为首次发布日。"
+    ],
     "verification": "verified"
   },
   {
@@ -272,7 +284,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -317,7 +331,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -345,7 +361,7 @@
     "elements": 7,
     "groups": 6,
     "blades": 10,
-    "releaseDate": "2026-03-19",
+    "releaseDate": "2026-02-13",
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
@@ -360,9 +376,16 @@
         "title": "Cosina 官方 E 卡口产品目录及上市日期",
         "url": "https://www.cosina.co.jp/voigtlander/en/e-mount/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Cosina E-mount 官方发售通知：明确首次发布日与日本发售日",
+        "url": "https://www.cosina.co.jp/news/%E3%83%95%E3%82%A9%E3%82%AF%E3%83%88%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BCsepton-40mm-f2-aspherical-e-mount-%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "首次发布日为 2026-02-13；日本正式发售日为 2026-03-19。此前日期字段使用了发售日，本次按官方公告正文修正为首次发布日。"
+    ],
     "verification": "verified"
   },
   {
@@ -407,7 +430,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -452,7 +477,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -497,7 +524,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -542,7 +571,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -570,7 +601,7 @@
     "elements": 6,
     "groups": 3,
     "blades": 9,
-    "releaseDate": "2025-06-20",
+    "releaseDate": "2025-05-15",
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
@@ -585,9 +616,16 @@
         "title": "Cosina 官方 E 卡口产品目录及上市日期",
         "url": "https://www.cosina.co.jp/voigtlander/en/e-mount/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Cosina E-mount 官方发售通知：明确首次发布日与日本发售日",
+        "url": "https://www.cosina.co.jp/news/%E3%83%95%E3%82%A9%E3%82%AF%E3%83%88%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BCportrait-heliar-75mm-f1-8-e-mount-%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "首次发布日为 2025-05-15；日本正式发售日为 2025-06-20。此前日期字段使用了发售日，本次按官方公告正文修正为首次发布日。"
+    ],
     "verification": "verified"
   },
   {
@@ -615,7 +653,7 @@
     "elements": 7,
     "groups": 6,
     "blades": 12,
-    "releaseDate": "2024-07-17",
+    "releaseDate": "2024-06-14",
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
@@ -630,9 +668,16 @@
         "title": "Cosina 官方 E 卡口产品目录及上市日期",
         "url": "https://www.cosina.co.jp/voigtlander/en/e-mount/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Cosina E-mount 官方发售通知：明确首次发布日与日本发售日",
+        "url": "https://www.cosina.co.jp/news/%E3%83%95%E3%82%A9%E3%82%AF%E3%83%88%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC-nokton-75mm-f1-5-aspherical-e-mount-%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "首次发布日为 2024-06-14；日本正式发售日为 2024-07-17。此前日期字段使用了发售日，本次按官方公告正文修正为首次发布日。"
+    ],
     "verification": "verified"
   },
   {
@@ -677,7 +722,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期口径待补查：当前日期来自 Cosina E-mount 目录的日本发售日（発売日），并非已确认的首次发布日；后续取得公告后再修正。"
+    ],
     "verification": "verified"
   },
   {
@@ -705,7 +752,7 @@
     "elements": 10,
     "groups": 8,
     "blades": 12,
-    "releaseDate": "2025-01-23",
+    "releaseDate": "2024-12-13",
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
@@ -715,10 +762,16 @@
         "title": "VOIGTLANDER 官方产品规格",
         "url": "https://www.cosina.co.jp/voigtlander/e-mount/nokton-28mm-f1-5-aspherical/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Cosina E-mount 官方发售通知：明确首次发布日与日本发售日",
+        "url": "https://www.cosina.co.jp/news/%E3%83%95%E3%82%A9%E3%82%AF%E3%83%88%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BCnokton-28mm-f1-5-aspherical-e-mount-%E7%99%BA%E5%A3%B2%E6%97%A5%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "官方放大倍率 1:6.9，换算为 0.145×（四舍五入）。"
+      "官方放大倍率 1:6.9，换算为 0.145×（四舍五入）。",
+      "首次发布日为 2024-12-13；日本正式发售日为 2025-01-23。此前日期字段使用了发售日，本次按官方公告正文修正为首次发布日。"
     ],
     "verification": "verified"
   }
