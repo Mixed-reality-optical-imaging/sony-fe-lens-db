@@ -396,8 +396,8 @@
     "elements": 17,
     "groups": 13,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-09-09",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -406,9 +406,16 @@
         "title": "SIGMA 官方规格 · a025_35_12",
         "url": "https://www.sigma-global.com/en/lenses/a025_35_12/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方上市计划公告（明确包含 Sony E）",
+        "url": "https://www.sigma-global.com/en/news/2025/09/09/011116/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期字段为官方公告发布日；公告另列零售上市计划 2025-09-25，不将两者混用。"
+    ],
     "verification": "verified"
   },
   {
@@ -483,8 +490,8 @@
     "elements": 15,
     "groups": 12,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2026-02-24",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -493,9 +500,16 @@
         "title": "SIGMA 官方规格 · a026_35_14",
         "url": "https://www.sigma-global.com/en/lenses/a026_35_14/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方上市计划公告（明确包含 Sony E）",
+        "url": "https://www.sigma-global.com/en/news/2026/02/24/011999/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期字段为官方公告发布日；公告另列零售上市计划 2026-04-16，不将两者混用。"
+    ],
     "verification": "verified"
   },
   {
@@ -946,8 +960,8 @@
     "elements": 17,
     "groups": 13,
     "blades": 13,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-09-09",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -956,9 +970,16 @@
         "title": "SIGMA 官方规格 · a025_135_14",
         "url": "https://www.sigma-global.com/en/lenses/a025_135_14/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方上市计划公告（明确包含 Sony E）",
+        "url": "https://www.sigma-global.com/en/news/2025/09/09/011115/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期字段为官方公告发布日；公告另列零售上市计划 2025-09-25，不将两者混用。"
+    ],
     "verification": "verified"
   },
   {
@@ -1177,8 +1198,8 @@
     "elements": 18,
     "groups": 14,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-09-09",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1187,10 +1208,16 @@
         "title": "SIGMA 官方规格 · c025_20_200_35_63",
         "url": "https://www.sigma-global.com/en/lenses/c025_20_200_35_63/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方上市计划公告（明确包含 Sony E）",
+        "url": "https://www.sigma-global.com/en/news/2025/09/09/011130/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "日期字段为官方公告发布日；公告另列零售上市计划 2025-09-25，不将两者混用。",
+      "最近对焦距离 0.165m 对应 28mm；20mm 广角端为 0.25m，200mm 长焦端为 0.65m。最高倍率 1:2（0.5×）仅对应 28—85mm，不能视为所有焦段的倍率。"
     ],
     "verification": "verified"
   },
@@ -1603,8 +1630,8 @@
     "elements": 28,
     "groups": 21,
     "blades": 13,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-02-24",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1613,10 +1640,16 @@
         "title": "SIGMA 官方规格 · s025_300_600_4",
         "url": "https://www.sigma-global.com/en/lenses/s025_300_600_4/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方上市计划公告（明确包含 Sony E）",
+        "url": "https://www.sigma-global.com/en/news/2025/02/24/010843/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "日期字段为官方公告发布日；公告另列零售上市计划 2025-04（原公告仅精确到月），不将两者混用。",
+      "最近对焦距离：300mm 端 2.8m，600mm 端 4.5m；最高倍率 1:6（约 0.167×）在 470mm 取得。40.5mm 为后置滤镜口径，不是前置螺纹口径。"
     ],
     "verification": "verified"
   },
