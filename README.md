@@ -16,6 +16,8 @@ Follow-up regional review: 17 numerical values and one sales status added across
 
 七工匠后续复核：4 款镜头再补 5 个参数，卡口与叶片数冲突继续标注。[核验记录 / 7Artisans follow-up](docs/DATA_ENRICHMENT_2026-09-22_7ARTISANS.md)。Five further values added across four 7Artisans lenses; unresolved mount and diaphragm-count conflicts remain documented.
 
+适马日期复核：补齐 16 款日期，区分旧版公告日与更新版 Sony E 修订发售日。[日期核验 / Sigma date review](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_DATES.md)。Sixteen dates added with explicit announcement-versus-release notes; renewed Sony E models use the revised schedule.
+
 ### 仅供参考 / 数据准确性
 
 **本项目及全部镜头参数、价格、日期和销售状态仅供参考，不保证准确、完整或及时。** 人工整理、来源差异、卡口版本差异及厂商后续调整均可能造成错误或遗漏。记录中的“已核验”仅表示曾对照所列来源，不是厂商认证，也不构成准确性保证。购买、使用或判断兼容性前，请以对应型号与卡口的厂商最新规格、说明书和实际产品为准；不要仅依据本项目作出购买决定。
