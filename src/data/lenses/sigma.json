@@ -66,8 +66,8 @@
     "elements": 21,
     "groups": 15,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-02-20",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -76,10 +76,16 @@
         "title": "SIGMA 官方规格 · a024_15_14",
         "url": "https://www.sigma-global.com/en/lenses/a024_15_14/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/02/announcing-the-sigma-15mm-f1-4-dg-dn-diagonal-fisheye-art-and-sigma-500mm-f5-6-dg-dn-os-sports-lenses/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。"
+      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。",
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
     ],
     "verification": "verified"
   },
@@ -590,8 +596,8 @@
     "elements": 17,
     "groups": 12,
     "blades": 13,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-03-26",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -600,9 +606,16 @@
         "title": "SIGMA 官方规格 · a024_50_12",
         "url": "https://www.sigma-global.com/en/lenses/a024_50_12/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/03/announcing-the-50mm-f1-2-dg-dn-art-lens/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
+    ],
     "verification": "verified"
   },
   {
@@ -677,8 +690,8 @@
     "elements": 14,
     "groups": 11,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2023-02-07",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -687,9 +700,16 @@
         "title": "SIGMA 官方规格 · a023_50_14",
         "url": "https://www.sigma-global.com/en/lenses/a023_50_14/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/02/sigma-introduces-50mm-f1-4-dg-dn-art-lens/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
+    ],
     "verification": "verified"
   },
   {
@@ -971,8 +991,8 @@
     "elements": 20,
     "groups": 14,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-02-20",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -981,9 +1001,16 @@
         "title": "SIGMA 官方规格 · s024_500_56",
         "url": "https://www.sigma-global.com/en/lenses/s024_500_56/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/02/announcing-the-sigma-15mm-f1-4-dg-dn-diagonal-fisheye-art-and-sigma-500mm-f5-6-dg-dn-os-sports-lenses/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
+    ],
     "verification": "verified"
   },
   {
@@ -1144,8 +1171,8 @@
     "elements": 19,
     "groups": 15,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-05-16",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1154,10 +1181,16 @@
         "title": "SIGMA 官方规格 · a024_24_70_28_ii",
         "url": "https://www.sigma-global.com/en/lenses/a024_24_70_28_ii/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/05/sigma-announces-24-70mm-f2-8-dg-dn-ii-art-lens-an-upgraded-follow-up-to-its-popular-standard-zoom-for-full-frame-mirrorless-cameras/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
     ],
     "verification": "verified"
   },
@@ -1228,8 +1261,8 @@
     "elements": 18,
     "groups": 15,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-06-03",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1238,10 +1271,16 @@
         "title": "SIGMA 官方规格 · a024_28_45_18",
         "url": "https://www.sigma-global.com/en/lenses/a024_28_45_18/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/06/introducing-the-sigma-28-45mm-f1-8-dg-dn-art-the-first-full-frame-f1-8-zoom-lens-for-mirrorless-camera-systems/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
     ],
     "verification": "verified"
   },
@@ -1270,8 +1309,8 @@
     "elements": 18,
     "groups": 13,
     "blades": 12,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-09-05",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1280,10 +1319,16 @@
         "title": "SIGMA 官方规格 · a024_28_105_28",
         "url": "https://www.sigma-global.com/en/lenses/a024_28_105_28/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/09/sigma-announces-28-105mm-f2-8-dg-dn-art-lens-a-new-fast-aperture-zoom-with-extended-reach/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
     ],
     "verification": "verified"
   },
@@ -1312,8 +1357,8 @@
     "elements": 27,
     "groups": 19,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2023-01-12",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1322,10 +1367,16 @@
         "title": "SIGMA 官方规格 · s023_60_600_45_63",
         "url": "https://www.sigma-global.com/en/lenses/s023_60_600_45_63/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/01/sigma-introduces-60-600mm-f4-5-6-3-dg-dn-os-sports-lens/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
     ],
     "verification": "verified"
   },
@@ -1354,8 +1405,8 @@
     "elements": 20,
     "groups": 15,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2023-11-16",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1364,10 +1415,16 @@
         "title": "SIGMA 官方规格 · s023_70_200_28",
         "url": "https://www.sigma-global.com/en/lenses/s023_70_200_28/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/11/sigma-announces-release-of-70-200mm-f2-8-dg-dn-os-sports-lens/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
     ],
     "verification": "verified"
   },
@@ -1672,8 +1729,8 @@
     "elements": 19,
     "groups": 15,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2023-06-08",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -1687,9 +1744,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方 DG DN 产品发布稿",
+        "url": "https://press.sigmaphoto.com/product/06/sigma-announces-14mm-f1-4-dg-dn-art/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期采用 SIGMA 美国官方新闻稿的公告日期，不代表实际开售日或中国大陆到货日期；仅取发布信息，新闻稿中按 L 卡口计算的尺寸重量未覆盖 E 卡口参数。"
+    ],
     "verification": "verified"
   },
   {
