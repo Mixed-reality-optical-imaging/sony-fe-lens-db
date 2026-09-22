@@ -986,8 +986,8 @@
     "elements": 19,
     "groups": 14,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-08-19",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -996,9 +996,16 @@
         "title": "SIGMA 官方规格 · s025_200_2",
         "url": "https://www.sigma-global.com/en/lenses/s025_200_2/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方产品发布／上市计划公告",
+        "url": "https://www.sigma-global.com/en/news/2025/08/19/011091",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期字段采用官方公告发布日。官方上市计划公告包括 Sony E，另列上市日 2025-09-04。"
+    ],
     "verification": "verified"
   },
   {
@@ -1500,8 +1507,8 @@
     "elements": 22,
     "groups": 16,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2020-06-18",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1510,10 +1517,16 @@
         "title": "SIGMA 官方规格 · c020_100_400_5_63",
         "url": "https://www.sigma-global.com/en/lenses/c020_100_400_5_63/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方产品发布／上市计划公告",
+        "url": "https://www.sigma-global.com/jp/news/2020/06/18/1119/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
+      "日期字段采用官方公告发布日。日本公告另列 Sony E 零售上市日 2020-07-10。"
     ],
     "verification": "verified"
   },
@@ -1542,8 +1555,8 @@
     "elements": 25,
     "groups": 15,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-08-04",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1552,10 +1565,16 @@
         "title": "SIGMA 官方规格 · s021_150_600_5_63",
         "url": "https://www.sigma-global.com/en/lenses/s021_150_600_5_63/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方产品发布／上市计划公告",
+        "url": "https://www.sigma-global.com/jp/news/2021/08/04/16051/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。"
+      "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
+      "日期字段采用官方公告发布日。日本公告另列 Sony E 零售上市日 2021-08-27。"
     ],
     "verification": "verified"
   },
@@ -1932,8 +1951,8 @@
     "elements": 13,
     "groups": 11,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-09-09",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -1947,9 +1966,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方产品发布／上市计划公告",
+        "url": "https://www.sigma-global.com/jp/news/2021/09/09/16502/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期字段采用官方公告发布日。日本公告另列 Sony E 零售上市日 2021-09-24。"
+    ],
     "verification": "verified"
   },
   {
@@ -2341,8 +2367,8 @@
     "elements": 19,
     "groups": 15,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2019-11-06",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2356,9 +2382,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方产品发布／上市计划公告",
+        "url": "https://press.sigmaphoto.com/corporate/11/sigma-announces-new-24-70mm-f2-8-dg-dn-art-zoom-lens-for-full-frame-mirrorless-cameras-available-in-sony-e-mount-and-l-mount/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期字段采用官方公告发布日。美国正式发布稿明确包括 Sony E；稿中上市时间仅为当时预告，不据此认定实际交付日。"
+    ],
     "verification": "verified"
   },
   {
