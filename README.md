@@ -18,6 +18,8 @@ Follow-up regional review: 17 numerical values and one sales status added across
 
 适马日期复核：补齐 16 款日期，区分旧版公告日与更新版 Sony E 修订发售日。[日期核验 / Sigma date review](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_DATES.md)。Sixteen dates added with explicit announcement-versus-release notes; renewed Sony E models use the revised schedule.
 
+适马历史复核：另补 12 款原生 E 版本公告日期，避免混用单反版本年份。[历史核验 / Historical Sony E review](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_HISTORY.md)。Twelve additional Sony E announcement dates verified; earlier DSLR launch years are not used.
+
 ### 仅供参考 / 数据准确性
 
 **本项目及全部镜头参数、价格、日期和销售状态仅供参考，不保证准确、完整或及时。** 人工整理、来源差异、卡口版本差异及厂商后续调整均可能造成错误或遗漏。记录中的“已核验”仅表示曾对照所列来源，不是厂商认证，也不构成准确性保证。购买、使用或判断兼容性前，请以对应型号与卡口的厂商最新规格、说明书和实际产品为准；不要仅依据本项目作出购买决定。

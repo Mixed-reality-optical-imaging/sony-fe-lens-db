@@ -1011,8 +1011,8 @@
     "elements": 18,
     "groups": 13,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2019-07-10",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -1021,11 +1021,17 @@
         "title": "SIGMA 官方规格 · a019_14_24_28",
         "url": "https://www.sigma-global.com/en/lenses/a019_14_24_28/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://press.sigmaphoto.com/corporate/07/sigma-14-24mm-f2-8-dg-dn-press-release/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "最近对焦距离取官方列出的最短值；放大倍率取官方列出的最大值，具体焦段和对焦模式请参见原始规格。",
-      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。"
+      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。",
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
     ],
     "verification": "verified"
   },
@@ -1516,8 +1522,8 @@
     "elements": 16,
     "groups": 11,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -1531,10 +1537,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。"
+      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。",
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
     ],
     "verification": "verified"
   },
@@ -1608,8 +1620,8 @@
     "elements": 13,
     "groups": 10,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": true,
     "price": null,
@@ -1623,9 +1635,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -1899,8 +1918,8 @@
     "elements": 17,
     "groups": 12,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2019-07-10",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -1914,9 +1933,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://press.sigmaphoto.com/product/07/sigma-35mm-f1-2-dg-dn-press-release/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -1996,8 +2022,8 @@
     "elements": 8,
     "groups": 7,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2019-07-10",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2011,9 +2037,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://press.sigmaphoto.com/corporate/07/sigma-45mm-f2-8-dg-dn-press-release/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -2242,8 +2275,8 @@
     "elements": 15,
     "groups": 11,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2257,9 +2290,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -2287,8 +2327,8 @@
     "elements": 15,
     "groups": 11,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2302,9 +2342,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -2332,8 +2379,8 @@
     "elements": 13,
     "groups": 11,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2352,10 +2399,16 @@
         "title": "厂家官方规格补充",
         "url": "https://www.sigma-global.com/jp/lenses/a012_35_14/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "适马日文官方规格明确列 Sony E：77×120mm、734g；不使用 SA 或 L 卡口数值。"
+      "适马日文官方规格明确列 Sony E：77×120mm、734g；不使用 SA 或 L 卡口数值。",
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
     ],
     "verification": "verified"
   },
@@ -2429,8 +2482,8 @@
     "elements": 13,
     "groups": 8,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2444,9 +2497,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -2474,8 +2534,8 @@
     "elements": 14,
     "groups": 12,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2489,9 +2549,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -2519,8 +2586,8 @@
     "elements": 17,
     "groups": 12,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2534,9 +2601,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -2564,8 +2638,8 @@
     "elements": 13,
     "groups": 10,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-02-27",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2579,9 +2653,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方 Sony E 版本发布公告",
+        "url": "https://www.sigma-photo.fr/content/242-objectifs-art-pour-boitiers-a-capteur-plein-format-sony-fe",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
+    ],
     "verification": "verified"
   }
 ]
