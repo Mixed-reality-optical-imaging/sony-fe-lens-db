@@ -815,8 +815,8 @@
     "elements": 6,
     "groups": 5,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2016-03-30",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -825,12 +825,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel50f18f/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国 2016 年官方发布资料：FE 50mm F1.8",
+        "url": "https://www.sony.com.cn/newscenter/2630.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.45 m (1.48 ft)",
-      "厂商放大倍率原始值：0.14 x"
+      "厂商放大倍率原始值：0.14 x",
+      "日期采用中国官方正文的正式发布日，非网页刊登日或预售日。"
     ],
     "verification": "verified"
   },
@@ -859,22 +865,39 @@
     "elements": 12,
     "groups": 9,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2016-07-12",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国 2016 年官方发布资料：FE 50mm F1.4 ZA",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2016/20160712.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel50f14z/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国 2016 年官方发布资料：FE 50mm F1.4 ZA",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2016/20160712.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.45 m (1.48 ft)",
-      "厂商放大倍率原始值：0.15 x"
+      "厂商放大倍率原始值：0.15 x",
+      "日期采用中国官方正文的正式发布日，非网页刊登日或预售日。",
+      "人民币价格为历史上市预售价格，不代表当前成交价。"
     ],
     "verification": "verified"
   },
@@ -903,8 +926,8 @@
     "elements": 8,
     "groups": 7,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2016-08-30",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": true,
     "price": null,
@@ -913,12 +936,19 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel50m28/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国 2016 年官方发布资料：FE 50mm F2.8 Macro",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2016/20160901.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.16 m (0.53 ft)",
-      "厂商放大倍率原始值：1"
+      "厂商放大倍率原始值：1",
+      "日期采用中国官方正文的正式发布日，非网页刊登日或预售日。",
+      "官方发布稿区分最近对焦距离 0.16m 与小于 50mm 的工作距离；工作距离不替代从成像面计量的最近对焦距离。"
     ],
     "verification": "verified"
   },
@@ -2568,8 +2598,8 @@
     "elements": 16,
     "groups": 13,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2016-03-30",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -2578,12 +2608,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel70300g/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国 2016 年官方发布资料：FE 70-300mm F4.5-5.6 G OSS",
+        "url": "https://www.sony.com.cn/newscenter/2630.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.9 m (2.96 ft)",
-      "厂商放大倍率原始值：0.31 x"
+      "厂商放大倍率原始值：0.31 x",
+      "日期采用中国官方正文的正式发布日，非网页刊登日或预售日。"
     ],
     "verification": "verified"
   },
@@ -2838,18 +2874,35 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 20999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国 2016 年官方发布资料：FE 70-200mm F2.8 GM OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2016/20160712.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel70200gm/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国 2016 年官方发布资料：FE 70-200mm F2.8 GM OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2016/20160712.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.96m",
-      "厂商放大倍率原始值：0.25x"
+      "厂商放大倍率原始值：0.25x",
+      "2016-07-12 公告仅补充上市价格，不能据此认定镜头首次发布日。",
+      "人民币价格为历史上市指导价，不代表当前成交价。"
     ],
     "verification": "verified"
   },
