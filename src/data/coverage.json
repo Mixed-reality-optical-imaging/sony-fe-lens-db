@@ -1,0 +1,1535 @@
+[
+  {
+    "brand": "sigma",
+    "model": "12mm F1.4 DC",
+    "url": "https://www.sigma-global.com/en/lenses/c025_12_14/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "15mm F1.4 DC",
+    "url": "https://www.sigma-global.com/en/lenses/c026_15_14/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "16mm F1.4 DC DN",
+    "url": "https://www.sigma-global.com/en/lenses/c017_16_14/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "23mm F1.4 DC DN",
+    "url": "https://www.sigma-global.com/en/lenses/c023_23_14/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "30mm F1.4 DC DN",
+    "url": "https://www.sigma-global.com/en/lenses/c016_30_14/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "56mm F1.4 DC DN",
+    "url": "https://www.sigma-global.com/en/lenses/c018_56_14/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "10–18mm F2.8 DC DN",
+    "url": "https://www.sigma-global.com/en/lenses/c023_10_18_28/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "16–300mm F3.5–6.7 DC OS",
+    "url": "https://www.sigma-global.com/en/lenses/c025_16_300_35_67/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "17–40mm F1.8 DC",
+    "url": "https://www.sigma-global.com/en/lenses/a025_17_40_18/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "sigma",
+    "model": "18–50mm F2.8 DC DN",
+    "url": "https://www.sigma-global.com/en/lenses/c021_18_50_28/",
+    "status": "excluded",
+    "reason": "非全画幅或未提供 Sony E 卡口"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 90mm F2.2 EVO APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/af-90mm-f2-2-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 75mm F1.8 EVO APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/af-75mm-f1-8-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 9mm F2.8 Air APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/af-9mm-f2-8-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 56mm F1.2 Pro APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/af-56mm-f1-2-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 15mm F1.7 Air APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/af-15mm-f1-7-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 25mm F1.7 Air APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/af-25mm-f1-7-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 35mm F1.7 Air APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/viltrox-af-35mm-f1-7-aps-c-lens-for-sony-e-mount",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 56mm F1.7 Air APS-C Lens for Sony E-mount",
+    "url": "https://viltrox.com/products/af-56mm-f1-7-aps-c-lens-for-sony-e-mount",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 27mm F1.2 Pro APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/viltrox-27mm-f1-2-e-z",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 75mm F1.2 Pro APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/viltrox-75mm-f1-2-e-z-pro-lens",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox EPIC 35mm/50mm/75mm T2.0 1.33X Full-Frame Anamorphic Cine Lens",
+    "url": "https://viltrox.com/products/anamorphic-35-50-75mm-t20-1-33x-pl-mount-cine-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 13mm F1.4 APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/auto-focus-13mmf14-e-mount-aps-c-prime-lens",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 56mm F1.4 APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/viltrox-autofocus-56mm-f1-4-e-mount-prime-lens",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox AF 33mm F1.4 APS-C Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/viltrox-33mm-f1-4-e-mount-autofocus-prime-lens",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "viltrox",
+    "model": "Viltrox MF 20mm T2.0 Full-Frame Cine Lens for Sony E-Mount",
+    "url": "https://viltrox.com/products/viltrox-s-20mm-t2-0-fe-prime-cinematic-mf-wide-lens-for-sony-e-mount-camera",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "Rokinon Remaster Slim 3 Lens System •21mm •28mm •32mm (Sony FE)",
+    "url": "https://samyangus.com/products/samyang-remaster-slim-3-lens-system-21mm-28mm-32mm-sony-fe",
+    "status": "pending",
+    "reason": "组合套装或可换光学模块，需要逐型号拆分核验"
+  },
+  {
+    "brand": "samyang",
+    "model": "20mm T1.9 Full Frame Cine Auto Focus for Sony E",
+    "url": "https://samyangus.com/products/20mm-t1-9-full-frame-cine-auto-focus-for-sony-e",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "100mm T2.3 Full Frame Telephoto Cine Auto Focus for Sony E",
+    "url": "https://samyangus.com/products/100mm-t2-3-full-frame-cine-auto-focus-for-sony-e",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "85mm T1.5 Full Frame VDSLR II Cine",
+    "url": "https://samyangus.com/products/85mm-t1-5-full-frame",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "50mm T1.5 Full Frame VDSLR II Cine",
+    "url": "https://samyangus.com/products/50mm-t1-5-full-frame",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "14mm T2.6 XEEN Meister Professional Cinema Lens",
+    "url": "https://samyangus.com/products/14mm-t2-6-xeen-meister-professional-cinema-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "24mm T1.3 XEEN Meister Professional Cinema Lens",
+    "url": "https://samyangus.com/products/24mm-t1-3-xeen-meister-professional-cinema-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "45mm T1.9 Full Frame Cine Auto Focus for Sony E",
+    "url": "https://samyangus.com/products/45mm-t1-9-full-frame-cine-auto-focus-for-sony-e",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "35mm T1.9 Full Frame Cine Auto Focus for Sony E",
+    "url": "https://samyangus.com/products/35mm-t1-9-full-frame-cine-auto-focus-for-sony-e",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "24mm T1.9 Full Frame Cine Auto Focus for Sony E",
+    "url": "https://samyangus.com/products/24mm-t1-9-full-frame-cine-auto-focus-for-sony-e",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "75mm T1.9 Full Frame Cine Auto Focus for Sony E",
+    "url": "https://samyangus.com/products/75mm-t1-9-full-frame-cine-auto-focus-for-sony-e",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "135mm T2.2 Telephoto XEEN CF Pro Cinema Lens",
+    "url": "https://samyangus.com/products/135mm-t2-2-telephoto-xeen-cf-pro-cinema-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "85mm T1.3 XEEN Meister Professional Cinema Lens",
+    "url": "https://samyangus.com/products/85mm-t1-3-xeen-meister-professional-cinema-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "50mm T1.3 XEEN Meister Professional Cinema Lens",
+    "url": "https://samyangus.com/products/50mm-t1-3-xeen-meister-professional-cinema-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "35mm T1.3 XEEN Meister Professional Cinema Lens",
+    "url": "https://samyangus.com/products/35mm-t1-3-xeen-meister-professional-cinema-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "12mm F2.0 AF Compact Ultra Wide Angle APS-C (Sony E)",
+    "url": "https://samyangus.com/products/12mm-f2-0-af-compact-ultra-wide-angle-aps-c-sony-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "samyang",
+    "model": "8mm F3.5 HD Fisheye",
+    "url": "https://samyangus.com/products/8mm-f3-5-hd-fisheye",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "samyang",
+    "model": "10mm F2.8 Ultra Wide Angle",
+    "url": "https://samyangus.com/products/10mm-f2-8-ultra-wide-angle",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "samyang",
+    "model": "16mm F2.0 High Speed Wide Angle",
+    "url": "https://samyangus.com/products/16mm-f2-0-high-speed-wide-angle",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "samyang",
+    "model": "8mm F2.8 Compact Fisheye",
+    "url": "https://samyangus.com/products/8mm-f2-8-fisheye",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "samyang",
+    "model": "12mm F2.0 High Speed Ultra Wide Angle",
+    "url": "https://samyangus.com/products/12mm-f2-0-high-speed-wide-angle",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "samyang",
+    "model": "85mm F1.8 Compact High Speed",
+    "url": "https://samyangus.com/products/85mm-f1-8-high-speed",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "samyang",
+    "model": "14mm T3.1 Full Frame Ultra Wide Angle",
+    "url": "https://samyangus.com/products/14mm-t3-1-full-frame-ultra-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "24mm T1.5 Full Frame Wide Angle",
+    "url": "https://samyangus.com/products/24mm-t1-5-full-frame-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "35mm T1.5 Full Frame Wide Angle VDSLR II Cine",
+    "url": "https://samyangus.com/products/35mm-t1-5-full-frame-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "135mm T2.2 Full Frame Telephoto",
+    "url": "https://samyangus.com/products/135mm-t2-2-full-frame-telephoto",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "14mm T3.1 Ultra Wide Angle XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/14mm-t3-1-ultra-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "16mm T2.6 Ultra Wide Angle XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/16mm-t2-6-ultra-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "20mm T1.9 Wide Angle XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/20mm-t1-9-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "24mm T1.5 Wide Angle XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/24mm-t1-5-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "35mm T1.5 Wide Angle XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/35mm-t1-5-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "50mm T1.5 XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/50mm-t1-5",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "85mm T1.5 Telephoto XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/85mm-t1-5-telephoto",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "135mm T2.2 Telephoto XEEN Pro Cinema Lens",
+    "url": "https://samyangus.com/products/135mm-t2-2-telephoto",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "16mm T2.6 Ultra Wide Angle XEEN CF Pro Cinema Lens",
+    "url": "https://samyangus.com/products/16mm-t2-6-xeen-cf",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "24mm T1.5 Wide Angle XEEN CF Pro Cinema Lens",
+    "url": "https://samyangus.com/products/24mm-t1-5-xeen-cf",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "35mm T1.5 Wide Angle XEEN CF Pro Cinema Lens",
+    "url": "https://samyangus.com/products/35mm-t1-5",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "50mm T1.5 XEEN CF Pro Cinema Lens",
+    "url": "https://samyangus.com/products/50mm-t1-5-xeen-cf",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "85mm T1.5 Telephoto XEEN CF Pro Cinema Lens",
+    "url": "https://samyangus.com/products/85mm-t1-5-xeen-cf",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "8mm T3.8 Compact HD Fisheye",
+    "url": "https://samyangus.com/products/8mm-t3-8-hd-fisheye",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "300mm F6.3 Catadioptric Compact Telephoto for Mirrorless Cameras",
+    "url": "https://samyangus.com/products/copy-of-300mm-f6-3-catadioptric-compact-telephoto-for-mirrorless-cameras",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "samyang",
+    "model": "24mm T1.5 Full Frame Wide Angle VDSLR MK2 Cine",
+    "url": "https://samyangus.com/products/copy-of-24mm-t1-5-full-frame-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "35mm T1.5 Full Frame Wide Angle VDSLR MK2 Cine",
+    "url": "https://samyangus.com/products/copy-of-35mm-t1-5-full-frame-wide-angle",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "50mm T1.5 Full Frame VDSLR MK2 Cine",
+    "url": "https://samyangus.com/products/copy-of-50mm-t1-5-full-frame",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "samyang",
+    "model": "85mm T1.5 High Speed Full Frame Telephoto VDSLR MK2 Cine",
+    "url": "https://samyangus.com/products/copy-of-85mm-t1-5-full-frame",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "TTARTISAN AF 17mm f1.8 Air",
+    "url": "https://ttartisan.store/products/af-17mm-f1-8-air",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "Tilt-Shift 17mm F4 ASPH.",
+    "url": "https://ttartisan.store/products/tilt-shift-17mm-f4-asph",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "14mm F2.8 ASPH.",
+    "url": "https://ttartisan.store/products/14mm-f2-8",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "Tilt APS-C 35mm F1.4",
+    "url": "https://ttartisan.store/products/tilt-35mm-f1-4",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "35mm/50mm/85mm Dual Bokeh Cine",
+    "url": "https://ttartisan.store/products/ttartisan-cine-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "TTARTISAN AF 14mm F3.5",
+    "url": "https://ttartisan.store/products/ttartisan-af-14mm-f3-5",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "TTARTISAN AF 23mm F1.8",
+    "url": "https://ttartisan.store/products/ttartisan-af-23mm-f1-8",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "TTARTISAN AF 35mm F1.8 Ⅱ",
+    "url": "https://ttartisan.store/products/ttartisan-af-35mm-f1-8",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "TTARTISAN AF 56mm F1.8",
+    "url": "https://ttartisan.store/products/56mm",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 10mm F2 ASPH.",
+    "url": "https://ttartisan.store/products/102",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "TTARTISAN AF 35mm F1.8",
+    "url": "https://ttartisan.store/products/351-8",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 35mm F0.95",
+    "url": "https://ttartisan.store/products/aps-c-35mm-f0-95",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "TTARTISAN AF 27mm F2.8",
+    "url": "https://ttartisan.store/products/af27",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 25mm F2",
+    "url": "https://ttartisan.store/products/aps-c-25mm-f2",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 50mm F0.95",
+    "url": "https://ttartisan.store/products/aps-c-50mm-f0-95",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 35mm F1.4",
+    "url": "https://ttartisan.store/products/aps-c-35mm-f1-4",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 23mm F1.4",
+    "url": "https://ttartisan.store/products/aps-c-23mm-f1-4-black",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 40mm F2.8 Macro",
+    "url": "https://ttartisan.store/products/aps-c-40mm-f2-8-marco",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 7.5mm F2",
+    "url": "https://ttartisan.store/products/aps-c-7-5mm-f2",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "50mm F1.4 Multi mount",
+    "url": "https://ttartisan.store/products/50mm-f1-4-asph",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 17mm F1.4",
+    "url": "https://ttartisan.store/products/ttartisan-17mm-f1-4-apsc-lens",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "ttartisan",
+    "model": "APS-C 50mm F1.2",
+    "url": "https://ttartisan.store/products/ttartisan-50mm-f1-2",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 35mm/50mm/75mm T1.5 Full Frame Cine Lens for E/L/Z/RF",
+    "url": "https://7artisans.store/products/mf-35-50-75mm-t1-5-full-frame-cine-lens-for-e-l-z-rf",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "AF 25/35/50mm F1.8 APS-C Lens for E/FX/Z",
+    "url": "https://7artisans.store/products/af-25-35-50mm-f1-8-aps-c-lens-for-e-fx-z",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 6mm f/2.0 APS-C Lens for Sony E/Fuji X/EOS-R/Nikon Z/Panasonic/Olympus M43",
+    "url": "https://7artisans.store/products/mf-6mm-f-2-0-aps-c-lens-for-sony-e-fuji-x-eos-r-nikon-z-panasonic-olympus-m43",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 50mm f/1.2 APS-C Lens for Sony E/Fuji X/Nikon Z/Panasonic/Olympus M43",
+    "url": "https://7artisans.store/products/mf-50mm-f-1-2-aps-c-lens-for-sony-e-fuji-x-eos-r-nikon-z-panasonic-olympus-m43",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "AF 10mm F2.8 Ultra Wide-angle APS-C Lens for E/FX/Z",
+    "url": "https://7artisans.store/products/af-10mm-f2-8-aps-c-lens-for-e-fx-z",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 65mm T2.9 Full Frame Macro Cine Lens for Sony E/Nikon Z/Canon EOS-R",
+    "url": "https://7artisans.store/products/65mm-t2-9-full-frame-macro-cine-lens-for-sony-e-nikon-z-canon-eos-r",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 10mm f/3.5 APS-C Ultra Wide Angle Lens for Sony E/Fuji X/Nikon Z/ Panasonic/Olympus M43",
+    "url": "https://7artisans.store/products/10mm-f-3-5-aps-c-lens-for-sony-e-fuji-x-nikon-z-panasonic-olympus-m43",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 120mm T2.9 Full-frame Macro 2X Lens for E/EOS-R/Z/L",
+    "url": "https://7artisans.store/products/120mm-t2-9-full-frame-macro-2x-lens-for-e-eos-r-z-l",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 10mm/16mm/25mm/35mm/50mm/85mm T2.1 S35 Cine Lens for E/FX/M43/RF",
+    "url": "https://7artisans.store/products/10",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "AF 27mm F2.8 APS-C Lens for E",
+    "url": "https://7artisans.store/products/27mm-f2-8-af-aps-c-lens-for-e",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 50mm F1.4 APS-C Tilt Shift Lens for E (Full-frame and APS-C)/FX/M43",
+    "url": "https://7artisans.store/products/50mm-f1-4-aps-c-tilt-lens-for-e-fx-m43",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 14mm T2.9 Full Frame Cine Lens for E/EOS-R/Z/L",
+    "url": "https://7artisans.store/products/14mm-t2-9-full-frame-cine-lens-for-sony-e-fx3-leica-sigma-l-sl-nikon-z-z50-canon-eos-r-eos-r5",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 18mm f/6.3 Mark II APS-C lens for E/FX/Nikon Z/ Panasonic/Olympus M43",
+    "url": "https://7artisans.store/products/18mm-f-6-3-mark-ii-aps-c-lens-for-sony-e-fujifilm-x-nikon-z",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 12mm f/2.8 Mark II APS-C lens for Sony E/Fuji X/EOS-R/M43",
+    "url": "https://7artisans.store/products/12mm-f-2-8-aps-c-lens-for-e-eos-m-fx-m43-z",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 12mm T2.9 APS-C MF Cine Lens for E/FX/M43/EOS-R/Z/L",
+    "url": "https://7artisans.store/products/12mm-t2-9-aps-c-mf-cine-lens-for-fujifilm-x-sony-e-m43-canon-rf-nikon-z-sigma-l-panasonic-l-leica-l-cl-tl",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 35mm T1.05 APS-C MF Cine Lens for E/FX/M43/EOS-R/L",
+    "url": "https://7artisans.store/products/35mm-t-1-05-aps-c-lens-for-e-fx-m43-eos-r-l",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 4mm f/2.8 lens for E/FX/M43",
+    "url": "https://7artisans.store/products/4mm-f-2-8-aps-c-lens-for-e-eos-m-fx-m43",
+    "status": "pending",
+    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 85mm T2.0 Full Frame Cine Lens for E/EOS-R/L/Z",
+    "url": "https://7artisans.store/products/85mm-t2-0-full-frame-cine-lens-for-sony-e-nikon-z-panasonic-l",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 50mm T2.0 Full Frame Cine Lens for E/EOS-R/Z/L",
+    "url": "https://7artisans.store/products/50mm-t2-0-full-frame-cine-lens-for-sony-e-nikon-z-panasonic-l",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 35mm T2.0 Full Frame Cine Lens for E/L/Z/RF",
+    "url": "https://7artisans.store/products/35mm-t2-0-full-frame-cine-lens-for-sony-e-nikon-z-panasonic-l",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 55mm f/1.4 APS-C lens for FX",
+    "url": "https://7artisans.store/products/55mm-f1-4",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 50mm T1.05 APS-C MF Cine Lens for E/FX/M43/EOS-R/L",
+    "url": "https://7artisans.store/products/50mm-t-1-05-aps-c-lens-for-e-fx-m43-eos-r-l",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 25mm T1.05 APS-C MF Cine Lens for E/FX/M43/EOS-R/L",
+    "url": "https://7artisans.store/products/25mm-t-1-05-aps-c-lens-for-e-fx-m43-eos-r-l",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 25mm f/1.8 APS-C lens for E/M43/FX/Z",
+    "url": "https://7artisans.store/products/25mm-f1-8",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 35mm f/1.4 APS-C for E/FX/M43/EOS-R/Z",
+    "url": "https://7artisans.store/products/7artisans-35mm-f1-4-apsc",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 25mm f/0.95 APS-C lens for E/FX/Z",
+    "url": "https://7artisans.store/products/25mm-f0-95",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 50mm f/0.95 APS-C lens for E/EOS-R/FX/M43/Z",
+    "url": "https://7artisans.store/products/7artisans-50mm-f0-95-large-aperture-manual-focus-prime-fixed-lens-aps-c-for-sony-e-nikon-z-fuji-fx-canon-eos-m-olympus-m43",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 60mm f/2.8 Mark II APS-C lens for E/EOS-R/FX/M43/Z/L",
+    "url": "https://7artisans.store/products/7artisans-60mm-f2-8-mark-ii-macro-lens-for-sony-e-fuji-fx-canon-eos-m-olympus-m43-nikon-z-mirrorless-cameras",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 35mm f/1.2 Mark II APS-C lens for E/FX/M43/Z",
+    "url": "https://7artisans.store/products/7artisans-35mm-f1-2-ii",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 50mm f/1.8 APS-C lens for E/EOS-M/FX/M43",
+    "url": "https://7artisans.store/products/50mm-f1-8",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 35mm f/0.95 APS-C lens for Z/EOS-R",
+    "url": "https://7artisans.store/products/35mm-0-95",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "7artisans",
+    "model": "MF 7.5mm f/2.8 Mark II APS-C lens for E/EOS-R/FX/M43/Z",
+    "url": "https://7artisans.store/products/7-5mm-f2-8-mk-ii",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "Saturn V2 Series 35/50/75mm T2.9 1.6x Full-Frame Horizontal/Vertical Anamorphic Lens",
+    "url": "https://store.sirui.com/products/saturn-v2-series-full-frame-anamorphic-cine-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "B Ware SIRUI 75mm F1.8 1.33X APS-C Anamorphic Lens",
+    "url": "https://store.sirui.com/products/bware-sirui-75mm-f1-8-1-33x-aps-c-anamorphic-lens-unwrap-only",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "B Ware SIRUI 50mm F1.8 1.33x APS-C Anamorphic Lens",
+    "url": "https://store.sirui.com/products/bware-sirui-50mm-f1-8-1-33x-aps-c-anamorphic-lens-unwrap-only",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "B Ware SIRUI 35mm F1.8 1.33x M4/3 Anamorphic Lens",
+    "url": "https://store.sirui.com/products/bware-sirui-35mm-f1-8-1-33x-m4-3-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "B Ware SIRUI 24mm F2.8 1.33x Anamorphic Lens APS-C Lens",
+    "url": "https://store.sirui.com/products/bware-sirui-24mm-f2-8-1-33x-anamorphic-lens-aps-c-camera-lens",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Astra 50/75/100mm T1.8 1.33x Full-Frame Autofocus Anamorphic Cine Lens",
+    "url": "https://store.sirui.com/products/sirui-astra-series-1-33x-full-frame-auto-focus-anamorphic-cine-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI 20mm T1.8 1.33X S35 Frame Autofocus Anamorphic Lens",
+    "url": "https://store.sirui.com/products/sirui-20mm-t1-8-1-33x-s35-af-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI 40mm T1.8 1.33X S35 Frame Autofocus Anamorphic Lens",
+    "url": "https://store.sirui.com/products/sirui-40mm-t1-8-1-33x-s35-frame-autofocus-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Sniper 16/23/33/56/75mm F1.2 APS-C Frame Autofocus Lens",
+    "url": "https://store.sirui.com/products/sirui-sniper-series-16-75mm-f1-2-aps-c-frame-autofocus-lens-set",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Saturn V1 Series 35/50/75mm T2.9 1.6x Full-Frame Carbon Fiber Anamorphic Lens",
+    "url": "https://store.sirui.com/products/saturn-35mm-50mm-75mm-full-frame-carbon-fiber-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Sniper Series 23/33/56mm F1.2 APS-C Frame Autofocus Lens",
+    "url": "https://store.sirui.com/products/sirui-sniper-series-f1-2-aps-c-autofocus-lens-set",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Venus 150mm T2.9 1.6x Full-Frame Anamorphic Lens",
+    "url": "https://store.sirui.com/products/venus-150mm-t2-9-1-6x-full-frame-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Venus 35/50/75/100/135/150mm T2.9 1.6x Full-Frame Anamorphic Lens",
+    "url": "https://store.sirui.com/products/sirui-venus-anamorphic-lens-kit",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Venus 135mm T2.9 1.8x Full-Frame Anamorphic Lens",
+    "url": "https://store.sirui.com/products/sirui-135mm-t2-9-1-8x-full-frame-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Saturn V1 Series 35mm Full-frame Carbon Fiber Anamorphic Lens",
+    "url": "https://store.sirui.com/products/sirui-saturn-35mm-full-frame-carbon-fiber-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Venus 35mm /100mm 1.6x Full-Frame Anamorphic Lenses",
+    "url": "https://store.sirui.com/products/sirui-35mm-100mm-1-6x-full-frame-anamorphic-lenses",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Venus 75mm T2.9 1.6x Full-Frame Anamorphic Lens",
+    "url": "https://store.sirui.com/products/75mm-t2-9-1-6x-full-frame-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI Venus 50mm T2.9 1.6x Full-Frame Anamorphic Lens",
+    "url": "https://store.sirui.com/products/50mm-t2-9-1-6x-full-frame-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI 75mm F1.8 1.33X APS-C Anamorphic Lens",
+    "url": "https://store.sirui.com/products/75mm-anamorphic-lens-aps-c",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI 24mm F2.8 1.33x Anamorphic Lens APS-C Lens",
+    "url": "https://store.sirui.com/products/sirui-24mm-anamorphic-lens",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI 35mm F1.8 1.33x M4/3 Anamorphic Lens",
+    "url": "https://store.sirui.com/products/sirui-35mm-anamorphic-lens",
+    "status": "excluded",
+    "reason": "专用电影镜头"
+  },
+  {
+    "brand": "sirui",
+    "model": "SIRUI 50mm F1.8 1.33x APS-C Anamorphic Lens",
+    "url": "https://store.sirui.com/products/sirui-50mm-f1-8-anamorphic-lens-1-33x",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "laowa",
+    "model": "0.7x Focal Reducer voor EF Probe Lens (EF-E)",
+    "url": "https://www.laowa.nl/0-7x-focal-reducer-voor-ef-probe-lens-ef-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "0.7x Focal Reducer voor PL Probe Lens (PL-E)",
+    "url": "https://www.laowa.nl/0-7x-focal-reducer-voor-pl-probe-lens-pl-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "10mm f/4 Cookie Sony E (silver)",
+    "url": "https://www.laowa.nl/10mm-f-4-cookie-sony-e-silver/",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "laowa",
+    "model": "10mm f/4 Cookie Sony E (zwart)",
+    "url": "https://www.laowa.nl/10mm-f-4-cookie-sony-e-zwart/",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "laowa",
+    "model": "10mm T2.9 Zero-D VV Cine Lens – Sony FE",
+    "url": "https://www.laowa.nl/10mm-t2-9-zero-d-vv-cine-lens-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "12-24mm APS-C f/5.6 Zoom Shift CF – Sony E",
+    "url": "https://www.laowa.nl/12-24mm-aps-c-f-5-6-zoom-shift-cf-sony-e/",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "laowa",
+    "model": "12mm T2.9 Zero-D Cine Lens – Sony FE",
+    "url": "https://www.laowa.nl/12mm-t2-9-zero-d-cine-lens-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "14mm T2.6 Zero-D VV Cine Lens – Sony FE",
+    "url": "https://www.laowa.nl/14mm-t2-6-zero-d-vv-cine-lens-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "15mm T2.1 Zero-D Cine Lens – Sony FE",
+    "url": "https://www.laowa.nl/15mm-t2-1-zero-d-cine-lens-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "15mm T4.8 Interchangeable Bayonet – Sony FE",
+    "url": "https://www.laowa.nl/15mm-t4-8-interchangeable-bayonet-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "20mm T4.1 Interchangeable Bayonet – Sony FE",
+    "url": "https://www.laowa.nl/20mm-t4-1-interchangeable-bayonet-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "24mm f/14 2X Macro Probe Lens (Cine) – Sony FE",
+    "url": "https://www.laowa.nl/24mm-f-14-2x-macro-probe-lens-cine-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "24mm T14 2X Peri Probe Lens (Cine) – Sony FE",
+    "url": "https://www.laowa.nl/24mm-t14-2x-peri-probe-lens-cine-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "24mm T8 2X Pro2be Probe interchangeable bayonet -Sony FE",
+    "url": "https://www.laowa.nl/24mm-t8-2x-pro2be-probe-interchangeable-bayonet-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "27mm T2.8 Interchangeable bayonet Sony E",
+    "url": "https://www.laowa.nl/27mm-t2-8-interchangeable-bayonet-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "4.5-10mm f/2.8 CF Zoom Fisheye – Sony FE",
+    "url": "https://www.laowa.nl/4-5-10mm-f-2-8-cf-zoom-fisheye-sony-fe/",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "laowa",
+    "model": "4mm f/2.8 Circular Fisheye – Sony E",
+    "url": "https://www.laowa.nl/4mm-f-2-8-circular-fisheye-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "60mm f/2.8 2X Ultra-Macro Lens – Sony E",
+    "url": "https://www.laowa.nl/60mm-f-2-8-2x-ultra-macro-lens-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "65mm f/2.8 2X Ultra-Macro Lens – Sony E",
+    "url": "https://www.laowa.nl/65mm-f-2-8-2x-ultra-macro-lens-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "65mm T2.9 2X Macro APO Cine – Sony E",
+    "url": "https://www.laowa.nl/65mm-t2-9-2x-macro-apo-cine-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "7.5mm T2.9 Zero-D S35 Cine Lens – Sony E",
+    "url": "https://www.laowa.nl/7-5mm-t2-9-zero-d-s35-cine-lens-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "8-16mm f/3.5-5 Zoom CF lens – Sony E",
+    "url": "https://www.laowa.nl/8-16mm-f-3-5-5-zoom-cf-lens-sony-e/",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "laowa",
+    "model": "9mm f/2.8 Zero-D Lens – Sony E",
+    "url": "https://www.laowa.nl/9mm-f-2-8-zero-d-lens-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "9mm T2.9 Zero-D Cine Lens – Sony FE",
+    "url": "https://www.laowa.nl/9mm-t2-9-zero-d-cine-lens-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "9mm T5.8 VV Cine Lens – Sony FE",
+    "url": "https://www.laowa.nl/9mm-t5-8-vv-cine-lens-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Argus 25mm f/0.95 CF APO – Sony E",
+    "url": "https://www.laowa.nl/argus-25mm-f-0-95-cf-apo-sony-e/",
+    "status": "excluded",
+    "reason": "APS-C 画幅"
+  },
+  {
+    "brand": "laowa",
+    "model": "Argus FF Cine 28mm T1 Sony FE",
+    "url": "https://www.laowa.nl/argus-ff-cine-28mm-t1-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Argus FF Cine 3-Lens Bundle (28mm,35mm,45mm) Sony FE",
+    "url": "https://www.laowa.nl/argus-ff-cine-3-lens-bundle-28mm35mm45mm-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Argus FF Cine 35mm T1 Sony FE",
+    "url": "https://www.laowa.nl/argus-ff-cine-35mm-t1-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Argus FF Cine 45mm T1 Sony FE",
+    "url": "https://www.laowa.nl/argus-ff-cine-45mm-t1-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Aurogon FF 10-50x NA0.5 supermicro APO – Sony FE",
+    "url": "https://www.laowa.nl/aurogon-ff-10-50x-na0-5-supermicro-apo-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Bajonet voor Aksen 17.5mm, 45mm – Sony FE",
+    "url": "https://www.laowa.nl/bajonet-voor-aksen-17-5mm-45mm-sony-fe/",
+    "status": "pending",
+    "reason": "名称无法识别：Bajonet voor Aksen 17.5mm, 45mm"
+  },
+  {
+    "brand": "laowa",
+    "model": "Bayonet Nanomorph 60mm T2.9 Macro LF – Sony FE",
+    "url": "https://www.laowa.nl/bayonet-nanomorph-60mm-t2-9-macro-lf-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Magic Shift Converter – Canon EF to Sony FE",
+    "url": "https://www.laowa.nl/magic-shift-converter-canon-ef-to-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Magic Shift Converter – Nikon G to Sony FE",
+    "url": "https://www.laowa.nl/magic-shift-converter-nikon-g-to-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 27mm T2.8 1.5X S35 (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-27mm-t2-8-1-5x-s35-amber-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 27mm T2.8 1.5X S35 (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-27mm-t2-8-1-5x-s35-blue-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 27mm T2.8 1.5X S35 (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-27mm-t2-8-1-5x-s35-silver-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 35mm T2.4 1.5X S35 (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-35mm-t2-4-1-5x-s35-amber-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 35mm T2.4 1.5X S35 (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-35mm-t2-4-1-5x-s35-blue-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 35mm T2.4 1.5X S35 (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-35mm-t2-4-1-5x-s35-silver-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 35mm T2.4 Interchangeable bayonet Sony E",
+    "url": "https://www.laowa.nl/nanomorph-35mm-t2-4-interchangeable-bayonet-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 50mm T2.4 1.5X S35 (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-50mm-t2-4-1-5x-s35-amber-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 50mm T2.4 1.5X S35 (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-50mm-t2-4-1-5x-s35-blue-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 50mm T2.4 1.5X S35 (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-50mm-t2-4-1-5x-s35-silver-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 50mm T2.4 Interchangeable bayonet Sony E",
+    "url": "https://www.laowa.nl/nanomorph-50mm-t2-4-interchangeable-bayonet-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 65mm T2.4 1.5X S35 (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-65mm-t2-4-1-5x-s35-amber-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 65mm T2.4 1.5X S35 (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-65mm-t2-4-1-5x-s35-blue-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 65mm T2.4 1.5X S35 (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-65mm-t2-4-1-5x-s35-silver-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 80mm T2.4 1.5X S35 (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-80mm-t2-4-1-5x-s35-amber-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 80mm T2.4 1.5X S35 (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-80mm-t2-4-1-5x-s35-blue-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph 80mm T2.4 1.5X S35 (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-80mm-t2-4-1-5x-s35-silver-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (27,35,50,65,80mm) (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-2735506580mm-amber-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (27,35,50,65,80mm) (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-2735506580mm-blue-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (27,35,50,65,80mm) (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-2735506580mm-silver-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (27,35,50mm) (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-273550mm-amber-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (27,35,50mm) (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-273550mm-blue-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (27,35,50mm) (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-273550mm-silver-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (65mm,80mm) (Amber) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-65mm80mm-amber-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (65mm,80mm) (Blue) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-65mm80mm-blue-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph S35 Bundle (65mm,80mm) (Silver) Sony E",
+    "url": "https://www.laowa.nl/nanomorph-s35-bundle-65mm80mm-silver-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Nanomorph Zoom 28-55mm, 50-100mm T2.9 bayonet – Sony E",
+    "url": "https://www.laowa.nl/nanomorph-zoom-28-55mm-50-100mm-t2-9-bayonet-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "OOOM 25-100mm T2.9 Zero-D Cine lens Black",
+    "url": "https://www.laowa.nl/ooom-25-100mm-t2-9-zero-d-cine-lens-black/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "OOOM 25-100mm T2.9 Zero-D Cine lens White",
+    "url": "https://www.laowa.nl/ooom-25-100mm-t2-9-zero-d-cine-lens-white/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Proteus Zoom 26-45 & 45-85mm bayonet – Sony E",
+    "url": "https://www.laowa.nl/proteus-zoom-26-45-45-85mm-bayonet-sony-e/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Ranger S35 bajonet voor 11-18mm lens – Sony E",
+    "url": "https://www.laowa.nl/ranger-s35-bajonet-voor-11-18mm-lens-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Ranger S35 bajonet voor 17-50mm & 50-130mm lens – Sony E",
+    "url": "https://www.laowa.nl/ranger-s35-bajonet-voor-17-50mm-50-130mm-lens-sony-e/",
+    "status": "pending",
+    "reason": "需要进一步确认画幅覆盖"
+  },
+  {
+    "brand": "laowa",
+    "model": "Sword 15mm T4.1 Interchangeable bayonet – Sony FE",
+    "url": "https://www.laowa.nl/sword-15mm-t4-1-interchangeable-bayonet-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Sword 25,60,100,180mm Interchangeable bayonet -Sony FE",
+    "url": "https://www.laowa.nl/sword-2560100180mm-interchangeable-bayonet-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Sword 35mm T2.9 Interchangeable bayonet – Sony FE",
+    "url": "https://www.laowa.nl/sword-35mm-t2-9-interchangeable-bayonet-sony-fe/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Verwisselbare bajonet met Sony E-mount voor Laowa Ranger lenzen",
+    "url": "https://www.laowa.nl/verwisselbare-bajonet-met-sony-e-mount-voor-laowa-ranger-lenzen/",
+    "status": "excluded",
+    "reason": "专用电影镜头或配件"
+  },
+  {
+    "brand": "laowa",
+    "model": "Verwisselbare bajonet voor Probe Zoom, Ultima 12-120mm – Sony FE",
+    "url": "https://www.laowa.nl/verwisselbare-bajonet-voor-probe-zoom-ultima-12-120mm-sony-fe/",
+    "status": "pending",
+    "reason": "名称无法识别：Verwisselbare bajonet voor Probe Zoom, Ultima 12-120mm"
+  },
+  {
+    "brand": "yongnuo",
+    "model": "YN85mm F1.8S DF DSM（早期塑料镜身）",
+    "status": "pending",
+    "reason": "厂家确认存在早期型号，需另行核对原版完整规格，不能沿用金属升级版。",
+    "url": "https://th.hkyongnuo.com/products/85f18s-df-dsm"
+  }
+]

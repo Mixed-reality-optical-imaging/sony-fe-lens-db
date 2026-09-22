@@ -1,0 +1,1243 @@
+[
+  {
+    "id": "samyang-rokinon-60-180mm-f2-8-af-zoom-lens-sony-fe-mount",
+    "brand": "samyang",
+    "name": "AF 60-180mm F2.8",
+    "model": "AF 60-180mm F2.8",
+    "aliases": [
+      "Rokinon 60-180mm F2.8 AF Zoom Lens (Sony FE Mount)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 60,
+    "focalMax": 180,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 77,
+    "minFocus": 0.35,
+    "maxMagnification": 0.26,
+    "elements": null,
+    "groups": null,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/rokinon-60-180mm-f2-8-af-zoom-lens-sony-fe-mount",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商美国站以 Rokinon 品牌销售；按森养同一产品体系收录，保留原始名称供核对。",
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-24-60mm-f2-8-af-standard-zoom-lens-sony-e",
+    "brand": "samyang",
+    "name": "AF 24-60mm F2.8",
+    "model": "AF 24-60mm F2.8",
+    "aliases": [
+      "24-60mm F2.8 AF Zoom Lens (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 24,
+    "focalMax": 60,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 494,
+    "diameter": 78,
+    "length": 102,
+    "filterSize": 72,
+    "minFocus": 0.18,
+    "maxMagnification": 0.27,
+    "elements": null,
+    "groups": null,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/24-60mm-f2-8-af-standard-zoom-lens-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-af-85mm-f1-8-p-fe",
+    "brand": "samyang",
+    "name": "AF 85mm F1.8 Prima",
+    "model": "AF 85mm F1.8 Prima",
+    "aliases": [
+      "85mm F1.8 AF Lens for Sony FE (Prima FE Series)"
+    ],
+    "series": "Prima",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 272,
+    "diameter": null,
+    "length": 71.5,
+    "filterSize": 62,
+    "minFocus": 0.8,
+    "maxMagnification": 0.12,
+    "elements": null,
+    "groups": null,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/af-85mm-f1-8-p-fe",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-af-16mm-f2-8-p-fe",
+    "brand": "samyang",
+    "name": "AF 16mm F2.8 Prima",
+    "model": "AF 16mm F2.8 Prima",
+    "aliases": [
+      "16mm F2.8 AF Wide Angle Lens for Sony FE (Prima FE Series)"
+    ],
+    "series": "Prima",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 16,
+    "focalMax": 16,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 207,
+    "diameter": null,
+    "length": 70.5,
+    "filterSize": 62,
+    "minFocus": 0.12,
+    "maxMagnification": 0.33,
+    "elements": null,
+    "groups": null,
+    "blades": 7,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/af-16mm-f2-8-p-fe",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e",
+    "brand": "samyang",
+    "name": "AF 14-24mm F2.8",
+    "model": "AF 14-24mm F2.8",
+    "aliases": [
+      "Rokinon 14-24mm F2.8 AF Wide-Angle Zoom Lens (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 14,
+    "focalMax": 24,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 445,
+    "diameter": 84,
+    "length": 98.63,
+    "filterSize": 77,
+    "minFocus": 0.18,
+    "maxMagnification": 0.17,
+    "elements": null,
+    "groups": null,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商美国站以 Rokinon 品牌销售；按森养同一产品体系收录，保留原始名称供核对。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-af-35mm-f1-4-p-fe",
+    "brand": "samyang",
+    "name": "AF 35mm F1.4 Prima",
+    "model": "AF 35mm f1.4 Prima",
+    "aliases": [
+      "35mm f1.4 AF Lens for Sony FE (Prima FE Series)"
+    ],
+    "series": "Prima",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 470,
+    "diameter": null,
+    "length": 99.2,
+    "filterSize": 67,
+    "minFocus": 0.3,
+    "maxMagnification": 0.17,
+    "elements": null,
+    "groups": null,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/af-35mm-f1-4-p-fe",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-35-150mm-f2-2-8-af-full-frame-zoom-lens",
+    "brand": "samyang",
+    "name": "AF 35-150mm F2-2.8",
+    "model": "AF 35-150mm F2-2.8",
+    "aliases": [
+      "35-150mm F2-2.8 AF Full Frame Zoom Lens (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 150,
+    "apertureWide": 2,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 1231,
+    "diameter": 92.8,
+    "length": 157.4,
+    "filterSize": 82,
+    "minFocus": 0.33,
+    "maxMagnification": 0.175,
+    "elements": null,
+    "groups": null,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/35-150mm-f2-2-8-af-full-frame-zoom-lens",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-85mm-f1-4-af-series-ii-full-frame-telephoto-sony-e",
+    "brand": "samyang",
+    "name": "AF 85mm F1.4 II",
+    "model": "AF 85mm F1.4 II",
+    "aliases": [
+      "85mm F1.4 AF Series II Full Frame Telephoto (Sony E)"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 509,
+    "diameter": 83.4,
+    "length": 99.59,
+    "filterSize": 72,
+    "minFocus": 0.85,
+    "maxMagnification": 0.12,
+    "elements": 11,
+    "groups": 8,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/85mm-f1-4-af-series-ii-full-frame-telephoto-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-35mm-f1-4-af-series-ii-full-frame-wide-angle-sony-e",
+    "brand": "samyang",
+    "name": "AF 35mm F1.4 II",
+    "model": "AF 35mm F1.4 II",
+    "aliases": [
+      "35mm F1.4 AF Series II Full Frame Wide Angle (Sony E)"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 659,
+    "diameter": 75,
+    "length": 115,
+    "filterSize": 67,
+    "minFocus": 0.29,
+    "maxMagnification": 0.18,
+    "elements": 11,
+    "groups": 9,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/35mm-f1-4-af-series-ii-full-frame-wide-angle-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-135mm-f1-8-af-full-frame-telephoto-sony-e",
+    "brand": "samyang",
+    "name": "AF 135mm F1.8",
+    "model": "AF 135mm F1.8",
+    "aliases": [
+      "135mm F1.8 AF Full Frame Telephoto (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 135,
+    "focalMax": 135,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 772,
+    "diameter": 93.4,
+    "length": 129.6,
+    "filterSize": 82,
+    "minFocus": 0.69,
+    "maxMagnification": 0.243,
+    "elements": 13,
+    "groups": 11,
+    "blades": 11,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/135mm-f1-8-af-full-frame-telephoto-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-50mm-f1-4-af-series-ii-full-frame-sony-e",
+    "brand": "samyang",
+    "name": "AF 50mm F1.4 II",
+    "model": "AF 50mm F1.4 II",
+    "aliases": [
+      "50mm F1.4 AF Series II Full Frame (Sony E)"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 420,
+    "diameter": 80.1,
+    "length": 88.9,
+    "filterSize": 72,
+    "minFocus": 0.4,
+    "maxMagnification": 0.16,
+    "elements": 11,
+    "groups": 8,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/50mm-f1-4-af-series-ii-full-frame-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-24-70mm-f2-8-af-full-frame-zoom-lens-sony-e",
+    "brand": "samyang",
+    "name": "AF 24-70mm F2.8",
+    "model": "AF 24-70mm F2.8",
+    "aliases": [
+      "24-70mm F2.8 AF Full Frame Zoom Lens (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 24,
+    "focalMax": 70,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 1027,
+    "diameter": null,
+    "length": 128.5,
+    "filterSize": 82,
+    "minFocus": 0.35,
+    "maxMagnification": 0.1,
+    "elements": null,
+    "groups": null,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/24-70mm-f2-8-af-full-frame-zoom-lens-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-24mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
+    "brand": "samyang",
+    "name": "AF 24mm F1.8",
+    "model": "AF 24mm F1.8",
+    "aliases": [
+      "24mm F1.8 AF Compact Full Frame Wide Angle (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 24,
+    "focalMax": 24,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 230,
+    "diameter": 65,
+    "length": 71.5,
+    "filterSize": 58,
+    "minFocus": null,
+    "maxMagnification": 0.21,
+    "elements": 11,
+    "groups": 8,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/24mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-14mm-f2-8-wide-angle-sony-e-mount",
+    "brand": "samyang",
+    "name": "AF 14mm F2.8",
+    "model": "AF 14mm F2.8",
+    "aliases": [
+      "14mm F2.8 AF Full Frame Wide Angle (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 14,
+    "focalMax": 14,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 450,
+    "diameter": 86,
+    "length": 97.5,
+    "filterSize": null,
+    "minFocus": 0.2,
+    "maxMagnification": 0.12,
+    "elements": 14,
+    "groups": 10,
+    "blades": 7,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/14mm-f2-8-wide-angle-sony-e-mount",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-35mm-f1-4-wide-angle-sony-e-mount",
+    "brand": "samyang",
+    "name": "AF 35mm F1.4",
+    "model": "AF 35mm F1.4",
+    "aliases": [
+      "35mm F1.4 AF Wide Angle (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 645,
+    "diameter": 75.9,
+    "length": 115,
+    "filterSize": 67,
+    "minFocus": 0.3,
+    "maxMagnification": 0.17,
+    "elements": 11,
+    "groups": 9,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/35mm-f1-4-wide-angle-sony-e-mount",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-12mm-f2-8-full-frame-fisheye",
+    "brand": "samyang",
+    "name": "MF 12mm F2.8 Fisheye",
+    "model": "MF 12mm F2.8 Fisheye",
+    "aliases": [
+      "12mm F2.8 Full Frame Fisheye"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 12,
+    "focalMax": 12,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": 0.2,
+    "maxMagnification": null,
+    "elements": 12,
+    "groups": 8,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/12mm-f2-8-full-frame-fisheye",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-14mm-f2-8-full-frame-ultra-wide-angle",
+    "brand": "samyang",
+    "name": "MF 14mm F2.8",
+    "model": "MF 14mm F2.8",
+    "aliases": [
+      "14mm F2.8 Full Frame Ultra Wide Angle"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 14,
+    "focalMax": 14,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": 0.28,
+    "maxMagnification": null,
+    "elements": 14,
+    "groups": 10,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/14mm-f2-8-full-frame-ultra-wide-angle",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-35mm-f1-4-full-frame-wide-angle",
+    "brand": "samyang",
+    "name": "MF 35mm F1.4",
+    "model": "MF 35mm F1.4",
+    "aliases": [
+      "35mm F1.4 Full Frame Wide Angle"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 77,
+    "minFocus": 0.3,
+    "maxMagnification": null,
+    "elements": 12,
+    "groups": 10,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/35mm-f1-4-full-frame-wide-angle",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-50mm-f1-4-full-frame-high-speed",
+    "brand": "samyang",
+    "name": "MF 50mm F1.4",
+    "model": "MF 50mm F1.4",
+    "aliases": [
+      "50mm F1.4 Full Frame High Speed"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 77,
+    "minFocus": 0.45,
+    "maxMagnification": null,
+    "elements": 9,
+    "groups": 6,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/50mm-f1-4-full-frame-high-speed",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-85mm-f1-4-full-frame",
+    "brand": "samyang",
+    "name": "MF 85mm F1.4",
+    "model": "MF 85mm F1.4",
+    "aliases": [
+      "85mm F1.4 Full Frame"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 72,
+    "minFocus": 1,
+    "maxMagnification": null,
+    "elements": 9,
+    "groups": 7,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/85mm-f1-4-full-frame",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-100mm-f2-8-full-frame-macro",
+    "brand": "samyang",
+    "name": "MF 100mm F2.8 Macro",
+    "model": "MF 100mm F2.8 Macro",
+    "aliases": [
+      "100mm F2.8 Full Frame Macro"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 100,
+    "focalMax": 100,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 67,
+    "minFocus": 0.3,
+    "maxMagnification": null,
+    "elements": 15,
+    "groups": 12,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": true,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/100mm-f2-8-full-frame-macro",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-135mm-f2-0-full-frame-telephoto",
+    "brand": "samyang",
+    "name": "MF 135mm F2.0",
+    "model": "MF 135mm F2.0",
+    "aliases": [
+      "135mm F2.0 Full Frame Telephoto"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 135,
+    "focalMax": 135,
+    "apertureWide": 2,
+    "apertureTele": 2,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 77,
+    "minFocus": 0.8,
+    "maxMagnification": null,
+    "elements": 11,
+    "groups": 7,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/135mm-f2-0-full-frame-telephoto",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-18mm-f2-8-af-compact-full-frame-sony-e",
+    "brand": "samyang",
+    "name": "AF 18mm F2.8",
+    "model": "AF 18mm F2.8",
+    "aliases": [
+      "18mm F2.8 AF Compact Full Frame Super Wide Angle (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 18,
+    "focalMax": 18,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 145,
+    "diameter": 63.5,
+    "length": 60.5,
+    "filterSize": 58,
+    "minFocus": 0.25,
+    "maxMagnification": 0.09,
+    "elements": 9,
+    "groups": 8,
+    "blades": 7,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/18mm-f2-8-af-compact-full-frame-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-45mm-f1-8-af-compact-full-frame-sony-e",
+    "brand": "samyang",
+    "name": "AF 45mm F1.8",
+    "model": "AF 45mm F1.8",
+    "aliases": [
+      "45mm F1.8 AF Compact Full Frame (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 45,
+    "focalMax": 45,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 162,
+    "diameter": 61.8,
+    "length": 56.1,
+    "filterSize": 49,
+    "minFocus": 0.45,
+    "maxMagnification": 0.12,
+    "elements": 9,
+    "groups": 8,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/45mm-f1-8-af-compact-full-frame-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-85mm-f1-4-af-full-frame-telephoto-sony-e",
+    "brand": "samyang",
+    "name": "AF 85mm F1.4",
+    "model": "AF 85mm F1.4",
+    "aliases": [
+      "85mm F1.4 AF Full Frame Telephoto (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 568,
+    "diameter": 88,
+    "length": 99.5,
+    "filterSize": 77,
+    "minFocus": 0.9,
+    "maxMagnification": 0.11,
+    "elements": 11,
+    "groups": 8,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/85mm-f1-4-af-full-frame-telephoto-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-75mm-f1-4-af-compact-full-frame-sony-e",
+    "brand": "samyang",
+    "name": "AF 75mm F1.8",
+    "model": "AF 75mm F1.8",
+    "aliases": [
+      "75mm F1.8 AF Compact Full Frame Telephoto (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 75,
+    "focalMax": 75,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 230,
+    "diameter": 65,
+    "length": 69,
+    "filterSize": 58,
+    "minFocus": 0.69,
+    "maxMagnification": 0.13,
+    "elements": 10,
+    "groups": 9,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/75mm-f1-4-af-compact-full-frame-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "samyang-14mm-f2-8-series-ii-full-frame-ultra-wide-angle",
+    "brand": "samyang",
+    "name": "MF 14mm F2.8 II",
+    "model": "MF 14mm F2.8 II",
+    "aliases": [
+      "14mm F2.8 MK2 Full Frame Ultra Wide Angle"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 14,
+    "focalMax": 14,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": 0.28,
+    "maxMagnification": null,
+    "elements": 14,
+    "groups": 10,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/14mm-f2-8-series-ii-full-frame-ultra-wide-angle",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-85mm-f1-4-series-ii-high-speed-full-frame",
+    "brand": "samyang",
+    "name": "MF 85mm F1.4 II",
+    "model": "MF 85mm F1.4 II",
+    "aliases": [
+      "85mm F1.4 MK2 High Speed Full Frame"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 72,
+    "minFocus": 1.1,
+    "maxMagnification": 0.17,
+    "elements": 9,
+    "groups": 7,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/85mm-f1-4-series-ii-high-speed-full-frame",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "samyang-35mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
+    "brand": "samyang",
+    "name": "AF 35mm F1.8",
+    "model": "AF 35mm F1.8",
+    "aliases": [
+      "35mm F1.8 AF Compact Full Frame Wide Angle (Sony E)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 210,
+    "diameter": 65,
+    "length": 63.5,
+    "filterSize": 58,
+    "minFocus": 0.29,
+    "maxMagnification": 0.17,
+    "elements": 10,
+    "groups": 8,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SAMYANG 官方产品规格",
+        "url": "https://samyangus.com/products/35mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  }
+]

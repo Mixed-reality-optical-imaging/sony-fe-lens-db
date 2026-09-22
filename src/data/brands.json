@@ -1,0 +1,80 @@
+[
+  {
+    "id": "sony",
+    "name": "索尼",
+    "en": "Sony",
+    "color": "#333b46"
+  },
+  {
+    "id": "sigma",
+    "name": "适马",
+    "en": "Sigma",
+    "color": "#334155"
+  },
+  {
+    "id": "tamron",
+    "name": "腾龙",
+    "en": "Tamron",
+    "color": "#168494"
+  },
+  {
+    "id": "zeiss",
+    "name": "蔡司",
+    "en": "Zeiss",
+    "color": "#2168b3"
+  },
+  {
+    "id": "samyang",
+    "name": "森养",
+    "en": "Samyang",
+    "color": "#aa535e"
+  },
+  {
+    "id": "viltrox",
+    "name": "唯卓仕",
+    "en": "Viltrox",
+    "color": "#536b86"
+  },
+  {
+    "id": "laowa",
+    "name": "老蛙",
+    "en": "Laowa",
+    "color": "#6a7890"
+  },
+  {
+    "id": "voigtlander",
+    "name": "福伦达",
+    "en": "Voigtländer",
+    "color": "#886d57"
+  },
+  {
+    "id": "ttartisan",
+    "name": "铭匠",
+    "en": "TTArtisan",
+    "color": "#576c64"
+  },
+  {
+    "id": "7artisans",
+    "name": "七工匠",
+    "en": "7Artisans",
+    "color": "#5a7293"
+  },
+  {
+    "id": "yongnuo",
+    "name": "永诺",
+    "en": "Yongnuo",
+    "color": "#8a6d52"
+  },
+  {
+    "id": "sirui",
+    "name": "思锐",
+    "en": "Sirui",
+    "color": "#2b8192"
+  },
+  {
+    "id": "meike",
+    "name": "美科",
+    "en": "Meike",
+    "color": "#4b7287"
+  }
+]

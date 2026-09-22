@@ -1,0 +1,486 @@
+[
+  {
+    "id": "meike-8514iie",
+    "brand": "meike",
+    "name": "AF 85mm F1.4 II",
+    "model": "AF 85mm F1.4 II",
+    "aliases": [
+      "Meike 85mm F1.4 Ⅱ Full Frame Auto Focus Lens for Sony E Mount Cameras"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/8514iie",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-8518ii-se-e-mount",
+    "brand": "meike",
+    "name": "AF 85mm F1.8 II SE",
+    "model": "AF 85mm F1.8 II SE",
+    "aliases": [
+      "Meike 85mm F1.8 SE Mark II Full Frame Auto Focus STM Lens for E Mount Cameras"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/8518ii-se-e-mount",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-2414e",
+    "brand": "meike",
+    "name": "AF 24mm F1.4 MIX",
+    "model": "AF 24mm f1.4 MIX",
+    "aliases": [
+      "Meike 24mm f1.4 MIX Full Frame Auto Focus STM Lens for E Mount Cameras"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 24,
+    "focalMax": 24,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/2414e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-3520e",
+    "brand": "meike",
+    "name": "AF 35mm F2",
+    "model": "AF 35mm F2",
+    "aliases": [
+      "Meike 35mm F2 Full Frame Auto Focus STM Lens for E Mount Cameras"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 2,
+    "apertureTele": 2,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/3520e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-3518proe",
+    "brand": "meike",
+    "name": "AF 35mm F1.8 Pro",
+    "model": "AF 35mm f1.8 Pro",
+    "aliases": [
+      "Meike 35mm f1.8 Pro Full Frame Auto Focus STM Lens for E Mount Cameras"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/3518proe",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-8518proe",
+    "brand": "meike",
+    "name": "AF 85mm F1.8 Pro",
+    "model": "AF 85mm f1.8 Pro",
+    "aliases": [
+      "Meike 85mm f1.8 Pro Full Frame Auto Focus STM Lens for E Mount Cameras -Low Dispersion&High Resolution"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/8518proe",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-5518e",
+    "brand": "meike",
+    "name": "AF 55mm F1.8 Pro",
+    "model": "AF 55mm f1.8 Pro",
+    "aliases": [
+      "Meike 55mm f1.8 Pro Full Frame Auto Focus STM Lens for E Mount Cameras -Low Dispersion&High Resolution"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 55,
+    "focalMax": 55,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/5518e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-meike-85mm-f1-4-auto-focus-lens",
+    "brand": "meike",
+    "name": "AF 85mm F1.4 MIX",
+    "model": "AF 85mm F1.4 MIX",
+    "aliases": [
+      "Meike 85mm F1.4 Full Frame Auto Focus Large Aperture Golden Portrait Lens for E Mount Cameras(MIX series)"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/meike-85mm-f1-4-auto-focus-lens",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-85mm-f1-8-full-frame-auto-focus-stm-lens-for-sony-e-mount-cameras",
+    "brand": "meike",
+    "name": "AF 85mm F1.8",
+    "model": "AF 85mm F1.8",
+    "aliases": [
+      "Meike 85mm F1.8 Auto Focus STM Full Frame Lens for Sony E Mount Cameras"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/85mm-f1-8-full-frame-auto-focus-stm-lens-for-sony-e-mount-cameras",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-50mm-large-aperture-lens",
+    "brand": "meike",
+    "name": "MF 50mm F1.2",
+    "model": "MF 50mm F1.2",
+    "aliases": [
+      "Meike Full Frame 50mm F1.2 Large Aperture Manual Focus Lens for E Mount Cameras"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.2,
+    "apertureTele": 1.2,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/50mm-large-aperture-lens",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "meike-meike-mk-50mm-f1-7-full-frame-wedding-photography",
+    "brand": "meike",
+    "name": "MF 50mm F1.7",
+    "model": "MF 50mm F1.7",
+    "aliases": [
+      "Meike 50mm F1.7 Full Frame Large Aperture Manual Focus Lens for E Mount"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.7,
+    "apertureTele": 1.7,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "MEIKE 官方产品规格",
+        "url": "https://meikeglobal.com/products/meike-mk-50mm-f1-7-full-frame-wedding-photography",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+    ],
+    "verification": "partial"
+  }
+]

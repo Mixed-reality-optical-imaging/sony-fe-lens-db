@@ -1,0 +1,90 @@
+[
+  {
+    "id": "sirui-sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens",
+    "brand": "sirui",
+    "name": "AF 35mm F1.4 AURORA",
+    "model": "AF 35mm F1.4 AURORA",
+    "aliases": [
+      "SIRUI AURORA 35mm F1.4 Full-Frame Autofocus Lens"
+    ],
+    "series": "AURORA",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SIRUI 官方产品规格",
+        "url": "https://store.sirui.com/products/sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "sirui-sirui-aurora-series-85mm-full-frame-autofocus-lens",
+    "brand": "sirui",
+    "name": "AF 85mm F1.4 AURORA",
+    "model": "AF 85mm F1.4 AURORA",
+    "aliases": [
+      "SIRUI AURORA 85mm F1.4 Full-Frame Autofocus Lens"
+    ],
+    "series": "AURORA",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SIRUI 官方产品规格",
+        "url": "https://store.sirui.com/products/sirui-aurora-series-85mm-full-frame-autofocus-lens",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  }
+]

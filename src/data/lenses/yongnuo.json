@@ -1,0 +1,168 @@
+[
+  {
+    "id": "yongnuo-yn35mm-f2s-df-dsm",
+    "brand": "yongnuo",
+    "name": "FE 35mm F2 S DF DSM",
+    "model": "YN35mm F2S DF DSM",
+    "aliases": [],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 2,
+    "apertureTele": 2,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 295,
+    "diameter": 67,
+    "length": 72,
+    "filterSize": 52,
+    "minFocus": 0.35,
+    "maxMagnification": 0.13,
+    "elements": 9,
+    "groups": 8,
+    "blades": 7,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "YONGNUO 官方产品规格",
+        "url": "https://th.hkyongnuo.com/products/yn35mm-f2s-df-dsm",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [],
+    "verification": "verified"
+  },
+  {
+    "id": "yongnuo-yn50mm-f1-8s-df-dsm",
+    "brand": "yongnuo",
+    "name": "FE 50mm F1.8 S DF DSM",
+    "model": "YN50mm F1.8S DF DSM",
+    "aliases": [],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 395,
+    "diameter": 68,
+    "length": 85,
+    "filterSize": null,
+    "minFocus": 0.45,
+    "maxMagnification": 0.15,
+    "elements": 11,
+    "groups": 8,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "YONGNUO 官方产品规格",
+        "url": "https://th.hkyongnuo.com/products/yn50mm-f18s-df-dsm",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "同一官方页面的介绍与表格对光圈叶片数分别写为 7 和 9，存在冲突，暂不采用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "yongnuo-85f1-8s-df-dsm",
+    "brand": "yongnuo",
+    "name": "FE 85mm F1.8 S DF DSM",
+    "model": "85F1.8S DF DSM",
+    "aliases": [],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 385,
+    "diameter": null,
+    "length": null,
+    "filterSize": 58,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": 9,
+    "groups": 8,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "YONGNUO 官方产品规格",
+        "url": "https://th.hkyongnuo.com/products/85f18s-df-dsm",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "本型号为金属镜身升级版 85F1.8S DF DSM；不与早期 YN85mm F1.8S DF DSM 混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "yongnuo-50f1-8s-df",
+    "brand": "yongnuo",
+    "name": "FE 50mm F1.8 II Lite",
+    "model": "50F1.8S DF",
+    "aliases": [],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "YONGNUO 官方产品规格",
+        "url": "https://th.hkyongnuo.com/products/50f18s-df",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂家目录使用 II / Lite 名称，产品型号为 50F1.8S DF；不按颜色重复收录。"
+    ],
+    "verification": "partial"
+  }
+]

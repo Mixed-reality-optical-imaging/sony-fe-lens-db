@@ -1,0 +1,706 @@
+[
+  {
+    "id": "7artisans-af-10mm-f2-5-full-frame-lens-for-e-z-l",
+    "brand": "7artisans",
+    "name": "AF 10mm F2.5",
+    "model": "AF 10mm F2.5",
+    "aliases": [
+      "AF 10mm F2.5 Full-frame Lens for E/Z/L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 10,
+    "focalMax": 10,
+    "apertureWide": 2.5,
+    "apertureTele": 2.5,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/af-10mm-f2-5-full-frame-lens-for-e-z-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-af-135mm-f1-8-full-frame-lens-for-e-z-l",
+    "brand": "7artisans",
+    "name": "AF 135mm F1.8",
+    "model": "AF 135mm F1.8",
+    "aliases": [
+      "7Artisans AF 135mm F1.8 Full-frame Lens for Z/E/L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 135,
+    "focalMax": 135,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/af-135mm-f1-8-full-frame-lens-for-e-z-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-af-40mm-f2-5-full-frame-lens-for-e-z-l",
+    "brand": "7artisans",
+    "name": "AF 40mm F2.5",
+    "model": "AF 40mm F2.5",
+    "aliases": [
+      "AF 40mm F2.5 Full-frame Lens for E/Z/L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 40,
+    "focalMax": 40,
+    "apertureWide": 2.5,
+    "apertureTele": 2.5,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": 7,
+    "groups": 6,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/af-40mm-f2-5-full-frame-lens-for-e-z-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-af-35mm-f1-8-full-frame-lens-for-e-z-l",
+    "brand": "7artisans",
+    "name": "AF 35mm F1.8",
+    "model": "AF 35mm F1.8",
+    "aliases": [
+      "AF 35mm F1.8 Full-frame Lens for E/Z/L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/af-35mm-f1-8-full-frame-lens-for-e-z-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l",
+    "brand": "7artisans",
+    "name": "MF 14mm F2.8",
+    "model": "MF 14mm F2.8",
+    "aliases": [
+      "MF 14mm f/2.8 Full-frame Wide Angle Lens for Sony E/Canon EOS-R/Nikon Z/ Panasonic L LUMIX S"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 14,
+    "focalMax": 14,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-75mm-f-1-4-full-frame-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l-lumix-s",
+    "brand": "7artisans",
+    "name": "MF 75mm F1.4",
+    "model": "MF 75mm F1.4",
+    "aliases": [
+      "MF 75mm f/1.4 Full-frame Lens for Sony E/Canon EOS-R/Nikon Z/ Panasonic L LUMIX S"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 75,
+    "focalMax": 75,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/75mm-f-1-4-full-frame-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l-lumix-s",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-af-24mm-f1-8-full-frame-lens-for-e",
+    "brand": "7artisans",
+    "name": "AF 24mm F1.8",
+    "model": "AF 24mm F1.8",
+    "aliases": [
+      "AF 24mm F1.8 Full-frame Lens for E/Z/L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 24,
+    "focalMax": 24,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/af-24mm-f1-8-full-frame-lens-for-e",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-af-85mm-f1-8-full-frame-lens-for-l",
+    "brand": "7artisans",
+    "name": "AF 85mm F1.8",
+    "model": "AF 85mm F1.8",
+    "aliases": [
+      "AF 85mm F1.8 Full-frame Lens for L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/af-85mm-f1-8-full-frame-lens-for-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-af-50mm-f1-8-full-frame-lens-for-l",
+    "brand": "7artisans",
+    "name": "AF 50mm F1.8",
+    "model": "AF 50mm F1.8",
+    "aliases": [
+      "AF 50mm F1.8 Full-frame Lens for L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/af-50mm-f1-8-full-frame-lens-for-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-18mm-f-5-6-full-frame-lens-for-e-z-l",
+    "brand": "7artisans",
+    "name": "MF 18mm F5.6",
+    "model": "MF 18mm F5.6",
+    "aliases": [
+      "MF 18mm f/5.6 Full-frame lens for E/Z/L"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 18,
+    "focalMax": 18,
+    "apertureWide": 5.6,
+    "apertureTele": 5.6,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/18mm-f-5-6-full-frame-lens-for-e-z-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-10mm-f-2-8-ii-ultra-wide-angle-full-frame-fisheye-lens-for-e-l-r-z-1",
+    "brand": "7artisans",
+    "name": "MF 10mm F2.8 II Fisheye",
+    "model": "MF 10mm F2.8 II Fisheye",
+    "aliases": [
+      "MF 10mm f/2.8 Mark II Ultra Wide-angle Full-frame Fisheye Lens for E/L/R/Z"
+    ],
+    "series": null,
+    "generation": "第二代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 10,
+    "focalMax": 10,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/10mm-f-2-8-ii-ultra-wide-angle-full-frame-fisheye-lens-for-e-l-r-z-1",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-60mm-f-2-8-full-frame-2x-ultra-macro-lens-for-e-rf-z",
+    "brand": "7artisans",
+    "name": "MF 60mm F2.8 Macro",
+    "model": "MF 60mm F2.8 Macro",
+    "aliases": [
+      "MF 60mm f/2.8 Full-frame 2X Ultra-Macro Lens for E/Z/RF"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 60,
+    "focalMax": 60,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": true,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/60mm-f-2-8-full-frame-2x-ultra-macro-lens-for-e-rf-z",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l",
+    "brand": "7artisans",
+    "name": "MF 35mm F1.4 III",
+    "model": "MF 35mm F1.4",
+    "aliases": [
+      "MF 35mm f/1.4 Ⅲ Full-frame lens for E/EOS-R/Z/L"
+    ],
+    "series": null,
+    "generation": "第三代",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-9mm-f-5-6-full-frame-wide-angle-lens-for-e-l-r-z",
+    "brand": "7artisans",
+    "name": "MF 9mm F5.6",
+    "model": "MF 9mm F5.6",
+    "aliases": [
+      "MF 9mm f/5.6 Full-frame Wide-angle lens for E/L/R/Z（Rear ND Filter）"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 9,
+    "focalMax": 9,
+    "apertureWide": 5.6,
+    "apertureTele": 5.6,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/9mm-f-5-6-full-frame-wide-angle-lens-for-e-l-r-z",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-7artisans-10mm-f2-8-full-frame-fisheye-lens-for-e-l-r-z-mount",
+    "brand": "7artisans",
+    "name": "MF 10mm F2.8 Fisheye",
+    "model": "MF 10mm F2.8 Fisheye",
+    "aliases": [
+      "MF 10mm f/2.8 Full-frame fisheye lens for E/L/R/Z/GFX( Medium Format )"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 10,
+    "focalMax": 10,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/7artisans-10mm-f2-8-full-frame-fisheye-lens-for-e-l-r-z-mount",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "7artisans-35mm-f5-6",
+    "brand": "7artisans",
+    "name": "MF 35mm F5.6",
+    "model": "MF 35mm F5.6",
+    "aliases": [
+      "MF 35mm f/5.6 Full-frame lens for E/L/Z"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 5.6,
+    "apertureTele": 5.6,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "7ARTISANS 官方产品规格",
+        "url": "https://7artisans.store/products/35mm-f5-6",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  }
+]

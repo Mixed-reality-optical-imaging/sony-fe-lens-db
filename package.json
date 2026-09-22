@@ -1,0 +1,39 @@
+{
+  "name": "sony-fe-lens-db",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "validate:data": "tsx scripts/validate-data.ts",
+    "build": "npm run validate:data && tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "tsx --test tests/*.test.ts",
+    "format": "prettier --write src scripts/validate-data.ts tests vite.config.ts",
+    "data:report": "tsx scripts/data-report.ts",
+    "licenses:generate": "node scripts/generate-notices.mjs"
+  },
+  "dependencies": {
+    "lucide-react": "^0.468.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.13.0",
+    "zod": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.1.0",
+    "prettier": "^3.9.8",
+    "tsx": "^4.21.0",
+    "typescript": "~5.9.3",
+    "vite": "^7.3.0"
+  },
+  "description": "索尼 E 卡口全画幅镜头数据库：中文搜索、筛选与参数对比",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db.git"
+  }
+}

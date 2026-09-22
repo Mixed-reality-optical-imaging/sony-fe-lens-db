@@ -1,0 +1,530 @@
+[
+  {
+    "id": "ttartisan-ttartisan-af-85mm-f1-8-neo",
+    "brand": "ttartisan",
+    "name": "AF 85mm F1.8 Neo",
+    "model": "AF 85mm F1.8 Neo",
+    "aliases": [
+      "TTARTISAN AF 85mm F1.8 Neo"
+    ],
+    "series": "Neo",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 62,
+    "minFocus": 0.8,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/ttartisan-af-85mm-f1-8-neo",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-ttartisan-af-50mm-f1-8-neo",
+    "brand": "ttartisan",
+    "name": "AF 50mm F1.8 Neo",
+    "model": "AF 50mm F1.8 Neo",
+    "aliases": [
+      "TTARTISAN AF 50mm F1.8 Neo"
+    ],
+    "series": "Neo",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 52,
+    "minFocus": 0.48,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/ttartisan-af-50mm-f1-8-neo",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-af-40mm-f2",
+    "brand": "ttartisan",
+    "name": "AF 40mm F2",
+    "model": "AF 40mm F2",
+    "aliases": [
+      "TTARTISAN AF 40mm F2"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 40,
+    "focalMax": 40,
+    "apertureWide": 2,
+    "apertureTele": 2,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 52,
+    "minFocus": 0.4,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/af-40mm-f2",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-ttartisan-af-75mm-f2",
+    "brand": "ttartisan",
+    "name": "AF 75mm F2",
+    "model": "AF 75mm F2",
+    "aliases": [
+      "TTARTISAN AF 75mm F2"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 75,
+    "focalMax": 75,
+    "apertureWide": 2,
+    "apertureTele": 2,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 62,
+    "minFocus": 0.75,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/ttartisan-af-75mm-f2",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-100mm-f2-8macro",
+    "brand": "ttartisan",
+    "name": "100mm F2.8 Macro",
+    "model": "100mm F2.8 Macro",
+    "aliases": [
+      "100mm F2.8 2X Macro"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 100,
+    "focalMax": 100,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": 14,
+    "groups": 10,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": true,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/100mm-f2-8macro",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-500mm",
+    "brand": "ttartisan",
+    "name": "500mm F6.3",
+    "model": "500mm F6.3",
+    "aliases": [
+      "500mm F6.3 Telephoto lens"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 500,
+    "focalMax": 500,
+    "apertureWide": 6.3,
+    "apertureTele": 6.3,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 82,
+    "minFocus": 3.3,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/500mm",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-ts100",
+    "brand": "ttartisan",
+    "name": "100mm F2.8 Macro Tilt-Shift",
+    "model": "100mm F2.8 Macro Tilt-Shift",
+    "aliases": [
+      "Tilt-Shift 100mm F2.8 2X Macro"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 100,
+    "focalMax": 100,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 67,
+    "minFocus": 0.25,
+    "maxMagnification": 2,
+    "elements": 14,
+    "groups": 10,
+    "blades": 12,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": true,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/ts100",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-tilt50mm",
+    "brand": "ttartisan",
+    "name": "50mm F1.4 Tilt",
+    "model": "50mm F1.4",
+    "aliases": [
+      "Tilt 50mm F1.4"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 62,
+    "minFocus": 0.5,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/tilt50mm",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-multi-mounts-50mm-f2-0",
+    "brand": "ttartisan",
+    "name": "50mm F2.0",
+    "model": "50mm F2.0",
+    "aliases": [
+      "50mm F2.0 Multi mounts"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 2,
+    "apertureTele": 2,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 43,
+    "minFocus": 0.5,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/multi-mounts-50mm-f2-0",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-11mmf28",
+    "brand": "ttartisan",
+    "name": "11mm F2.8 Fisheye",
+    "model": "11mm F2.8 Fisheye",
+    "aliases": [
+      "11mm F2.8 Fisheye Multi mount"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 11,
+    "focalMax": 11,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/11mmf28",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-90mm-f1-25",
+    "brand": "ttartisan",
+    "name": "90mm F1.25",
+    "model": "90mm F1.25",
+    "aliases": [
+      "90mm F1.25 Multi Mounts"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 90,
+    "focalMax": 90,
+    "apertureWide": 1.25,
+    "apertureTele": 1.25,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 52,
+    "minFocus": 1,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/90mm-f1-25",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-ttartisan-21mm-f1-5",
+    "brand": "ttartisan",
+    "name": "21mm F1.5",
+    "model": "21mm F1.5",
+    "aliases": [
+      "21mm F1.5 Multi Mounts"
+    ],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 21,
+    "focalMax": 21,
+    "apertureWide": 1.5,
+    "apertureTele": 1.5,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": null,
+    "elements": null,
+    "groups": null,
+    "blades": null,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "TTARTISAN 官方产品规格",
+        "url": "https://ttartisan.store/products/ttartisan-21mm-f1-5",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+    ],
+    "verification": "partial"
+  }
+]
