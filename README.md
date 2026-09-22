@@ -235,3 +235,5 @@ Bug reports, source-backed corrections and pull requests are welcome. Run valida
 2026-09-22 适马历史补充 / Sigma history: 补充七款 DG DN 官方公告日期，并记录 105mm 旧稿日期差异。Added seven sourced announcement dates with the 105mm timestamp discrepancy documented. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_EARLY_DGDN.md)。
 
 2026-09-22 Thypoch 扩展 / Expansion: 新增 Simera 28mm、35mm 摄影版，逐卡口核对规格并保留缺项。Added two mount-specific Simera photo lenses with unknown values retained. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_THYPOCH.md)。
+
+2026-09-22 腾龙补充 / Tamron update: 完善 16 款近摄条件、两款停产状态和 F072 系列字段。Documented focus/focal-length/firmware conditions and confirmed two discontinued models. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_TAMRON_CONDITIONS.md)。
