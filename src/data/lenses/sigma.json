@@ -4,9 +4,11 @@
     "brand": "sigma",
     "name": "14mm F1.4 DG",
     "model": "14mm F1.4 DG",
-    "aliases": [],
+    "aliases": [
+      "0085126943028"
+    ],
     "series": "ART",
-    "generation": null,
+    "generation": "DG 更名版（光学不变）",
     "mount": "Sony E",
     "format": "Full Frame",
     "focalMin": 14,
@@ -24,8 +26,8 @@
     "elements": 19,
     "groups": 15,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-09-02",
+    "releasePrecision": "day",
     "status": "current",
     "macro": false,
     "price": null,
@@ -34,10 +36,17 @@
         "title": "SIGMA 官方规格 · a023_14_14_re",
         "url": "https://www.sigma-global.com/en/lenses/a023_14_14_re/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方：14mm F1.4 DG DN 更名及销售方式变更",
+        "url": "https://www.sigma-global.com/en/news/2025/09/02/011134",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。"
+      "未列出前置滤镜尺寸；可能采用后置滤镜或不支持旋入式滤镜，请参见来源。",
+      "日期为 DG 更名及销售方式变更公告日，不是原 DG DN 光学设计的首次发布日期。官方明确仅更新名称、外观刻字与包装，光学表现不变；Sony E 产品码为 0085126 943028。",
+      "官方改为限期接单生产：2025 年接单期为 9 月 4 日至 10 月 31 日，预计自 2026 年 3 月发货。此历史计划不能证明核验当日仍在接受订单，现售标记不表示现货。"
     ],
     "verification": "verified"
   },
@@ -1731,8 +1740,8 @@
     "elements": 17,
     "groups": 12,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-09-25",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -1746,9 +1755,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方：2018 五款 Global Vision 镜头发布稿",
+        "url": "https://press.sigmaphoto.com/corporate/09/sigma-unveils-five-new-global-vision-lenses/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期采用官方稿正文的 2018-09-25 正式发布日，正文明确包含 Sony E；页面标题上方另显示 2018-09-21，未采用该网页日期。实际价格与上市时间在此稿中尚待公布，不将发布日视为 E 卡口开售日。"
+    ],
     "verification": "verified"
   },
   {
@@ -2614,8 +2630,8 @@
     "elements": 16,
     "groups": 12,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-09-25",
+    "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
     "price": null,
@@ -2629,9 +2645,16 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 美国官方：2018 五款 Global Vision 镜头发布稿",
+        "url": "https://press.sigmaphoto.com/corporate/09/sigma-unveils-five-new-global-vision-lenses/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日期采用官方稿正文的 2018-09-25 正式发布日，正文明确包含 Sony E；页面标题上方另显示 2018-09-21，未采用该网页日期。实际价格与上市时间在此稿中尚待公布，不将发布日视为 E 卡口开售日。"
+    ],
     "verification": "verified"
   },
   {
