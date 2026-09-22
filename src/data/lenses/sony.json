@@ -1791,8 +1791,8 @@
     "elements": 16,
     "groups": 13,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2023-01-17",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -1801,12 +1801,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel2070g/spec",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony Europe 官方镜头发布公告",
+        "url": "https://www.sony.eu/presscentre/sony-redefines-standard-zoom-lens-with-launch-of-ultra-wide-fe-20-70mm-f4-g",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：Wide: 0.30 m / Tele: 0.25 m (AF), 0.25 m (MF) (Wide: 0.99 ft / Tele: 0.82 ft (AF), 0.82 ft (MF))",
-      "厂商放大倍率原始值：0.39"
+      "厂商放大倍率原始值：0.39",
+      "发布日期采用 Sony Europe 官方公告日期；其他地区发布、网页刊登及零售日期可能不同。未用外币价格换算人民币。"
     ],
     "verification": "verified"
   },
@@ -1896,8 +1902,8 @@
     "elements": 12,
     "groups": 10,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2014-09-15",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -1906,12 +1912,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel1635z/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony Norway 官方镜头发布公告",
+        "url": "https://www.mynewsdesk.com/no/sony-no/pressreleases/utvid-horisonten-med-nye-zoom-objektiv-fra-sony-1054432",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.28m (0.92ft)",
-      "厂商放大倍率原始值：0.19x"
+      "厂商放大倍率原始值：0.19x",
+      "发布日期采用 Sony Norway 官方公告日期；其他地区发布、网页刊登及零售日期可能不同。未用外币价格换算人民币。"
     ],
     "verification": "verified"
   },
@@ -2375,8 +2387,8 @@
     "elements": 18,
     "groups": 12,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2014-09-12",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -2385,12 +2397,19 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/selp28135g/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony UK 官方镜头发布公告",
+        "url": "https://www.mynewsdesk.com/uk/sony-europe/pressreleases/sony-introduces-world-s-first-35mm-full-frame-lens-with-power-zoom-capability-1053409",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.4 (Wide)-0.95m (Tele) (AF/MF) / 0.95m (Full MF) (1.31 (Wide)-3.12ft (Tele) (AF/MF) / 3.12 ft (Full MF))",
-      "厂商放大倍率原始值：0.15x"
+      "厂商放大倍率原始值：0.15x",
+      "发布日期采用 Sony UK 官方公告日期；其他地区发布、网页刊登及零售日期可能不同。未用外币价格换算人民币。",
+      "Sony UK 发布稿：AF/MF 最近对焦为广角端 0.4m、长焦端 0.95m；Full MF 模式为 0.95m。单值最近对焦使用最短值 0.4m。"
     ],
     "verification": "verified"
   },
