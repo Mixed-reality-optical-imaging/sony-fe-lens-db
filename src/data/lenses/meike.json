@@ -139,7 +139,7 @@
     "aliases": [
       "Meike 35mm F2 Full Frame Auto Focus STM Lens for E Mount Cameras"
     ],
-    "series": null,
+    "series": "SE",
     "generation": null,
     "mount": "Sony E",
     "format": "Full Frame",
@@ -149,9 +149,9 @@
     "apertureTele": 2,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
+    "weight": 298,
     "diameter": 73,
-    "length": 90,
+    "length": 91,
     "filterSize": 58,
     "minFocus": 0.45,
     "maxMagnification": null,
@@ -168,10 +168,16 @@
         "title": "MEIKE 官方产品规格",
         "url": "https://meikeglobal.com/products/3520e",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "MEIKE 官方历史多卡口 35mm F2 产品页（搜索索引保留参数，原页面无法直接访问）",
+        "url": "https://meikeglobal.com/en-gb/collections/10mm-f2-0-aps-c-prime-manual-focus-wide-angle-lens-m43-sony-e-fuji-x-canon-rf-nikon-z-mount/products/3520",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
+      "2026-09-22 检索到官方历史多卡口页面的完整参数索引：E 298g / 73×91mm，Z 300g / 73×93mm，L 297g / 73×90mm。本条采用明确标注 E 卡口的 298g、91mm，替换先前通用图片尺寸中的 90mm；该旧页直接访问已失效，来源可复核性受限。",
+      "历史页明确属于 SE 系列；最大放大倍率未公布，继续留空。光圈叶片数等其余规格沿用现有 E 产品页图片核验。"
     ],
     "verification": "partial"
   },
