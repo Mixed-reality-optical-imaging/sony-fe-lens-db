@@ -378,8 +378,8 @@
     "elements": 12,
     "groups": 8,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2015-03-04",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -388,12 +388,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel35f14z/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国：2015 年四款 E 卡口全画幅镜头正式发布",
+        "url": "https://www.sony.com.cn/newscenter/2289.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.3m (0.98ft)",
-      "厂商放大倍率原始值：0.18x"
+      "厂商放大倍率原始值：0.18x",
+      "2015-03-04 为中国官方正文明确的正式发布日；同页预售说明不包含 90mm 微距，不能据此认定四款均在当天开始预售。"
     ],
     "verification": "verified"
   },
@@ -606,8 +612,8 @@
     "elements": 9,
     "groups": 8,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2015-03-04",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -616,12 +622,19 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel28f20/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国：2015 年四款 E 卡口全画幅镜头正式发布",
+        "url": "https://www.sony.com.cn/newscenter/2289.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.29m(AF) / 0.25m(MF) (0.96ft(AF) / 0.82ft(MF)",
-      "厂商放大倍率原始值：0.13x(AF) / 0.16x(MF)"
+      "厂商放大倍率原始值：0.13x(AF) / 0.16x(MF)",
+      "2015-03-04 为中国官方正文明确的正式发布日；同页预售说明不包含 90mm 微距，不能据此认定四款均在当天开始预售。",
+      "21mm 及 16mm 鱼眼视角分别需另配 SEL075UWC / SEL057FEC 转换器；本体焦距仍为 28mm，转换器不作为独立原生 FE 镜头计入。"
     ],
     "verification": "verified"
   },
@@ -1130,8 +1143,8 @@
     "elements": 15,
     "groups": 11,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2015-03-04",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": true,
     "price": null,
@@ -1140,12 +1153,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel90m28g/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国：2015 年四款 E 卡口全画幅镜头正式发布",
+        "url": "https://www.sony.com.cn/newscenter/2289.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.28m (0.92ft)",
-      "厂商放大倍率原始值：1.0x"
+      "厂商放大倍率原始值：1.0x",
+      "2015-03-04 为中国官方正文明确的正式发布日；同页预售说明不包含 90mm 微距，不能据此认定四款均在当天开始预售。"
     ],
     "verification": "verified"
   },
@@ -2277,8 +2296,8 @@
     "elements": 17,
     "groups": 12,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2015-03-04",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -2287,12 +2306,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel24240/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国：2015 年四款 E 卡口全画幅镜头正式发布",
+        "url": "https://www.sony.com.cn/newscenter/2289.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.5-0.8 m (1.64-2.63 ft)",
-      "厂商放大倍率原始值：0.27x"
+      "厂商放大倍率原始值：0.27x",
+      "2015-03-04 为中国官方正文明确的正式发布日；同页预售说明不包含 90mm 微距，不能据此认定四款均在当天开始预售。"
     ],
     "verification": "verified"
   },
