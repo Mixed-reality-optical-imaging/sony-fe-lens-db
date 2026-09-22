@@ -24,22 +24,40 @@
     "elements": 14,
     "groups": 11,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-04-20",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11300,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 14mm F1.8 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2021/2021-04-21.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel14f18gm/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 14mm F1.8 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2021/2021-04-21.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.25 m (0.82 ft)",
-      "厂商放大倍率原始值：0.1"
+      "厂商放大倍率原始值：0.1",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。",
+      "采用后置插片式滤镜支架；滤镜口径为空不表示遗漏前置螺纹滤镜规格。"
     ],
     "verification": "verified"
   },
@@ -68,22 +86,39 @@
     "elements": 14,
     "groups": 12,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2020-02-25",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 7499,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 20mm F1.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20200226-01.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel20f18g/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 20mm F1.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20200226-01.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.19 m (AF), 0.18 m (MF) (0.63 ft (AF), 0.59 ft (MF))",
-      "厂商放大倍率原始值：0.20 (AF), 0.22 (MF)"
+      "厂商放大倍率原始值：0.20 (AF), 0.22 (MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。"
     ],
     "verification": "verified"
   },
@@ -112,22 +147,39 @@
     "elements": 8,
     "groups": 7,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-03-23",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4699,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 24mm F2.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-24.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel24f28g/spec",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 24mm F2.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-24.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.24 m (AF), 0.18 m (MF) (0.79 ft (AF), 0.59 ft (MF))",
-      "厂商放大倍率原始值：x 0.13 (AF),x 0.19 (MF)"
+      "厂商放大倍率原始值：x 0.13 (AF),x 0.19 (MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。",
+      "AF 最近对焦 0.24m、最高倍率 0.13×；MF 最近对焦 0.18m、最高倍率 0.19×。查询单值使用 MF 最短距离和最高倍率。"
     ],
     "verification": "verified"
   },
@@ -156,22 +208,39 @@
     "elements": 14,
     "groups": 10,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-01-13",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11300,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 35mm F1.4 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20210114-01.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel35f14gm/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 35mm F1.4 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20210114-01.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.27 m (AF), 0.25 m (MF) (0.89 ft (AF), 0.82 ft (MF) )",
-      "厂商放大倍率原始值：x 0.23 (AF) x 0.26 (MF)"
+      "厂商放大倍率原始值：x 0.23 (AF) x 0.26 (MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。"
     ],
     "verification": "verified"
   },
@@ -200,8 +269,8 @@
     "elements": 13,
     "groups": 10,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2018-09-20",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -210,12 +279,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel24f14gm/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 24mm F1.4 GM",
+        "url": "https://www.sony.com.cn/zh-cn/cms/newscenter/product/2018/20180921-1.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.24 m (0.79 ft)",
-      "厂商放大倍率原始值：0.17"
+      "厂商放大倍率原始值：0.17",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。"
     ],
     "verification": "verified"
   },
@@ -347,22 +422,39 @@
     "elements": 9,
     "groups": 9,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-03-23",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4699,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 40mm F2.5 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-24.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel40f25g/spec",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 40mm F2.5 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-24.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.28 m (AF), 0.25 m (MF) (0.92 ft (AF), 0.82 ft (MF)",
-      "厂商放大倍率原始值：x 0.2 (AF), x 0.23 (MF)"
+      "厂商放大倍率原始值：x 0.2 (AF), x 0.23 (MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。",
+      "AF 最近对焦 0.28m、最高倍率 0.2×；MF 最近对焦 0.25m、最高倍率 0.23×。查询单值使用 MF 最短距离和最高倍率。"
     ],
     "verification": "verified"
   },
@@ -391,22 +483,39 @@
     "elements": 14,
     "groups": 10,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-03-16",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 15999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 50mm F1.2 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-18.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel50f12gm/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 50mm F1.2 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-18.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.4 m (1.32 ft)",
-      "厂商放大倍率原始值：0.17"
+      "厂商放大倍率原始值：0.17",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。"
     ],
     "verification": "verified"
   },
@@ -435,22 +544,40 @@
     "elements": 14,
     "groups": 11,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2023-02-21",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 9599,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 50mm F1.4 GM",
+        "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2023/20230222-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel50f14gm/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 50mm F1.4 GM",
+        "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2023/20230222-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.41 (AF), 0.38 (MF) m (1.35 (AF),1.25 (MF) ft )",
-      "厂商放大倍率原始值：0.16 (AF), 0.18 (MF)"
+      "厂商放大倍率原始值：0.16 (AF), 0.18 (MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。",
+      "资料差异：2023 中国发布稿脚注将 MF 倍率写为 0.16×；当前 Sony UK 专用规格表为 AF 0.16× / MF 0.18×，本库保留规格表的 0.18×。"
     ],
     "verification": "verified"
   },
@@ -567,22 +694,39 @@
     "elements": 9,
     "groups": 9,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-03-23",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4699,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 50mm F2.5 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-24.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel50f25g/spec",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 50mm F2.5 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/2021-03-24.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.35 m (AF), 0.31 m (MF) (1.15 ft (AF), 1.02 ft (MF))",
-      "厂商放大倍率原始值：x 0.18 (AF), x 0.21 (MF)"
+      "厂商放大倍率原始值：x 0.18 (AF), x 0.21 (MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。",
+      "AF 最近对焦 0.35m、最高倍率 0.18×；MF 最近对焦 0.31m、最高倍率 0.21×。查询单值使用 MF 最短距离和最高倍率。"
     ],
     "verification": "verified"
   },
@@ -1463,22 +1607,39 @@
     "elements": 16,
     "groups": 13,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-02-21",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 7999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 24-50mm F2.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2024/20240222.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel2450g/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 24-50mm F2.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2024/20240222.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.19(W)-0.30(T) (AF), 0.18(W)-0.29(T) (MF) m (0.63(W)-0.99(T) (AF), 0.59(W)-0.96(T) (MF) ft)",
-      "厂商放大倍率原始值：0.30 (AF), 0.33 (MF)"
+      "厂商放大倍率原始值：0.30 (AF), 0.33 (MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。"
     ],
     "verification": "verified"
   },
@@ -1654,22 +1815,39 @@
     "elements": 16,
     "groups": 13,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2024-04-18",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 8499,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 16-25mm F2.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2024/20240418-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel1625g/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 16-25mm F2.8 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2024/20240418-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.18(W)-0.24(T)(AF), 0.17(W)-0.22(T)(MF) m (0.59(W)-0.79(T)(AF), 0.56(W)-0.73(T)(MF) ft)",
-      "厂商放大倍率原始值：0.20(AF), 0.23(MF)"
+      "厂商放大倍率原始值：0.20(AF), 0.23(MF)",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。"
     ],
     "verification": "verified"
   },
@@ -2491,22 +2669,39 @@
     "elements": 19,
     "groups": 17,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-04-22",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 28999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 50-150mm F2 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2025/20250423-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/e-mount-lenses/sel50150gm/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 50-150mm F2 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2025/20250423-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.4(W)-0.74(T) m (1.32(W)-2.43(T) ft)",
-      "厂商放大倍率原始值：0.2"
+      "厂商放大倍率原始值：0.2",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。"
     ],
     "verification": "verified"
   },
@@ -2535,22 +2730,160 @@
     "elements": 16,
     "groups": 13,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2026-09-08",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 9999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 8-14mm F3.5 Fisheye G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2026/20260909-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/e-mount-lenses/sel814g/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 8-14mm F3.5 Fisheye G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2026/20260909-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.15 m (0.5 ft)",
-      "厂商放大倍率原始值：0.22"
+      "厂商放大倍率原始值：0.22",
+      "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
+      "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。",
+      "0.22× 最大放大倍率对应 14mm 长焦端。8mm 为圆形鱼眼，14mm 为全画幅对角线鱼眼。"
+    ],
+    "verification": "verified"
+  },
+  {
+    "id": "sony-sel400f45gm",
+    "brand": "sony",
+    "name": "FE 400mm F4.5 GM OSS",
+    "model": "SEL400F45GM",
+    "aliases": [],
+    "series": "GM",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 400,
+    "focalMax": 400,
+    "apertureWide": 4.5,
+    "apertureTele": 4.5,
+    "focus": "AF",
+    "stabilization": true,
+    "weight": 994,
+    "diameter": 108,
+    "length": 242,
+    "filterSize": 95,
+    "minFocus": 2.5,
+    "maxMagnification": 0.18,
+    "elements": 22,
+    "groups": 16,
+    "blades": 11,
+    "releaseDate": "2026-09-15",
+    "releasePrecision": "day",
+    "status": "unknown",
+    "macro": false,
+    "price": {
+      "amount": 18999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国：400mm F4.5 与 600mm F6.3 发布公告",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2026/20260916-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
+    "sources": [
+      {
+        "title": "SONY 官方 Sony E 全画幅规格表",
+        "url": "https://www.sony.co.uk/electronics/e-mount-lenses/sel400f45gm/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国：400mm F4.5 与 600mm F6.3 发布公告",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2026/20260916-1.html",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "重量不含三脚架接环。",
+      "2026-09-15 正式发布；中国公告预计 2026 年 9 月下旬上市，核验时未确认实际开售，销售状态保留未知。",
+      "人民币价格为中国大陆上市指导价，不代表当前成交价。",
+      "兼容 SEL14TC / SEL20TC；本条焦距、光圈与倍率均为未安装增距镜的镜头本体规格。"
+    ],
+    "verification": "verified"
+  },
+  {
+    "id": "sony-sel600f63gm",
+    "brand": "sony",
+    "name": "FE 600mm F6.3 GM OSS",
+    "model": "SEL600F63GM",
+    "aliases": [],
+    "series": "GM",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 600,
+    "focalMax": 600,
+    "apertureWide": 6.3,
+    "apertureTele": 6.3,
+    "focus": "AF",
+    "stabilization": true,
+    "weight": 995,
+    "diameter": 108,
+    "length": 263,
+    "filterSize": 95,
+    "minFocus": 2.5,
+    "maxMagnification": 0.25,
+    "elements": 24,
+    "groups": 17,
+    "blades": 11,
+    "releaseDate": "2026-09-15",
+    "releasePrecision": "day",
+    "status": "unknown",
+    "macro": false,
+    "price": {
+      "amount": 24999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国：400mm F4.5 与 600mm F6.3 发布公告",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2026/20260916-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
+    "sources": [
+      {
+        "title": "SONY 官方 Sony E 全画幅规格表",
+        "url": "https://www.sony.co.uk/electronics/e-mount-lenses/sel600f63gm/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国：400mm F4.5 与 600mm F6.3 发布公告",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2026/20260916-1.html",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "重量不含三脚架接环。",
+      "2026-09-15 正式发布；中国公告预计 2026 年 9 月下旬上市，核验时未确认实际开售，销售状态保留未知。",
+      "人民币价格为中国大陆上市指导价，不代表当前成交价。",
+      "兼容 SEL14TC / SEL20TC；本条焦距、光圈与倍率均为未安装增距镜的镜头本体规格。"
     ],
     "verification": "verified"
   }

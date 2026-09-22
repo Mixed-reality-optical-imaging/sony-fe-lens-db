@@ -237,3 +237,5 @@ Bug reports, source-backed corrections and pull requests are welcome. Run valida
 2026-09-22 Thypoch 扩展 / Expansion: 新增 Simera 28mm、35mm 摄影版，逐卡口核对规格并保留缺项。Added two mount-specific Simera photo lenses with unknown values retained. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_THYPOCH.md)。
 
 2026-09-22 腾龙补充 / Tamron update: 完善 16 款近摄条件、两款停产状态和 F072 系列字段。Documented focus/focal-length/firmware conditions and confirmed two discontinued models. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_TAMRON_CONDITIONS.md)。
+
+2026-09-22 索尼补充 / Sony update: 新增两款长焦，补充 13 款发布日及 12 款历史指导价，并记录参数条件与来源差异。Added two primes and sourced announcement dates / launch prices. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SONY_RELEASES.md)。
