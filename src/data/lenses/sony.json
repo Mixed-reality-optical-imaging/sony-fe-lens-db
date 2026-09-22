@@ -1650,8 +1650,8 @@
     "elements": 17,
     "groups": 13,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2017-05-18",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -1660,12 +1660,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel1224g/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 12-24mm F4 G",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170518-2.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.28 m (0.92 ft)",
-      "厂商放大倍率原始值：0.14"
+      "厂商放大倍率原始值：0.14",
+      "日期采用中国官方正文的正式发布日，不等同于其他地区发布日期或预计开售日。本次官方发布稿未列人民币价格，保留空值。"
     ],
     "verification": "verified"
   },
@@ -1843,8 +1849,8 @@
     "elements": 16,
     "groups": 13,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2017-05-18",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -1853,12 +1859,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel1635gm/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 16-35mm F2.8 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170518-2.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.28m (0.92 ft)",
-      "厂商放大倍率原始值：0.19"
+      "厂商放大倍率原始值：0.19",
+      "日期采用中国官方正文的正式发布日，不等同于其他地区发布日期或预计开售日。本次官方发布稿未列人民币价格，保留空值。"
     ],
     "verification": "verified"
   },
@@ -2139,22 +2151,38 @@
     "elements": 17,
     "groups": 14,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2017-10-25",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 9999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 24-105mm F4 G OSS",
+        "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20171026-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel24105g/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 24-105mm F4 G OSS",
+        "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20171026-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.38 m (1.25 ft)",
-      "厂商放大倍率原始值：0.31"
+      "厂商放大倍率原始值：0.31",
+      "日期采用中国官方正文的正式发布日，不等同于其他地区发布日期或预计开售日。人民币价格为当年上市指导价，不代表当前成交价。"
     ],
     "verification": "verified"
   },
@@ -2584,22 +2612,38 @@
     "elements": 22,
     "groups": 16,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2017-04-20",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 18900,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 100-400mm F4.5-5.6 GM OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170420.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel100400gm/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 100-400mm F4.5-5.6 GM OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170420.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.98m / 3.22 ft",
-      "厂商放大倍率原始值：0.35"
+      "厂商放大倍率原始值：0.35",
+      "日期采用中国官方正文的正式发布日，不等同于其他地区发布日期或预计开售日。人民币价格为当年上市指导价，不代表当前成交价。"
     ],
     "verification": "verified"
   },
