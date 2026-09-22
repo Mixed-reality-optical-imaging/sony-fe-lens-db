@@ -1,34 +1,12 @@
 # SONY FE Lens DB
 
+**[在线访问 / Live Website](https://sony-fe-lens-db.1428609588.workers.dev/)**
+
 [简体中文](#简体中文) · [English](#english)
-
-最新价格更新：导入用户提交的 221 行价格表，189 条以“用户提供参考价”展示，32 条因缺价、估算或版本／卡口不明确暂缓。当前 267/299 款有参考数值：189 条用户提供、48 条商家页面价、30 条原有官方／上市价。用户提供值未经独立网页核验，录入日期不等于报价日期；其来源可能为列表、比价站或历史活动，不能视为已确认淘宝／京东现价。[导入及暂缓清单](docs/PRICE_IMPORT_USER_2026-09-22.md)。下方为历史更新记录。
-
-Latest price update: imported 189 user-supplied references from a 221-row workbook and held 32 missing, estimated or version/mount-ambiguous entries. 267/299 records now have reference values: 189 submitted, 48 merchant snapshots and 30 existing official/launch references. Submitted values have not been independently checked against the linked pages; the import date is not the quote date. [Import audit and pending entries](docs/PRICE_IMPORT_USER_2026-09-22.md).
 
 ## 简体中文
 
-本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。当前收录 14 个品牌的 299 款镜头，所有正式记录附资料来源与核验日期。下方历史更新日志中的数量对应各轮整理时点。
-
-2026-09-22 全库价格查询：已逐款查询 299 款，新增 48 款京东商品页面价；现有 78 款具有可溯源人民币参考价，221 款仍未确认报价。商家页面价仅为查询快照，不是实时到手价、最低价或库存保证；型号、卡口、采集日期、来源及限制均附在记录中。原有上市指导价在详情页保留。[逐款查询记录 / Full price audit](docs/PRICE_REVIEW_ALL_2026-09-22.md)。
-
-Full-catalog price review (2026-09-22): all 299 records were individually searched. Added 48 JD product-page price snapshots; 78 records now have sourced CNY references and 221 remain unpriced. Listing snapshots are not live checkout prices, lowest-price claims or stock guarantees. Sources, dates and conditions are recorded, and earlier launch prices remain available on detail pages.
-
-最新数据整理：2026-09-22 历史资料补充核验，补充 14 款已有镜头的 19 项参数，主要规格完整 226/291 款。详见 [本轮历史资料核验 / Archive review](docs/DATA_ENRICHMENT_2026-09-22_ARCHIVES.md)、[扩大检索记录](docs/DATA_ENRICHMENT_2026-09-22_EXPANDED.md)、[首轮记录](docs/DATA_ENRICHMENT_2026-09-22.md) 与 [覆盖及缺项清单](docs/DATA_COVERAGE.md)。
-
-Latest data update: the archive review adds 19 missing values across 14 existing lenses. Primary specifications are complete for 226 of 291 records; this does not mean every metadata field is complete. Remaining gaps and limitations of indexed historical sources are documented in the linked reports.
-
-后续地区资料核验：再补充铭匠 8 款镜头的 17 个数值参数与 1 个销售状态，明确 E 卡口尺寸、重量及来源差异。[地区核验记录 / Regional review](docs/DATA_ENRICHMENT_2026-09-22_REGIONAL.md)。
-
-Follow-up regional review: 17 numerical values and one sales status added across eight TTArtisan lenses, with Sony E dimensions, weights and source discrepancies documented. Primary-spec completeness remains 226/291 because these records still lack other parameters.
-
-七工匠后续复核：4 款镜头再补 5 个参数，卡口与叶片数冲突继续标注。[核验记录 / 7Artisans follow-up](docs/DATA_ENRICHMENT_2026-09-22_7ARTISANS.md)。Five further values added across four 7Artisans lenses; unresolved mount and diaphragm-count conflicts remain documented.
-
-适马日期复核：补齐 16 款日期，区分旧版公告日与更新版 Sony E 修订发售日。[日期核验 / Sigma date review](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_DATES.md)。Sixteen dates added with explicit announcement-versus-release notes; renewed Sony E models use the revised schedule.
-
-适马历史复核：另补 12 款原生 E 版本公告日期，避免混用单反版本年份。[历史核验 / Historical Sony E review](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_HISTORY.md)。Twelve additional Sony E announcement dates verified; earlier DSLR launch years are not used.
-
-适马 DG DN 复核：再补 10 款 2023—2024 年公告日期。[发布资料核验 / DG DN announcement review](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_DGDN.md)。Ten further dates verified from official US announcements, with generation and mount distinctions preserved.
+支持在线访问和本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。当前收录 14 个品牌的 299 款镜头，所有正式记录附资料来源与核验日期。
 
 ### 仅供参考 / 数据准确性
 
@@ -111,7 +89,7 @@ npm run dev
 
 主要依据厂家产品页、规格表、官方商品目录及 PDF。老蛙使用其荷兰地区品牌站，存在单位或尺寸冲突的字段已经留空。部分厂商参数仅有图片、多卡口版本混排或历史资料缺失，正式收录中允许 `null` 并注明原因。完整型号清单和待核验表可继续维护。
 
-人民币价格目前采用可核实的索尼中国上市公告及唯卓仕上市定价资料，明确标记“上市指导价”，不代表当前成交价；海外价格不换算。没有找到可靠价格时显示“暂无报价”。日期可能是厂商公布的发布或开售日期，具体口径见来源与备注，未知日期排在末尾。
+人民币参考价格按来源标记为官方公开价、上市指导价、商家页面价或用户提供参考价，不代表实时成交价、最低价或库存保证。用户提供的价格未经独立网页核验，录入日期不等于报价日期。海外价格不换算；缺失或尚未确认的价格显示“暂无报价”。日期可能是厂商公布的发布或开售日期，具体口径见来源与备注，未知日期排在末尾。
 
 ## 数据更新
 
@@ -172,7 +150,7 @@ MIT 不重新许可第三方商标、文档、素材或其他受保护内容，�
 
 ## English
 
-An independent, locally hosted database for Sony E-mount full-frame photography lenses, built with React, TypeScript and Vite. The interface is in Simplified Chinese; this README provides documentation in both Chinese and English. The dataset currently contains **291 lenses across 14 brands**, with source links and review dates for every included record. It is not a complete market inventory.
+An independent database available online and for local use for Sony E-mount full-frame photography lenses, built with React, TypeScript and Vite. The interface is in Simplified Chinese; this README provides documentation in both Chinese and English. The dataset currently contains **299 lenses across 14 brands**, with source links and review dates for every included record. It is not a complete market inventory.
 
 See the [bilingual screenshot gallery](#screenshots) for the lens library, combined search/table view, specifications with sources, and side-by-side comparison.
 
@@ -207,7 +185,7 @@ Open **http://127.0.0.1:5173/** and keep the terminal running. Press `Ctrl+C` to
 
 ### Data and maintenance
 
-Initial review date: **2026-09-22**. Manufacturer product pages, specifications, catalogs and manuals are the primary specification references. Conflicting or unavailable values may be `null`, with notes. Dates can refer to announcements or availability dates; check individual source notes. CNY references include official prices, historical launch prices and explicitly labeled merchant listing snapshots; overseas prices are not converted.
+Initial review date: **2026-09-22**. Manufacturer product pages, specifications, catalogs and manuals are the primary specification references. Conflicting or unavailable values may be `null`, with notes. Dates can refer to announcements or availability dates; check individual source notes. CNY references include official prices, historical launch prices, merchant listing snapshots and explicitly labeled user-submitted references. They are not live transaction prices, lowest-price claims or stock guarantees. User-submitted prices have not been independently verified against the linked pages; the import date is not the quote date. Overseas prices are not converted.
 
 Edit per-brand files in `src/data/lenses/`. Shared types and validation rules live in `src/schema.ts`; query logic lives in `src/query.ts`. See the [coverage inventory](docs/DATA_COVERAGE.md), [maintenance guide](docs/DATA_MAINTENANCE.md) and [acceptance record](docs/ACCEPTANCE.md) for details (currently in Chinese).
 
@@ -233,19 +211,3 @@ Manufacturer names, model names and trademarks identify products only. This proj
 MIT does not relicense third-party trademarks, documents, assets or other protected content, and does not override third-party licenses, website terms or applicable law. **A disclaimer is neither authorization nor a compliance guarantee; we cannot guarantee that every use is free of third-party obligations or rights.** Contributors should submit material they are entitled to share, preserve sources and avoid restricted text or assets. Rights holders may open an Issue identifying the affected file, content and basis of their concern so maintainers can investigate, correct or remove it.
 
 Bug reports, source-backed corrections and pull requests are welcome. Run validation, tests and a production build before submitting changes. References: [MIT license overview](https://choosealicense.com/licenses/mit/) and [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
-
-2026-09-22 新品补充 / New additions: 新增适马 85mm F1.2 DG Art 与 20–60mm F2.8–4 DG Contemporary，按 Sony E 独立参数收录，注明计划上市日期及待核实字段。Added two announced Sigma lenses with Sony E specifications and explicit pre-launch notes. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_NEW.md)。
-
-2026-09-22 永诺补充 / Yongnuo update: 补齐 7 项规格，新增 18mm 与原版 85mm，保留版本区别和官方来源。Resolved seven specifications and added two distinct models. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_YONGNUO.md)。
-
-2026-09-22 老蛙补充 / Laowa update: 补齐三款 Sony E 长度并修正 85mm 本体重量，区分含配件口径。Resolved three mount-specific lengths and corrected bare-lens weight. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_LAOWA_DIMENSIONS.md)。
-
-2026-09-22 适马历史补充 / Sigma history: 补充七款 DG DN 官方公告日期，并记录 105mm 旧稿日期差异。Added seven sourced announcement dates with the 105mm timestamp discrepancy documented. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_EARLY_DGDN.md)。
-
-2026-09-22 Thypoch 扩展 / Expansion: 新增 Simera 28mm、35mm 摄影版，逐卡口核对规格并保留缺项。Added two mount-specific Simera photo lenses with unknown values retained. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_THYPOCH.md)。
-
-2026-09-22 腾龙补充 / Tamron update: 完善 16 款近摄条件、两款停产状态和 F072 系列字段。Documented focus/focal-length/firmware conditions and confirmed two discontinued models. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_TAMRON_CONDITIONS.md)。
-
-2026-09-22 索尼补充 / Sony update: 新增两款长焦，补充 13 款发布日及 12 款历史指导价，并记录参数条件与来源差异。Added two primes and sourced announcement dates / launch prices. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SONY_RELEASES.md)。
-
-2026-09-22 价格核验 / Price review: 为唯卓仕 35mm / 55mm EVO 补入 ¥1,799 / ¥1,699 历史上市参考价。淘宝、京东当前售价未能核验，未将搜索摘要或优惠聚合页报价当成实时成交价。Added two historical launch-price references; current Taobao/JD offers remain unverified. [核验记录 / Audit](docs/PRICE_REVIEW_2026-09-22.md)。
