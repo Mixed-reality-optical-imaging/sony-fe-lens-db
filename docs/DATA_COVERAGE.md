@@ -2,7 +2,7 @@
 
 核验日期：2026-09-22。本清单由 `npm run data:report` 从正式记录生成。
 
-共 **299 款、14 个品牌**，其中 237 款主要规格完整，62 款信息不全，36 条可追溯人民币价格，36 款有明确停产依据。
+共 **299 款、14 个品牌**，其中 237 款主要规格完整，62 款信息不全，38 条可追溯人民币价格，36 款有明确停产依据。
 
 **此清单记录已核验范围，不代表市场全量。** 正式条目已确认原生 Sony E 卡口及全画幅身份；缺失字段仍显示暂无数据。
 
@@ -49,7 +49,7 @@
 | 发布日期 | 157 | 142 |
 | 销售状态 | 86 | 213 |
 | 对焦方式 | 299 | 0 |
-| 人民币参考价格 | 36 | 263 |
+| 人民币参考价格 | 38 | 261 |
 | 系列（可能不适用） | 191 | 108 |
 | 代际（可能不适用） | 25 | 274 |
 
@@ -354,8 +354,8 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
 | AF 26mm F2.8 EVO（`viltrox-af-26mm-f2-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-26mm-f2-8-fe) |
-| AF 35mm F1.8 EVO（`viltrox-af-35mm-f1-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-35mm-f1-8-fe) |
-| AF 55mm F1.8 EVO（`viltrox-af-55mm-f1-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-55mm-f1-8-fe) |
+| AF 35mm F1.8 EVO (APO)（`viltrox-af-35mm-f1-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-35mm-f1-8-fe) |
+| AF 55mm F1.8 EVO (APO)（`viltrox-af-55mm-f1-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-55mm-f1-8-fe) |
 | AF 85mm F2.0 EVO（`viltrox-af-85mm-f2-0-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-85mm-f2-0-fe) |
 | AF 50mm F1.4 Pro（`viltrox-af-50mm-f1-4-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-50mm-f1-4-fe) |
 | AF 14mm F4.0 Air（`viltrox-af-14mm-f4-0-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-14mm-f4-0-fe) |

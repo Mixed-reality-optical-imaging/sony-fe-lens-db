@@ -103,7 +103,7 @@ npm run dev
 
 主要依据厂家产品页、规格表、官方商品目录及 PDF。老蛙使用其荷兰地区品牌站，存在单位或尺寸冲突的字段已经留空。部分厂商参数仅有图片、多卡口版本混排或历史资料缺失，正式收录中允许 `null` 并注明原因。完整型号清单和待核验表可继续维护。
 
-人民币价格目前采用少量可核实的索尼中国上市公告，明确标记“上市指导价”，不代表当前成交价；海外价格不换算。没有找到可靠价格时显示“暂无报价”。日期可能是厂商公布的发布或开售日期，具体口径见来源与备注，未知日期排在末尾。
+人民币价格目前采用可核实的索尼中国上市公告及唯卓仕上市定价资料，明确标记“上市指导价”，不代表当前成交价；海外价格不换算。没有找到可靠价格时显示“暂无报价”。日期可能是厂商公布的发布或开售日期，具体口径见来源与备注，未知日期排在末尾。
 
 ## 数据更新
 
@@ -199,7 +199,7 @@ Open **http://127.0.0.1:5173/** and keep the terminal running. Press `Ctrl+C` to
 
 ### Data and maintenance
 
-Initial review date: **2026-09-22**. Manufacturer product pages, specifications, catalogs and manuals are the primary references. Conflicting or unavailable values may be `null`, with notes. Dates can refer to announcements or availability dates; check individual source notes. Yuan price references currently include a small set of traceable Sony China launch announcements; overseas prices are not converted.
+Initial review date: **2026-09-22**. Manufacturer product pages, specifications, catalogs and manuals are the primary references. Conflicting or unavailable values may be `null`, with notes. Dates can refer to announcements or availability dates; check individual source notes. Yuan price references currently include traceable Sony China launch announcements and Viltrox launch-price references; overseas prices are not converted.
 
 Edit per-brand files in `src/data/lenses/`. Shared types and validation rules live in `src/schema.ts`; query logic lives in `src/query.ts`. See the [coverage inventory](docs/DATA_COVERAGE.md), [maintenance guide](docs/DATA_MAINTENANCE.md) and [acceptance record](docs/ACCEPTANCE.md) for details (currently in Chinese).
 
@@ -239,3 +239,5 @@ Bug reports, source-backed corrections and pull requests are welcome. Run valida
 2026-09-22 腾龙补充 / Tamron update: 完善 16 款近摄条件、两款停产状态和 F072 系列字段。Documented focus/focal-length/firmware conditions and confirmed two discontinued models. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_TAMRON_CONDITIONS.md)。
 
 2026-09-22 索尼补充 / Sony update: 新增两款长焦，补充 13 款发布日及 12 款历史指导价，并记录参数条件与来源差异。Added two primes and sourced announcement dates / launch prices. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SONY_RELEASES.md)。
+
+2026-09-22 价格核验 / Price review: 为唯卓仕 35mm / 55mm EVO 补入 ¥1,799 / ¥1,699 历史上市参考价。淘宝、京东当前售价未能核验，未将搜索摘要或优惠聚合页报价当成实时成交价。Added two historical launch-price references; current Taobao/JD offers remain unverified. [核验记录 / Audit](docs/PRICE_REVIEW_2026-09-22.md)。

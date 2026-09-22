@@ -82,7 +82,17 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1799,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "唯卓仕台湾旗舰店转载评测 · 35/55 EVO 上市时官方定价",
+        "url": "https://www.viltrox.com.tw/2026/04/28/from-oinepoint/",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -93,11 +103,22 @@
         "title": "Viltrox 官方 35mm EVO APO 产品说明",
         "url": "https://viltrox.com/pages/af-35-1-8-evo-fe-apo",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "唯卓仕台湾旗舰店转载评测 · 35/55 EVO 上市时官方定价",
+        "url": "https://www.viltrox.com.tw/2026/04/28/from-oinepoint/",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "IT之家 2026-04-20 · 35/55 EVO 人民币发布定价报道",
+        "url": "https://www.ithome.com/0/941/329.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "依据官网 E/FE-mount 规格区补充；尺寸为直径×长度（mm），重量为官方约值。",
-      "本记录为 EVO APO 全画幅 Sony E 版本，参数按官方 FE 产品页规格表核验；重量为裸镜约值，不混用 Nikon Z 版本。"
+      "本记录为 EVO APO 全画幅 Sony E 版本，参数按官方 FE 产品页规格表核验；重量为裸镜约值，不混用 Nikon Z 版本。",
+      "人民币价格为 2026 年 4 月上市参考定价，由唯卓仕台湾旗舰店转载评测及中国大陆发布报道交叉核对；不是台币换算，也不是 2026-09-22 淘宝或京东实时售价。京东商品页未返回可核验金额，淘宝公开页读取失败，当前电商价仍待核验。"
     ],
     "verification": "verified"
   },
@@ -139,7 +160,17 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1699,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "唯卓仕台湾旗舰店转载评测 · 35/55 EVO 上市时官方定价",
+        "url": "https://www.viltrox.com.tw/2026/04/28/from-oinepoint/",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -150,11 +181,22 @@
         "title": "Viltrox 官方 55mm EVO APO 产品说明",
         "url": "https://viltrox.com/pages/af-55-1-8-evo-fe-apo",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "唯卓仕台湾旗舰店转载评测 · 35/55 EVO 上市时官方定价",
+        "url": "https://www.viltrox.com.tw/2026/04/28/from-oinepoint/",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "IT之家 2026-04-20 · 35/55 EVO 人民币发布定价报道",
+        "url": "https://www.ithome.com/0/941/329.htm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "依据官网 E/FE-mount 规格区补充；尺寸为直径×长度（mm），重量为官方约值。",
-      "本记录为 EVO APO 全画幅 Sony E 版本，参数按官方 FE 产品页规格表核验；重量为裸镜约值，不混用 Nikon Z 版本。"
+      "本记录为 EVO APO 全画幅 Sony E 版本，参数按官方 FE 产品页规格表核验；重量为裸镜约值，不混用 Nikon Z 版本。",
+      "人民币价格为 2026 年 4 月上市参考定价，由唯卓仕台湾旗舰店转载评测及中国大陆发布报道交叉核对；不是台币换算，也不是 2026-09-22 淘宝或京东实时售价。京东商品页未返回可核验金额，淘宝公开页读取失败，当前电商价仍待核验。"
     ],
     "verification": "verified"
   },
