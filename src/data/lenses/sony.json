@@ -1227,22 +1227,38 @@
     "elements": 13,
     "groups": 10,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2019-02-26",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 13500,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 135mm F1.8 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2019/20190227-1-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel135f18gm/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 135mm F1.8 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2019/20190227-1-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.7 m (2.3 ft)",
-      "厂商放大倍率原始值：0.25"
+      "厂商放大倍率原始值：0.25",
+      "发布日期取中国官方发布稿正文正式发布日；人民币价格为当年上市指导价，不代表当前成交价。"
     ],
     "verification": "verified"
   },
@@ -1315,22 +1331,39 @@
     "elements": 17,
     "groups": 14,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2020-07-07",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 21999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 12-24mm F2.8 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20200708.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel1224gm/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 12-24mm F2.8 GM",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20200708.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.28 m(0.92 ft)",
-      "厂商放大倍率原始值：0.14"
+      "厂商放大倍率原始值：0.14",
+      "发布日期取中国官方发布稿正文正式发布日；人民币价格为当年上市指导价，不代表当前成交价。",
+      "官方发布稿说明后部滤镜架支持插片式滤镜，附裁切模板；不将后置插片规格填成前置螺纹滤镜口径。"
     ],
     "verification": "verified"
   },
@@ -2294,22 +2327,39 @@
     "elements": 17,
     "groups": 14,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2021-10-13",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 18999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 70-200mm F2.8 GM II OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2021/20211013-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel70200gm2/spec",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 70-200mm F2.8 GM II OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2021/20211013-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.4-0.82 m(1.32-2.69 ft)",
-      "厂商放大倍率原始值：0.3"
+      "厂商放大倍率原始值：0.3",
+      "发布日期取中国官方发布稿正文正式发布日；人民币价格为当年上市指导价，不代表当前成交价。",
+      "官方发布稿最近对焦条件：70mm 端 0.4m、200mm 端 0.82m；查询单值为全焦段最短距离。搭配 SEL14TC / SEL20TC 时最大光圈分别为 F4 / F5.6，本体仍为恒定 F2.8。"
     ],
     "verification": "verified"
   },
