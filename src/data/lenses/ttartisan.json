@@ -18,14 +18,14 @@
     "focus": "AF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
+    "diameter": 70,
+    "length": 90.5,
     "filterSize": 62,
     "minFocus": 0.8,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 12,
+    "groups": 8,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -39,7 +39,9 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
     ],
     "verification": "partial"
   },
@@ -62,14 +64,14 @@
     "focus": "AF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
+    "diameter": 61,
+    "length": 51.5,
     "filterSize": 52,
     "minFocus": 0.48,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 12,
+    "groups": 8,
+    "blades": 7,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -83,7 +85,9 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
     ],
     "verification": "partial"
   },
@@ -106,14 +110,14 @@
     "focus": "AF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
+    "diameter": 61,
+    "length": 44,
     "filterSize": 52,
     "minFocus": 0.4,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 9,
+    "groups": 6,
+    "blades": 7,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -127,7 +131,9 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
     ],
     "verification": "partial"
   },
@@ -150,14 +156,14 @@
     "focus": "AF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
+    "diameter": 67,
+    "length": 74,
     "filterSize": 62,
     "minFocus": 0.75,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 10,
+    "groups": 7,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -171,7 +177,9 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
     ],
     "verification": "partial"
   },
@@ -194,14 +202,14 @@
     "focus": "MF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
-    "maxMagnification": null,
+    "diameter": 72,
+    "length": 150,
+    "filterSize": 67,
+    "minFocus": 0.25,
+    "maxMagnification": 2,
     "elements": 14,
     "groups": 10,
-    "blades": null,
+    "blades": 12,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -215,7 +223,9 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
     ],
     "verification": "partial"
   },
@@ -238,14 +248,14 @@
     "focus": "MF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
+    "diameter": 88,
+    "length": 317,
     "filterSize": 82,
     "minFocus": 3.3,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 8,
+    "groups": 5,
+    "blades": 12,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -259,7 +269,9 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
     ],
     "verification": "partial"
   },
@@ -303,7 +315,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。"
     ],
     "verification": "partial"
   },
@@ -331,9 +344,9 @@
     "filterSize": 62,
     "minFocus": 0.5,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 7,
+    "groups": 6,
+    "blades": 13,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -347,7 +360,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。"
     ],
     "verification": "partial"
   },
@@ -375,9 +389,9 @@
     "filterSize": 43,
     "minFocus": 0.5,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 6,
+    "groups": 5,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -391,7 +405,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。"
     ],
     "verification": "partial"
   },
@@ -417,11 +432,11 @@
     "diameter": null,
     "length": null,
     "filterSize": null,
-    "minFocus": null,
+    "minFocus": 0.17,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 7,
+    "blades": 7,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -435,7 +450,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官网区分无反/M 与单反：Sony E 采用无反栏 7 组 11 片、7 叶片、0.17m，不采用单反栏 10 组 12 片。无前置旋入滤镜。"
     ],
     "verification": "partial"
   },
@@ -460,12 +476,12 @@
     "weight": null,
     "diameter": null,
     "length": null,
-    "filterSize": 52,
+    "filterSize": 77,
     "minFocus": 1,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 7,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -476,10 +492,16 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/90mm-f1-25",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://en.ttartisan.com/static/upload/file/20230327/1679882838946101.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官方多卡口使用说明书明确 90mm F1.25、77mm 滤镜、1m 最近对焦。通用约 1013g 未分卡口，不补填重量。"
     ],
     "verification": "partial"
   },
@@ -504,12 +526,12 @@
     "weight": null,
     "diameter": null,
     "length": null,
-    "filterSize": null,
+    "filterSize": 72,
     "minFocus": null,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 13,
+    "groups": 11,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -523,7 +545,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。"
     ],
     "verification": "partial"
   }

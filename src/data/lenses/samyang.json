@@ -17,14 +17,14 @@
     "apertureTele": 2.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 730,
+    "diameter": 86.7,
+    "length": 149,
     "filterSize": 77,
     "minFocus": 0.35,
     "maxMagnification": 0.26,
-    "elements": null,
-    "groups": null,
+    "elements": 17,
+    "groups": 14,
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
@@ -40,9 +40,10 @@
     ],
     "notes": [
       "厂商美国站以 Rokinon 品牌销售；按森养同一产品体系收录，保留原始名称供核对。",
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-24-60mm-f2-8-af-standard-zoom-lens-sony-e",
@@ -68,8 +69,8 @@
     "filterSize": 72,
     "minFocus": 0.18,
     "maxMagnification": 0.27,
-    "elements": null,
-    "groups": null,
+    "elements": 14,
+    "groups": 11,
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
@@ -83,8 +84,10 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "samyang-af-85mm-f1-8-p-fe",
@@ -110,8 +113,8 @@
     "filterSize": 62,
     "minFocus": 0.8,
     "maxMagnification": 0.12,
-    "elements": null,
-    "groups": null,
+    "elements": 9,
+    "groups": 8,
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
@@ -125,7 +128,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+    ],
     "verification": "partial"
   },
   {
@@ -152,8 +157,8 @@
     "filterSize": 62,
     "minFocus": 0.12,
     "maxMagnification": 0.33,
-    "elements": null,
-    "groups": null,
+    "elements": 8,
+    "groups": 7,
     "blades": 7,
     "releaseDate": null,
     "releasePrecision": null,
@@ -167,7 +172,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+    ],
     "verification": "partial"
   },
   {
@@ -194,8 +201,8 @@
     "filterSize": 77,
     "minFocus": 0.18,
     "maxMagnification": 0.17,
-    "elements": null,
-    "groups": null,
+    "elements": 15,
+    "groups": 11,
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
@@ -210,9 +217,10 @@
       }
     ],
     "notes": [
-      "厂商美国站以 Rokinon 品牌销售；按森养同一产品体系收录，保留原始名称供核对。"
+      "厂商美国站以 Rokinon 品牌销售；按森养同一产品体系收录，保留原始名称供核对。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-af-35mm-f1-4-p-fe",
@@ -238,8 +246,8 @@
     "filterSize": 67,
     "minFocus": 0.3,
     "maxMagnification": 0.17,
-    "elements": null,
-    "groups": null,
+    "elements": 12,
+    "groups": 10,
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
@@ -253,7 +261,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+    ],
     "verification": "partial"
   },
   {
@@ -280,8 +290,8 @@
     "filterSize": 82,
     "minFocus": 0.33,
     "maxMagnification": 0.175,
-    "elements": null,
-    "groups": null,
+    "elements": 21,
+    "groups": 18,
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
@@ -295,8 +305,10 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "samyang-85mm-f1-4-af-series-ii-full-frame-telephoto-sony-e",
@@ -490,8 +502,8 @@
     "filterSize": 82,
     "minFocus": 0.35,
     "maxMagnification": 0.1,
-    "elements": null,
-    "groups": null,
+    "elements": 17,
+    "groups": 14,
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
@@ -505,7 +517,9 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+    ],
     "verification": "partial"
   },
   {
@@ -530,7 +544,7 @@
     "diameter": 65,
     "length": 71.5,
     "filterSize": 58,
-    "minFocus": null,
+    "minFocus": 0.19,
     "maxMagnification": 0.21,
     "elements": 11,
     "groups": 8,
@@ -547,8 +561,10 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "samyang-14mm-f2-8-wide-angle-sony-e-mount",
@@ -652,9 +668,9 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 525,
+    "diameter": 77.3,
+    "length": 98.7,
     "filterSize": null,
     "minFocus": 0.2,
     "maxMagnification": null,
@@ -674,7 +690,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -696,9 +713,9 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 570,
+    "diameter": 87,
+    "length": 122.1,
     "filterSize": null,
     "minFocus": 0.28,
     "maxMagnification": null,
@@ -718,7 +735,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -740,9 +758,9 @@
     "apertureTele": 1.4,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 735,
+    "diameter": 83,
+    "length": 137.5,
     "filterSize": 77,
     "minFocus": 0.3,
     "maxMagnification": null,
@@ -762,7 +780,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -784,9 +803,9 @@
     "apertureTele": 1.4,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 565,
+    "diameter": 81.6,
+    "length": 100.7,
     "filterSize": 77,
     "minFocus": 0.45,
     "maxMagnification": null,
@@ -806,7 +825,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -828,9 +848,9 @@
     "apertureTele": 1.4,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 570,
+    "diameter": 78,
+    "length": 100.7,
     "filterSize": 72,
     "minFocus": 1,
     "maxMagnification": null,
@@ -850,7 +870,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -872,9 +893,9 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 730,
+    "diameter": 72.5,
+    "length": 149.1,
     "filterSize": 67,
     "minFocus": 0.3,
     "maxMagnification": null,
@@ -894,7 +915,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -916,9 +938,9 @@
     "apertureTele": 2,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 840,
+    "diameter": 82,
+    "length": 148.1,
     "filterSize": 77,
     "minFocus": 0.8,
     "maxMagnification": null,
@@ -938,7 +960,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -1128,9 +1151,9 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 708,
+    "diameter": 81.6,
+    "length": 122.1,
     "filterSize": null,
     "minFocus": 0.28,
     "maxMagnification": null,
@@ -1150,7 +1173,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },
@@ -1172,9 +1196,9 @@
     "apertureTele": 1.4,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 599,
+    "diameter": 78,
+    "length": 100.7,
     "filterSize": 72,
     "minFocus": 1.1,
     "maxMagnification": 0.17,
@@ -1194,7 +1218,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
     ],
     "verification": "partial"
   },

@@ -2,25 +2,131 @@
 
 核验日期：2026-09-22。本清单由 `npm run data:report` 从正式记录生成。
 
-共 **286 款、13 个品牌**，其中 158 款主要规格完整，128 款信息不全，6 条可追溯人民币价格，23 款有明确停产依据。
+共 **286 款、13 个品牌**，其中 199 款主要规格完整，87 款信息不全，6 条可追溯人民币价格，23 款有明确停产依据。
 
 **此清单记录已核验范围，不代表市场全量。** 正式条目已确认原生 Sony E 卡口及全画幅身份；缺失字段仍显示暂无数据。
 
 | 品牌 | 已收录 | 主要规格完整 | 信息不全 | 待核验 | 排除 |
 |---|---:|---:|---:|---:|---:|
 | 索尼 Sony | 56 | 56 | 0 | 0 | 0 |
-| 适马 Sigma | 58 | 57 | 1 | 0 | 10 |
+| 适马 Sigma | 58 | 58 | 0 | 0 | 10 |
 | 腾龙 Tamron | 20 | 20 | 0 | 0 | 0 |
-| 蔡司 Zeiss | 13 | 0 | 13 | 0 | 0 |
-| 森养 Samyang | 29 | 11 | 18 | 8 | 37 |
-| 唯卓仕 Viltrox | 17 | 0 | 17 | 0 | 15 |
-| 老蛙 Laowa | 32 | 0 | 32 | 17 | 55 |
-| 福伦达 Voigtländer | 16 | 13 | 3 | 0 | 0 |
+| 蔡司 Zeiss | 13 | 3 | 10 | 0 | 0 |
+| 森养 Samyang | 29 | 16 | 13 | 8 | 37 |
+| 唯卓仕 Viltrox | 17 | 13 | 4 | 0 | 15 |
+| 老蛙 Laowa | 32 | 11 | 21 | 17 | 55 |
+| 福伦达 Voigtländer | 16 | 16 | 0 | 0 | 0 |
 | 铭匠 TTArtisan | 12 | 0 | 12 | 10 | 12 |
-| 七工匠 7Artisans | 16 | 0 | 16 | 1 | 31 |
-| 永诺 Yongnuo | 4 | 1 | 3 | 1 | 0 |
-| 思锐 Sirui | 2 | 0 | 2 | 0 | 22 |
+| 七工匠 7Artisans | 16 | 2 | 14 | 1 | 31 |
+| 永诺 Yongnuo | 4 | 2 | 2 | 1 | 0 |
+| 思锐 Sirui | 2 | 2 | 0 | 0 | 22 |
 | 美科 Meike | 11 | 0 | 11 | 0 | 0 |
+
+## 字段覆盖与剩余缺项
+
+空值不自动表示错误：无滤镜接口、固定光圈，以及厂家未公布或版本有冲突的项目均可能为空，具体以条目备注为准。“主要规格完整”不包含价格、发布日期或销售状态，也不是准确性保证。
+
+| 字段 | 已有值 | 空值 |
+|---|---:|---:|
+| 重量（g） | 260 | 26 |
+| 直径（mm） | 254 | 32 |
+| 长度（mm） | 249 | 37 |
+| 滤镜口径（mm） | 252 | 34 |
+| 最近对焦距离（m） | 276 | 10 |
+| 最大放大倍率（×） | 237 | 49 |
+| 镜片数 | 283 | 3 |
+| 镜组数 | 283 | 3 |
+| 光圈叶片数 | 258 | 28 |
+
+| 型号 | 尚为空的主要规格 |
+|---|---|
+| AF 28mm F4.5（viltrox） | 滤镜口径（mm）、光圈叶片数 |
+| AF 16mm F1.8（viltrox） | 重量（g）、直径（mm）、长度（mm） |
+| AF 85mm F1.8 II（viltrox） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最近对焦距离（m）、最大放大倍率（×）、光圈叶片数 |
+| MF 20mm F1.8（viltrox） | 最大放大倍率（×） |
+| AF 85mm F1.8 Prima（samyang） | 直径（mm） |
+| AF 16mm F2.8 Prima（samyang） | 直径（mm） |
+| AF 35mm F1.4 Prima（samyang） | 直径（mm） |
+| AF 24-70mm F2.8（samyang） | 直径（mm） |
+| MF 12mm F2.8 Fisheye（samyang） | 滤镜口径（mm）、最大放大倍率（×）、光圈叶片数 |
+| MF 14mm F2.8（samyang） | 滤镜口径（mm）、最大放大倍率（×）、光圈叶片数 |
+| MF 35mm F1.4（samyang） | 最大放大倍率（×）、光圈叶片数 |
+| MF 50mm F1.4（samyang） | 最大放大倍率（×）、光圈叶片数 |
+| MF 85mm F1.4（samyang） | 最大放大倍率（×）、光圈叶片数 |
+| MF 100mm F2.8 Macro（samyang） | 最大放大倍率（×）、光圈叶片数 |
+| MF 135mm F2.0（samyang） | 最大放大倍率（×）、光圈叶片数 |
+| MF 14mm F2.8 II（samyang） | 滤镜口径（mm）、最大放大倍率（×） |
+| MF 85mm F1.4 II（samyang） | 光圈叶片数 |
+| AF 85mm F1.8 Neo（ttartisan） | 重量（g）、最大放大倍率（×） |
+| AF 50mm F1.8 Neo（ttartisan） | 重量（g）、最大放大倍率（×） |
+| AF 40mm F2（ttartisan） | 重量（g）、最大放大倍率（×） |
+| AF 75mm F2（ttartisan） | 重量（g）、最大放大倍率（×） |
+| 100mm F2.8 Macro（ttartisan） | 重量（g） |
+| 500mm F6.3（ttartisan） | 重量（g）、最大放大倍率（×） |
+| 100mm F2.8 Macro Tilt-Shift（ttartisan） | 重量（g）、直径（mm）、长度（mm） |
+| 50mm F1.4 Tilt（ttartisan） | 重量（g）、直径（mm）、长度（mm）、最大放大倍率（×） |
+| 50mm F2.0（ttartisan） | 重量（g）、直径（mm）、长度（mm）、最大放大倍率（×） |
+| 11mm F2.8 Fisheye（ttartisan） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
+| 90mm F1.25（ttartisan） | 重量（g）、直径（mm）、长度（mm）、最大放大倍率（×） |
+| 21mm F1.5（ttartisan） | 重量（g）、直径（mm）、长度（mm）、最近对焦距离（m）、最大放大倍率（×） |
+| AF 10mm F2.5（7artisans） | 滤镜口径（mm）、最大放大倍率（×） |
+| AF 40mm F2.5（7artisans） | 最大放大倍率（×） |
+| AF 35mm F1.8（7artisans） | 最大放大倍率（×） |
+| MF 14mm F2.8（7artisans） | 最大放大倍率（×） |
+| MF 75mm F1.4（7artisans） | 重量（g）、最大放大倍率（×） |
+| AF 24mm F1.8（7artisans） | 最大放大倍率（×） |
+| AF 85mm F1.8（7artisans） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最近对焦距离（m）、最大放大倍率（×）、镜片数、镜组数、光圈叶片数 |
+| AF 50mm F1.8（7artisans） | 重量（g）、直径（mm）、长度（mm）、最大放大倍率（×） |
+| MF 18mm F5.6（7artisans） | 直径（mm）、长度（mm）、最大放大倍率（×）、光圈叶片数 |
+| MF 10mm F2.8 II Fisheye（7artisans） | 滤镜口径（mm）、最大放大倍率（×）、光圈叶片数 |
+| MF 35mm F1.4 III（7artisans） | 重量（g）、直径（mm）、长度（mm）、最近对焦距离（m）、最大放大倍率（×） |
+| MF 9mm F5.6（7artisans） | 重量（g）、滤镜口径（mm）、最大放大倍率（×） |
+| MF 10mm F2.8 Fisheye（7artisans） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
+| MF 35mm F5.6（7artisans） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最近对焦距离（m）、最大放大倍率（×）、光圈叶片数 |
+| Batis 18mm F2.8（zeiss） | 光圈叶片数 |
+| Batis 25mm F2（zeiss） | 光圈叶片数 |
+| Batis 40mm F2 CF（zeiss） | 光圈叶片数 |
+| Batis 85mm F1.8（zeiss） | 光圈叶片数 |
+| Batis 135mm F2.8（zeiss） | 光圈叶片数 |
+| Loxia 25mm F2.4（zeiss） | 光圈叶片数 |
+| Loxia 35mm F2（zeiss） | 光圈叶片数 |
+| Loxia 50mm F2（zeiss） | 光圈叶片数 |
+| Loxia 85mm F2.4（zeiss） | 光圈叶片数 |
+| Loxia 21mm F2.8（zeiss） | 光圈叶片数 |
+| 100mm F2.8 2X Ultra-Macro APO Lens（laowa） | 长度（mm） |
+| 11mm F4.5 FF RL Lens（laowa） | 长度（mm） |
+| 12-24mm F5.6 Zoom（laowa） | 长度（mm） |
+| 12mm F2.8 Zero-D Lens（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
+| 15mm F4 1X Macro groothoek（laowa） | 直径（mm）、长度（mm） |
+| 15mm F4.5 Zero-D Shift Lens（laowa） | 长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
+| 15mm F4.5R Zero-D Shift Lens（laowa） | 长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
+| 15mm F5 Cookie FF（laowa） | 长度（mm） |
+| 17mm F4 Zero-D Shift（laowa） | 直径（mm）、长度（mm）、最近对焦距离（m）、最大放大倍率（×） |
+| 180mm F4.5 1.5x Ultra Macro APO Auto Focus lens（laowa） | 直径（mm）、长度（mm）、最近对焦距离（m） |
+| 20mm F4 Zero-D Shift Lens（laowa） | 长度（mm）、滤镜口径（mm） |
+| 24mm F14 2X Macro Probe Lens (STD)（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
+| 25mm F2.8 2.5-5X Ultra-Macro Lens（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
+| 35mm F2.8 Zero-D Tilt-Shift 0.5X Macro（laowa） | 直径（mm）、长度（mm）、最近对焦距离（m） |
+| 58mm F2.8 2X Ultra Macro APO（laowa） | 镜片数、镜组数 |
+| 8-15mm F2.8 FF Zoom Fisheye（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
+| 85mm F5.6 2X Ultra-Macro APO Lens（laowa） | 长度（mm）、镜片数、镜组数 |
+| 9mm F5.6 FF RL Lens（laowa） | 长度（mm）、滤镜口径（mm） |
+| Aksen 45mm F2.8 1-5X Ultra Macro APO（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm）、最近对焦距离（m） |
+| Argus 28mm F1.2 FF lens（laowa） | 重量（g）、直径（mm）、长度（mm） |
+| Argus 45mm F0.95 FF（laowa） | 直径（mm）、长度（mm） |
+| FE 50mm F1.8 S DF DSM（yongnuo） | 滤镜口径（mm）、光圈叶片数 |
+| FE 85mm F1.8 S DF DSM（yongnuo） | 直径（mm）、长度（mm）、最近对焦距离（m）、最大放大倍率（×）、光圈叶片数 |
+| AF 85mm F1.4 II（meike） | 最大放大倍率（×） |
+| AF 85mm F1.8 II SE（meike） | 最大放大倍率（×） |
+| AF 24mm F1.4 MIX（meike） | 最大放大倍率（×） |
+| AF 35mm F2（meike） | 重量（g）、最大放大倍率（×） |
+| AF 35mm F1.8 Pro（meike） | 最大放大倍率（×） |
+| AF 85mm F1.8 Pro（meike） | 最大放大倍率（×） |
+| AF 55mm F1.8 Pro（meike） | 最大放大倍率（×） |
+| AF 85mm F1.4 MIX（meike） | 重量（g）、最大放大倍率（×） |
+| AF 85mm F1.8（meike） | 重量（g）、直径（mm）、长度（mm）、最大放大倍率（×） |
+| MF 50mm F1.2（meike） | 重量（g）、直径（mm）、长度（mm）、最大放大倍率（×）、光圈叶片数 |
+| MF 50mm F1.7（meike） | 最大放大倍率（×）、光圈叶片数 |
 
 ## 逐品牌范围与型号
 
@@ -149,7 +255,7 @@
 | 24-70mm F2.8 DG DN（`sigma-a019-24-70-28`） | 已核验 | [厂家资料](https://www.sigma-global.com/en/lenses/a019_24_70_28/) |
 | 20mm F1.4 DG HSM（`sigma-a015-20-14`） | 已核验 | [厂家资料](https://www.sigma-global.com/en/lenses/a015_20_14/) |
 | 24mm F1.4 DG HSM（`sigma-a015-24-14`） | 已核验 | [厂家资料](https://www.sigma-global.com/en/lenses/a015_24_14/) |
-| 35mm F1.4 DG HSM（`sigma-a012-35-14`） | 信息不全 | [厂家资料](https://www.sigma-global.com/en/lenses/a012_35_14/) |
+| 35mm F1.4 DG HSM（`sigma-a012-35-14`） | 已核验 | [厂家资料](https://www.sigma-global.com/en/lenses/a012_35_14/) |
 | 40mm F1.4 DG HSM（`sigma-a018-40-14`） | 已核验 | [厂家资料](https://www.sigma-global.com/en/lenses/a018_40_14/) |
 | 50mm F1.4 DG HSM（`sigma-a014-50-14`） | 已核验 | [厂家资料](https://www.sigma-global.com/en/lenses/a014_50_14/) |
 | 85mm F1.4 DG HSM（`sigma-a016-85-14`） | 已核验 | [厂家资料](https://www.sigma-global.com/en/lenses/a016_85_14/) |
@@ -189,7 +295,7 @@
 
 Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补充。
 
-覆盖边界：不包含单反 Otus、Milvus 或电影系列。多卡口 Otus ML 仅取表格 E 栏；光圈叶片等未公布字段留空。
+覆盖边界：不包含单反 Otus、Milvus 或电影系列。Otus ML 已补充官方 10 叶片说明；Batis / Loxia 未取得叶片数的充分官方佐证。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
@@ -203,9 +309,9 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 | Loxia 50mm F2（`zeiss-loxia-50`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
 | Loxia 85mm F2.4（`zeiss-loxia-85`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
 | Loxia 21mm F2.8（`zeiss-loxia-21`） | 信息不全 | [厂家资料](https://www.zeiss.com/content/dam/pno/downloads/photo-lenses/datasheets/loxia-lenses/datasheet-zeiss-loxia-2821.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/datasheet-zeiss-loxia-2821.pdf) |
-| Otus ML 35mm F1.4（`zeiss-otus-ml-35`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
-| Otus ML 50mm F1.4（`zeiss-otus-ml-50`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
-| Otus ML 85mm F1.4（`zeiss-otus-ml-85`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
+| Otus ML 35mm F1.4（`zeiss-otus-ml-35`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
+| Otus ML 50mm F1.4（`zeiss-otus-ml-50`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
+| Otus ML 85mm F1.4（`zeiss-otus-ml-85`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
 
 ### 森养 Samyang
 
@@ -215,19 +321,19 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
-| AF 60-180mm F2.8（`samyang-rokinon-60-180mm-f2-8-af-zoom-lens-sony-fe-mount`） | 信息不全 | [厂家资料](https://samyangus.com/products/rokinon-60-180mm-f2-8-af-zoom-lens-sony-fe-mount) |
-| AF 24-60mm F2.8（`samyang-24-60mm-f2-8-af-standard-zoom-lens-sony-e`） | 信息不全 | [厂家资料](https://samyangus.com/products/24-60mm-f2-8-af-standard-zoom-lens-sony-e) |
+| AF 60-180mm F2.8（`samyang-rokinon-60-180mm-f2-8-af-zoom-lens-sony-fe-mount`） | 已核验 | [厂家资料](https://samyangus.com/products/rokinon-60-180mm-f2-8-af-zoom-lens-sony-fe-mount) |
+| AF 24-60mm F2.8（`samyang-24-60mm-f2-8-af-standard-zoom-lens-sony-e`） | 已核验 | [厂家资料](https://samyangus.com/products/24-60mm-f2-8-af-standard-zoom-lens-sony-e) |
 | AF 85mm F1.8 Prima（`samyang-af-85mm-f1-8-p-fe`） | 信息不全 | [厂家资料](https://samyangus.com/products/af-85mm-f1-8-p-fe) |
 | AF 16mm F2.8 Prima（`samyang-af-16mm-f2-8-p-fe`） | 信息不全 | [厂家资料](https://samyangus.com/products/af-16mm-f2-8-p-fe) |
-| AF 14-24mm F2.8（`samyang-af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e`） | 信息不全 | [厂家资料](https://samyangus.com/products/af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e) |
+| AF 14-24mm F2.8（`samyang-af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e`） | 已核验 | [厂家资料](https://samyangus.com/products/af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e) |
 | AF 35mm F1.4 Prima（`samyang-af-35mm-f1-4-p-fe`） | 信息不全 | [厂家资料](https://samyangus.com/products/af-35mm-f1-4-p-fe) |
-| AF 35-150mm F2-2.8（`samyang-35-150mm-f2-2-8-af-full-frame-zoom-lens`） | 信息不全 | [厂家资料](https://samyangus.com/products/35-150mm-f2-2-8-af-full-frame-zoom-lens) |
+| AF 35-150mm F2-2.8（`samyang-35-150mm-f2-2-8-af-full-frame-zoom-lens`） | 已核验 | [厂家资料](https://samyangus.com/products/35-150mm-f2-2-8-af-full-frame-zoom-lens) |
 | AF 85mm F1.4 II（`samyang-85mm-f1-4-af-series-ii-full-frame-telephoto-sony-e`） | 已核验 | [厂家资料](https://samyangus.com/products/85mm-f1-4-af-series-ii-full-frame-telephoto-sony-e) |
 | AF 35mm F1.4 II（`samyang-35mm-f1-4-af-series-ii-full-frame-wide-angle-sony-e`） | 已核验 | [厂家资料](https://samyangus.com/products/35mm-f1-4-af-series-ii-full-frame-wide-angle-sony-e) |
 | AF 135mm F1.8（`samyang-135mm-f1-8-af-full-frame-telephoto-sony-e`） | 已核验 | [厂家资料](https://samyangus.com/products/135mm-f1-8-af-full-frame-telephoto-sony-e) |
 | AF 50mm F1.4 II（`samyang-50mm-f1-4-af-series-ii-full-frame-sony-e`） | 已核验 | [厂家资料](https://samyangus.com/products/50mm-f1-4-af-series-ii-full-frame-sony-e) |
 | AF 24-70mm F2.8（`samyang-24-70mm-f2-8-af-full-frame-zoom-lens-sony-e`） | 信息不全 | [厂家资料](https://samyangus.com/products/24-70mm-f2-8-af-full-frame-zoom-lens-sony-e) |
-| AF 24mm F1.8（`samyang-24mm-f1-8-af-compact-full-frame-wide-angle-sony-e`） | 信息不全 | [厂家资料](https://samyangus.com/products/24mm-f1-8-af-compact-full-frame-wide-angle-sony-e) |
+| AF 24mm F1.8（`samyang-24mm-f1-8-af-compact-full-frame-wide-angle-sony-e`） | 已核验 | [厂家资料](https://samyangus.com/products/24mm-f1-8-af-compact-full-frame-wide-angle-sony-e) |
 | AF 14mm F2.8（`samyang-14mm-f2-8-wide-angle-sony-e-mount`） | 已核验 | [厂家资料](https://samyangus.com/products/14mm-f2-8-wide-angle-sony-e-mount) |
 | AF 35mm F1.4（`samyang-35mm-f1-4-wide-angle-sony-e-mount`） | 已核验 | [厂家资料](https://samyangus.com/products/35mm-f1-4-wide-angle-sony-e-mount) |
 | MF 12mm F2.8 Fisheye（`samyang-12mm-f2-8-full-frame-fisheye`） | 信息不全 | [厂家资料](https://samyangus.com/products/12mm-f2-8-full-frame-fisheye) |
@@ -249,24 +355,24 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 
 厂商商品目录与 AF / MF 全画幅产品页，含 Air / Pro / LAB / EVO。
 
-覆盖边界：仅有规格图片或混合卡口参数的页面需要进一步人工核验；无明确 E 卡口重量时不采用通用重量。
+覆盖边界：已复核 E/FE 专属参数区并区分同页比较型号。16mm、85mm II 等部分历史资料仍缺逐卡口参数；固定光圈型号的叶片字段不适用。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
-| AF 26mm F2.8 EVO（`viltrox-af-26mm-f2-8-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-26mm-f2-8-fe) |
-| AF 35mm F1.8 EVO（`viltrox-af-35mm-f1-8-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-35mm-f1-8-fe) |
-| AF 55mm F1.8 EVO（`viltrox-af-55mm-f1-8-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-55mm-f1-8-fe) |
-| AF 85mm F2.0 EVO（`viltrox-af-85mm-f2-0-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-85mm-f2-0-fe) |
-| AF 50mm F1.4 Pro（`viltrox-af-50mm-f1-4-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-50mm-f1-4-fe) |
-| AF 14mm F4.0 Air（`viltrox-af-14mm-f4-0-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-14mm-f4-0-fe) |
-| AF 85mm F1.4 Pro（`viltrox-af-85mm-f1-4-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-85mm-f1-4-fe) |
-| AF 35mm F1.2 LAB（`viltrox-af-35mm-f1-2-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-35mm-f1-2-fe) |
-| AF 50mm F2.0 Air（`viltrox-af-50mm-f2-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-50mm-f2-fe) |
-| AF 135mm F1.8 LAB（`viltrox-af-135mm-f1-8-lab-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-135mm-f1-8-lab-fe) |
+| AF 26mm F2.8 EVO（`viltrox-af-26mm-f2-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-26mm-f2-8-fe) |
+| AF 35mm F1.8 EVO（`viltrox-af-35mm-f1-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-35mm-f1-8-fe) |
+| AF 55mm F1.8 EVO（`viltrox-af-55mm-f1-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-55mm-f1-8-fe) |
+| AF 85mm F2.0 EVO（`viltrox-af-85mm-f2-0-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-85mm-f2-0-fe) |
+| AF 50mm F1.4 Pro（`viltrox-af-50mm-f1-4-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-50mm-f1-4-fe) |
+| AF 14mm F4.0 Air（`viltrox-af-14mm-f4-0-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-14mm-f4-0-fe) |
+| AF 85mm F1.4 Pro（`viltrox-af-85mm-f1-4-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-85mm-f1-4-fe) |
+| AF 35mm F1.2 LAB（`viltrox-af-35mm-f1-2-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-35mm-f1-2-fe) |
+| AF 50mm F2.0 Air（`viltrox-af-50mm-f2-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-50mm-f2-fe) |
+| AF 135mm F1.8 LAB（`viltrox-af-135mm-f1-8-lab-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/af-135mm-f1-8-lab-fe) |
 | AF 28mm F4.5（`viltrox-28mm-f4-5-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/28mm-f4-5-fe) |
-| AF 40mm F2.5 Air（`viltrox-af-40mm-f2-5-full-frame-lens-for-sony-fe-mount`） | 信息不全 | [厂家资料](https://viltrox.com/products/af-40mm-f2-5-full-frame-lens-for-sony-fe-mount) |
-| AF 28mm F1.8（`viltrox-viltrox-af-28mm-f1-8-full-frame-lens-for-sony-e-mount`） | 信息不全 | [厂家资料](https://viltrox.com/products/viltrox-af-28mm-f1-8-full-frame-lens-for-sony-e-mount) |
-| AF 20mm F2.8 Air（`viltrox-viltrox-af-20mm-f2-8`） | 信息不全 | [厂家资料](https://viltrox.com/products/viltrox-af-20mm-f2-8) |
+| AF 40mm F2.5 Air（`viltrox-af-40mm-f2-5-full-frame-lens-for-sony-fe-mount`） | 已核验 | [厂家资料](https://viltrox.com/products/af-40mm-f2-5-full-frame-lens-for-sony-fe-mount) |
+| AF 28mm F1.8（`viltrox-viltrox-af-28mm-f1-8-full-frame-lens-for-sony-e-mount`） | 已核验 | [厂家资料](https://viltrox.com/products/viltrox-af-28mm-f1-8-full-frame-lens-for-sony-e-mount) |
+| AF 20mm F2.8 Air（`viltrox-viltrox-af-20mm-f2-8`） | 已核验 | [厂家资料](https://viltrox.com/products/viltrox-af-20mm-f2-8) |
 | AF 16mm F1.8（`viltrox-viltrox-af-16mm-f1-8-fe`） | 信息不全 | [厂家资料](https://viltrox.com/products/viltrox-af-16mm-f1-8-fe) |
 | AF 85mm F1.8 II（`viltrox-viltrox-85mm-f18-e-mount-sony-markii`） | 信息不全 | [厂家资料](https://viltrox.com/products/viltrox-85mm-f18-e-mount-sony-markii) |
 | MF 20mm F1.8（`viltrox-viltrox-20mm-f-1-8-wide-angle-full-frame-manual-focus-prime-lens-for-sony-e-mount`） | 信息不全 | [厂家资料](https://viltrox.com/products/viltrox-20mm-f-1-8-wide-angle-full-frame-manual-focus-prime-lens-for-sony-e-mount) |
@@ -275,41 +381,41 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 
 LAOWA 荷兰地区品牌站 Sony E 目录逐页清点，确认 Sony FE / FF 商品型号。
 
-覆盖边界：国际站读取受限。地区站尺寸字段存在不一致，尺寸留空；对焦距离缺少单位时留空。滤镜、重量也应在取得说明书后继续复核。
+覆盖边界：已逐份核对地区品牌站链接的原厂说明书，补充尺寸和距离单位。部分手册只列 M/F/EF/RF 等卡口尺寸，或与 E 页冲突，相关值继续留空；共用标称尺寸在型号备注说明。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
-| 10-18mm F4.5-5.6 Zoom Lens（`laowa-10-18mm-f-4-5-5-6-zoom-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/10-18mm-f-4-5-5-6-zoom-lens-sony-fe/) |
+| 10-18mm F4.5-5.6 Zoom Lens（`laowa-10-18mm-f-4-5-5-6-zoom-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/10-18mm-f-4-5-5-6-zoom-lens-sony-fe/) |
 | 100mm F2.8 2X Ultra-Macro APO Lens（`laowa-100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/) |
-| 100mm F2.8 Tilt-Shift 1X Macro（`laowa-100mm-f-2-8-tilt-shift-1x-macro-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/100mm-f-2-8-tilt-shift-1x-macro-sony-fe/) |
-| 10mm F2.8 Zero-D FF Auto Focus Lens（`laowa-10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe/) |
+| 100mm F2.8 Tilt-Shift 1X Macro（`laowa-100mm-f-2-8-tilt-shift-1x-macro-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/100mm-f-2-8-tilt-shift-1x-macro-sony-fe/) |
+| 10mm F2.8 Zero-D FF Auto Focus Lens（`laowa-10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe/) |
 | 11mm F4.5 FF RL Lens（`laowa-11mm-f-4-5-ff-rl-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/11mm-f-4-5-ff-rl-lens-sony-fe/) |
 | 12-24mm F5.6 Zoom（`laowa-12-24mm-f-5-6-zoom-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/12-24mm-f-5-6-zoom-sony-fe/) |
-| 12mm F2.8 Lite Zero-D FF Auto Focus Lens（`laowa-12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe/) |
+| 12mm F2.8 Lite Zero-D FF Auto Focus Lens（`laowa-12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe/) |
 | 12mm F2.8 Zero-D Lens（`laowa-12mm-f-2-8-zero-d-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/12mm-f-2-8-zero-d-lens-sony-fe/) |
-| 14mm F4 FF RL Zero-D Lens（`laowa-14mm-f-4-ff-rl-zero-d-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/14mm-f-4-ff-rl-zero-d-lens-sony-fe/) |
-| 15mm F2 Zero-D Lens（`laowa-15mm-f-2-zero-d-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/15mm-f-2-zero-d-lens-sony-fe/) |
+| 14mm F4 FF RL Zero-D Lens（`laowa-14mm-f-4-ff-rl-zero-d-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/14mm-f-4-ff-rl-zero-d-lens-sony-fe/) |
+| 15mm F2 Zero-D Lens（`laowa-15mm-f-2-zero-d-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/15mm-f-2-zero-d-lens-sony-fe/) |
 | 15mm F4 1X Macro groothoek（`laowa-15mm-f-4-1x-macro-groothoek-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/15mm-f-4-1x-macro-groothoek-sony-fe/) |
-| 15mm F4.5 0.5X Macro Groothoek（`laowa-15mm-f-4-5-0-5x-macro-groothoek-sony-fe-auto-aperture`） | 信息不全 | [厂家资料](https://www.laowa.nl/15mm-f-4-5-0-5x-macro-groothoek-sony-fe-auto-aperture/) |
+| 15mm F4.5 0.5X Macro Groothoek（`laowa-15mm-f-4-5-0-5x-macro-groothoek-sony-fe-auto-aperture`） | 已核验 | [厂家资料](https://www.laowa.nl/15mm-f-4-5-0-5x-macro-groothoek-sony-fe-auto-aperture/) |
 | 15mm F4.5 Zero-D Shift Lens（`laowa-15mm-f-4-5-zero-d-shift-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/15mm-f-4-5-zero-d-shift-lens-sony-fe/) |
 | 15mm F4.5R Zero-D Shift Lens（`laowa-15mm-f-4-5r-zero-d-shift-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/15mm-f-4-5r-zero-d-shift-lens-sony-fe/) |
 | 15mm F5 Cookie FF（`laowa-15mm-f-5-cookie-ff-sony-fe-zilver`） | 信息不全 | [厂家资料](https://www.laowa.nl/15mm-f-5-cookie-ff-sony-fe-zilver/) |
 | 17mm F4 Zero-D Shift（`laowa-17mm-f-4-zero-d-shift-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/17mm-f-4-zero-d-shift-sony-fe/) |
 | 180mm F4.5 1.5x Ultra Macro APO Auto Focus lens（`laowa-180mm-f-4-5-1-5x-ultra-macro-apo-auto-focus-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/180mm-f-4-5-1-5x-ultra-macro-apo-auto-focus-lens-sony-fe/) |
-| 200mm F2 AF FF（`laowa-200mm-f-2-af-ff-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/200mm-f-2-af-ff-sony-fe/) |
+| 200mm F2 AF FF（`laowa-200mm-f-2-af-ff-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/200mm-f-2-af-ff-sony-fe/) |
 | 20mm F4 Zero-D Shift Lens（`laowa-20mm-f-4-zero-d-shift-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/20mm-f-4-zero-d-shift-lens-sony-fe/) |
 | 24mm F14 2X Macro Probe Lens (STD)（`laowa-24mm-f-14-2x-macro-probe-lens-std-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/24mm-f-14-2x-macro-probe-lens-std-sony-fe/) |
 | 25mm F2.8 2.5-5X Ultra-Macro Lens（`laowa-25mm-f-2-8-2-5-5x-ultra-macro-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/25mm-f-2-8-2-5-5x-ultra-macro-lens-sony-fe/) |
 | 35mm F2.8 Zero-D Tilt-Shift 0.5X Macro（`laowa-35mm-f-2-8-zero-d-tilt-shift-0-5x-macro-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/35mm-f-2-8-zero-d-tilt-shift-0-5x-macro-sony-fe/) |
-| 55mm F2.8 Tilt-Shift 1X Macro（`laowa-55mm-f-2-8-tilt-shift-1x-macro-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/55mm-f-2-8-tilt-shift-1x-macro-sony-fe/) |
+| 55mm F2.8 Tilt-Shift 1X Macro（`laowa-55mm-f-2-8-tilt-shift-1x-macro-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/55mm-f-2-8-tilt-shift-1x-macro-sony-fe/) |
 | 58mm F2.8 2X Ultra Macro APO（`laowa-58mm-f-2-8-2x-ultra-macro-apo-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/58mm-f-2-8-2x-ultra-macro-apo-sony-fe/) |
 | 8-15mm F2.8 FF Zoom Fisheye（`laowa-8-15mm-f-2-8-ff-zoom-fisheye-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/8-15mm-f-2-8-ff-zoom-fisheye-sony-fe/) |
 | 85mm F5.6 2X Ultra-Macro APO Lens（`laowa-85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe/) |
-| 90mm F2.8 2X Ultra-Macro APO Lens（`laowa-90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/) |
+| 90mm F2.8 2X Ultra-Macro APO Lens（`laowa-90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/) |
 | 9mm F5.6 FF RL Lens（`laowa-9mm-f-5-6-ff-rl-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/9mm-f-5-6-ff-rl-lens-sony-fe/) |
 | Aksen 45mm F2.8 1-5X Ultra Macro APO（`laowa-aksen-45mm-f-2-8-1-5x-ultra-macro-apo-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/aksen-45mm-f-2-8-1-5x-ultra-macro-apo-sony-fe/) |
 | Argus 28mm F1.2 FF lens（`laowa-argus-28mm-f-1-2-ff-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/argus-28mm-f-1-2-ff-lens-sony-fe/) |
-| Argus 35mm F0.95 FF（`laowa-argus-35mm-f-0-95-ff-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/argus-35mm-f-0-95-ff-sony-fe/) |
+| Argus 35mm F0.95 FF（`laowa-argus-35mm-f-0-95-ff-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/argus-35mm-f-0-95-ff-sony-fe/) |
 | Argus 45mm F0.95 FF（`laowa-argus-45mm-f-0-95-ff-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/argus-45mm-f-0-95-ff-sony-fe/) |
 
 ### 福伦达 Voigtländer
@@ -320,9 +426,9 @@ Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格�
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
-| HELIAR-HYPER WIDE 10mm F5.6 Aspherical（`voigtlander-heliar-hyper-wide-10mm-f5-6-aspherical`） | 信息不全 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/heliar-hyper-wide-10mm-f5-6-aspherical/) |
-| SUPER WIDE-HELIAR 15mm F4.5 Aspherical III（`voigtlander-super-wide-heliar-15mm-f4-5-aspherical-iii`） | 信息不全 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/super-wide-heliar-15mm-f4-5-aspherical-iii/) |
-| NOKTON 21mm F1.4 Aspherical（`voigtlander-nokton-21mm-f1-4-aspherical`） | 信息不全 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/nokton-21mm-f1-4-aspherical/) |
+| HELIAR-HYPER WIDE 10mm F5.6 Aspherical（`voigtlander-heliar-hyper-wide-10mm-f5-6-aspherical`） | 已核验 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/heliar-hyper-wide-10mm-f5-6-aspherical/) |
+| SUPER WIDE-HELIAR 15mm F4.5 Aspherical III（`voigtlander-super-wide-heliar-15mm-f4-5-aspherical-iii`） | 已核验 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/super-wide-heliar-15mm-f4-5-aspherical-iii/) |
+| NOKTON 21mm F1.4 Aspherical（`voigtlander-nokton-21mm-f1-4-aspherical`） | 已核验 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/nokton-21mm-f1-4-aspherical/) |
 | NOKTON classic 35mm F1.4（`voigtlander-nokton-classic-35mm-f1-4`） | 已核验 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/nokton-classic-35mm-f1-4/) |
 | APO-LANTHAR 28mm F2 Aspherical（`voigtlander-apo-lanthar-28mm-f2-aspherical`） | 已核验 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/apo-lanthar-28mm-f2-aspherical/) |
 | APO-LANTHAR 35mm F2 Aspherical（`voigtlander-apo-lanthar-35mm-f2-aspherical`） | 已核验 | [厂家资料](https://www.cosina.co.jp/voigtlander/en/e-mount/apo-lanthar-35mm-f2-aspherical/) |
@@ -341,7 +447,7 @@ Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格�
 
 厂商商品目录确认全画幅与 Sony E 选项，包含倾角、移轴、微距镜头。
 
-覆盖边界：同光学设计的不同颜色不重复计数；不将 M 卡口转接视作原生 E。规格图片待逐项补充。
+覆盖边界：已核对官网文字表格、E 卡口尺寸图和 90mm F1.25 官方说明书。跨卡口重量区间不当作 E 卡口定值，未公布倍率继续留空。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
@@ -362,12 +468,12 @@ Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格�
 
 厂商商品目录确认 Full-frame 标识及 E 卡口选项，区分 AF / MF 和已识别代际。
 
-覆盖边界：部分共用商品页标题显示 L 卡口，但选项提供 E 卡口；参数图片、早期版本和全部代际仍需继续核验。
+覆盖边界：已核对官网文字规格及参数图片。10mm F2.8 II 的 8/10 叶片说明冲突，留空；共用 L 页重量尺寸不移用于 E。部分型号尚缺倍率与专属重量。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
 | AF 10mm F2.5（`7artisans-af-10mm-f2-5-full-frame-lens-for-e-z-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/af-10mm-f2-5-full-frame-lens-for-e-z-l) |
-| AF 135mm F1.8（`7artisans-af-135mm-f1-8-full-frame-lens-for-e-z-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/af-135mm-f1-8-full-frame-lens-for-e-z-l) |
+| AF 135mm F1.8（`7artisans-af-135mm-f1-8-full-frame-lens-for-e-z-l`） | 已核验 | [厂家资料](https://7artisans.store/products/af-135mm-f1-8-full-frame-lens-for-e-z-l) |
 | AF 40mm F2.5（`7artisans-af-40mm-f2-5-full-frame-lens-for-e-z-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/af-40mm-f2-5-full-frame-lens-for-e-z-l) |
 | AF 35mm F1.8（`7artisans-af-35mm-f1-8-full-frame-lens-for-e-z-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/af-35mm-f1-8-full-frame-lens-for-e-z-l) |
 | MF 14mm F2.8（`7artisans-14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l) |
@@ -377,7 +483,7 @@ Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格�
 | AF 50mm F1.8（`7artisans-af-50mm-f1-8-full-frame-lens-for-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/af-50mm-f1-8-full-frame-lens-for-l) |
 | MF 18mm F5.6（`7artisans-18mm-f-5-6-full-frame-lens-for-e-z-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/18mm-f-5-6-full-frame-lens-for-e-z-l) |
 | MF 10mm F2.8 II Fisheye（`7artisans-10mm-f-2-8-ii-ultra-wide-angle-full-frame-fisheye-lens-for-e-l-r-z-1`） | 信息不全 | [厂家资料](https://7artisans.store/products/10mm-f-2-8-ii-ultra-wide-angle-full-frame-fisheye-lens-for-e-l-r-z-1) |
-| MF 60mm F2.8 Macro（`7artisans-60mm-f-2-8-full-frame-2x-ultra-macro-lens-for-e-rf-z`） | 信息不全 | [厂家资料](https://7artisans.store/products/60mm-f-2-8-full-frame-2x-ultra-macro-lens-for-e-rf-z) |
+| MF 60mm F2.8 Macro（`7artisans-60mm-f-2-8-full-frame-2x-ultra-macro-lens-for-e-rf-z`） | 已核验 | [厂家资料](https://7artisans.store/products/60mm-f-2-8-full-frame-2x-ultra-macro-lens-for-e-rf-z) |
 | MF 35mm F1.4 III（`7artisans-35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l`） | 信息不全 | [厂家资料](https://7artisans.store/products/35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l) |
 | MF 9mm F5.6（`7artisans-9mm-f-5-6-full-frame-wide-angle-lens-for-e-l-r-z`） | 信息不全 | [厂家资料](https://7artisans.store/products/9mm-f-5-6-full-frame-wide-angle-lens-for-e-l-r-z) |
 | MF 10mm F2.8 Fisheye（`7artisans-7artisans-10mm-f2-8-full-frame-fisheye-lens-for-e-l-r-z-mount`） | 信息不全 | [厂家资料](https://7artisans.store/products/7artisans-10mm-f2-8-full-frame-fisheye-lens-for-e-l-r-z-mount) |
@@ -387,31 +493,31 @@ Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格�
 
 官方 Sony FE 产品页及全画幅目录，区分早期 YN 与升级版、Lite 版本。
 
-覆盖边界：50mm DSM 的叶片数在官方介绍与表格之间冲突，留空；早期塑料镜身 85mm 单列待核验。
+覆盖边界：已补充 Lite II 官方规格图片中的完整主要参数；50mm DSM 的叶片数冲突仍留空，85mm 仍缺部分官方佐证，早期塑料镜身版本单列待核验。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
 | FE 35mm F2 S DF DSM（`yongnuo-yn35mm-f2s-df-dsm`） | 已核验 | [厂家资料](https://th.hkyongnuo.com/products/yn35mm-f2s-df-dsm) |
 | FE 50mm F1.8 S DF DSM（`yongnuo-yn50mm-f1-8s-df-dsm`） | 信息不全 | [厂家资料](https://th.hkyongnuo.com/products/yn50mm-f18s-df-dsm) |
 | FE 85mm F1.8 S DF DSM（`yongnuo-85f1-8s-df-dsm`） | 信息不全 | [厂家资料](https://th.hkyongnuo.com/products/85f18s-df-dsm) |
-| FE 50mm F1.8 II Lite（`yongnuo-50f1-8s-df`） | 信息不全 | [厂家资料](https://th.hkyongnuo.com/products/50f18s-df) |
+| FE 50mm F1.8 II Lite（`yongnuo-50f1-8s-df`） | 已核验 | [厂家资料](https://th.hkyongnuo.com/products/50f18s-df) |
 
 ### 思锐 Sirui
 
 官方商店 AURORA 全画幅 AF 摄影镜头，排除 Night Walker、Sniper APS-C 和电影变形镜头。
 
-覆盖边界：当前已确认两款 AURORA；多卡口重量和规格图片待继续核对。
+覆盖边界：已核对两款 AURORA 的 E Mount 规格，重量和长度使用不含镜头盖口径；85mm 不混入 X 卡口 101.7mm 长度。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
-| AF 35mm F1.4 AURORA（`sirui-sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens`） | 信息不全 | [厂家资料](https://store.sirui.com/products/sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens) |
-| AF 85mm F1.4 AURORA（`sirui-sirui-aurora-series-85mm-full-frame-autofocus-lens`） | 信息不全 | [厂家资料](https://store.sirui.com/products/sirui-aurora-series-85mm-full-frame-autofocus-lens) |
+| AF 35mm F1.4 AURORA（`sirui-sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens`） | 已核验 | [厂家资料](https://store.sirui.com/products/sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens) |
+| AF 85mm F1.4 AURORA（`sirui-sirui-aurora-series-85mm-full-frame-autofocus-lens`） | 已核验 | [厂家资料](https://store.sirui.com/products/sirui-aurora-series-85mm-full-frame-autofocus-lens) |
 
 ### 美科 Meike
 
 额外清点美科官方 Sony E 全画幅摄影镜头，分开 Pro / MIX / SE 和第二代。
 
-覆盖边界：11 款已确认身份；规格参数和历史手动系列待进一步补齐。其他长尾品牌尚未完成清点。
+覆盖边界：11 款已确认身份，已读取新款规格图片补齐多数字段；许多型号官网未列最大放大倍率，部分早期镜头仍缺逐卡口重量和尺寸。其他长尾品牌尚未完成清点。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|

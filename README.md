@@ -6,6 +6,10 @@
 
 本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。收录 13 个品牌的 286 款镜头，所有正式记录附资料来源与核验日期。
 
+最新数据整理：2026-09-22 补充 103 款镜头的 476 个缺失参数，修正 5 个已有数值。详见 [官网补充记录 / Enrichment log](docs/DATA_ENRICHMENT_2026-09-22.md) 与 [覆盖及缺项清单](docs/DATA_COVERAGE.md)。
+
+Latest data update: 476 missing values added across 103 lenses, with 5 corrections. Primary specifications are complete for 199 of 286 records; remaining gaps are documented in the linked reports.
+
 ### 仅供参考 / 数据准确性
 
 **本项目及全部镜头参数、价格、日期和销售状态仅供参考，不保证准确、完整或及时。** 人工整理、来源差异、卡口版本差异及厂商后续调整均可能造成错误或遗漏。记录中的“已核验”仅表示曾对照所列来源，不是厂商认证，也不构成准确性保证。购买、使用或判断兼容性前，请以对应型号与卡口的厂商最新规格、说明书和实际产品为准；不要仅依据本项目作出购买决定。

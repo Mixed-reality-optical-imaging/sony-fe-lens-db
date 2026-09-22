@@ -16,8 +16,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 500,
-    "diameter": null,
-    "length": null,
+    "diameter": 70,
+    "length": 90.9,
     "filterSize": 37,
     "minFocus": 0.15,
     "maxMagnification": 0.25,
@@ -34,12 +34,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/10-18mm-f-4-5-5-6-zoom-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%201018.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。该说明书为 Sony FE 初始型号标称尺寸；37mm 为专用后置滤镜。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe",
@@ -58,7 +64,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 650,
-    "diameter": null,
+    "diameter": 72,
     "length": null,
     "filterSize": 67,
     "minFocus": 0.247,
@@ -76,10 +82,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%20100m%20f2.8.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。说明书通用长度 125mm 与 Sony E 地区页 155mm 不同，长度暂不补填；Sony E 为 13 叶片，不使用 Nikon 7 / Canon 9。"
     ],
     "verification": "partial"
   },
@@ -100,8 +112,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 1220,
-    "diameter": null,
-    "length": null,
+    "diameter": 85,
+    "length": 162,
     "filterSize": 77,
     "minFocus": 0.32,
     "maxMagnification": 1,
@@ -118,12 +130,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/100mm-f-2-8-tilt-shift-1x-macro-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/100mm%20f2.8%20Tilt-Shift.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。最近对焦距离为 32cm；14cm 为工作距离，不用于 minFocus。尺寸约值采用原厂共用规格。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe",
@@ -142,8 +160,8 @@
     "focus": "AF",
     "stabilization": null,
     "weight": 420,
-    "diameter": null,
-    "length": null,
+    "diameter": 82,
+    "length": 70.8,
     "filterSize": 77,
     "minFocus": 0.12,
     "maxMagnification": 0.24,
@@ -160,12 +178,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/10mm%20f2.8%20FF%20Zero-D.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。官网地区页直径 820mm 与说明书 82mm 不符，采用说明书。重量为不含盖口径；共用尺寸为标称约值。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-11mm-f-4-5-ff-rl-lens-sony-fe",
@@ -184,7 +208,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 250,
-    "diameter": null,
+    "diameter": 63.5,
     "length": null,
     "filterSize": 62,
     "minFocus": 0.19,
@@ -202,10 +226,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/11mm-f-4-5-ff-rl-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%2011mm%20f4.5.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。说明书共用长度 58mm 与 Sony FE 地区页 64mm 不同，长度继续待核验，未套用 M 卡口长度。"
     ],
     "verification": "partial"
   },
@@ -226,7 +256,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 500,
-    "diameter": null,
+    "diameter": 69.4,
     "length": null,
     "filterSize": 77,
     "minFocus": 0.15,
@@ -244,10 +274,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/12-24mm-f-5-6-zoom-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/12-24mm%20f5.6%20Zoom.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。说明书长度 84mm 明确属 Leica M；Sony E 长度继续待核验。"
     ],
     "verification": "partial"
   },
@@ -267,9 +303,9 @@
     "apertureTele": 2.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": 380,
-    "diameter": null,
-    "length": null,
+    "weight": 377,
+    "diameter": 77,
+    "length": 76.5,
     "filterSize": 72,
     "minFocus": 0.14,
     "maxMagnification": 0.21,
@@ -286,12 +322,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/12mm%20f2.8%20Lite%20Zero-D%20FF.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。AF E 栏为约 377g、5 叶片；MF 14 叶片版本不混用。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-12mm-f-2-8-zero-d-lens-sony-fe",
@@ -352,8 +394,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 230,
-    "diameter": null,
-    "length": null,
+    "diameter": 58,
+    "length": 59,
     "filterSize": 52,
     "minFocus": 0.27,
     "maxMagnification": 0.07,
@@ -370,12 +412,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/14mm-f-4-ff-rl-zero-d-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/14mm%20f4.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。地区 Sony FE 页高度 5.9cm 与说明书长度 59mm 一致；镜头直径 58mm，滤镜为 52mm。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-15mm-f-2-zero-d-lens-sony-fe",
@@ -394,8 +442,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 500,
-    "diameter": null,
-    "length": null,
+    "diameter": 77.2,
+    "length": 82,
     "filterSize": 72,
     "minFocus": 0.15,
     "maxMagnification": 0.25,
@@ -412,12 +460,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/15mm-f-2-zero-d-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%2015mm%20f2.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。说明书明确 Sony E 专用版本，5 叶片；不使用其他卡口 9 叶片参数。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-15mm-f-4-1x-macro-groothoek-sony-fe",
@@ -478,13 +532,13 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 310,
-    "diameter": null,
-    "length": null,
+    "diameter": 70,
+    "length": 47.7,
     "filterSize": 62,
     "minFocus": 0.129,
     "maxMagnification": 0.5,
-    "elements": null,
-    "groups": null,
+    "elements": 16,
+    "groups": 11,
     "blades": 5,
     "releaseDate": null,
     "releasePrecision": null,
@@ -496,12 +550,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/15mm-f-4-5-0-5x-macro-groothoek-sony-fe-auto-aperture/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/15mm%20f4.5%200.5x.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。16 片 11 组，最近对焦距离 12.9cm。共用尺寸为原厂约值；未逐卡口区分重量。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-15mm-f-4-5-zero-d-shift-lens-sony-fe",
@@ -520,7 +580,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 600,
-    "diameter": null,
+    "diameter": 79,
     "length": null,
     "filterSize": null,
     "minFocus": 0.2,
@@ -538,10 +598,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/15mm-f-4-5-zero-d-shift-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/15mm%20f4.5%20Zero-D%20Shift.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。原厂共用 103mm 长度未分单反/无反，Sony E 长度继续待核验。"
     ],
     "verification": "partial"
   },
@@ -562,7 +628,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 600,
-    "diameter": null,
+    "diameter": 79,
     "length": null,
     "filterSize": null,
     "minFocus": 0.2,
@@ -580,10 +646,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/15mm-f-4-5r-zero-d-shift-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/15mm%20f4.5R%20Zero-D%20Shift.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。原厂共用 103mm 长度未分单反/无反，Sony E 长度继续待核验。"
     ],
     "verification": "partial"
   },
@@ -604,7 +676,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 140,
-    "diameter": null,
+    "diameter": 67.1,
     "length": null,
     "filterSize": 39,
     "minFocus": 0.12,
@@ -622,10 +694,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/15mm-f-5-cookie-ff-sony-fe-zilver/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/15mm%20f5%20Cookies%20FF.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。说明书尺寸 67.1×42mm 与地区页 53×35mm 冲突；不同卡口共用长度未确认，长度保持空值，直径采用原厂规格。"
     ],
     "verification": "partial"
   },
@@ -731,11 +809,11 @@
     "apertureTele": 2,
     "focus": "AF",
     "stabilization": null,
-    "weight": 1590,
-    "diameter": null,
-    "length": null,
+    "weight": 1765,
+    "diameter": 118,
+    "length": 175,
     "filterSize": 105,
-    "minFocus": null,
+    "minFocus": 1.5,
     "maxMagnification": 0.15,
     "elements": 11,
     "groups": 9,
@@ -750,13 +828,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/200mm-f-2-af-ff-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/200mm-f2-AF-FF.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。",
-      "地区站最近对焦距离未标明单位，暂留空，待说明书核验。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。E 卡口尺寸 118×175mm，E/Z 净镜重 1765g。前滤镜 105mm；另支持 43mm 后置滤镜，不能混作前置滤镜。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-20mm-f-4-zero-d-shift-lens-sony-fe",
@@ -775,11 +858,11 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 750,
-    "diameter": null,
+    "diameter": 95,
     "length": null,
     "filterSize": null,
     "minFocus": 0.25,
-    "maxMagnification": null,
+    "maxMagnification": 0.17,
     "elements": 16,
     "groups": 11,
     "blades": 14,
@@ -793,10 +876,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/20mm-f-4-zero-d-shift-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/20mm%20f4%20Zero-D%20Shift.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。原厂共用 91mm 长度未分单反/无反，Sony E 长度继续待核验。"
     ],
     "verification": "partial"
   },
@@ -877,10 +966,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/25mm-f-2-8-2-5-5x-ultra-macro-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%2025mm%20f2.8.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。17.3cm 为最近对焦距离；4cm 为工作距离。说明书尺寸明确是 F 卡口，未填入 Sony E。"
     ],
     "verification": "partial"
   },
@@ -944,8 +1039,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 1350,
-    "diameter": null,
-    "length": null,
+    "diameter": 85,
+    "length": 168.5,
     "filterSize": 77,
     "minFocus": 0.27,
     "maxMagnification": 1,
@@ -962,12 +1057,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/55mm-f-2-8-tilt-shift-1x-macro-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/55mm%20f2.8%20Tilt-Shift.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。最近对焦距离为 27cm；8.3cm 是工作距离。尺寸约值采用原厂共用规格。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-58mm-f-2-8-2x-ultra-macro-apo-sony-fe",
@@ -986,10 +1087,10 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 600,
-    "diameter": null,
-    "length": null,
+    "diameter": 74,
+    "length": 117,
     "filterSize": 67,
-    "minFocus": 0.185,
+    "minFocus": 0.183,
     "maxMagnification": 2,
     "elements": null,
     "groups": null,
@@ -1004,10 +1105,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/58mm-f-2-8-2x-ultra-macro-apo-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/58mm%20f2.8%202X%20Ultra%20MAcro%20APO.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。共用尺寸为原厂标称值；595g 明确含前后盖，不替代已有净镜重量。"
     ],
     "verification": "partial"
   },
@@ -1046,10 +1153,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/8-15mm-f-2-8-ff-zoom-fisheye-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/8-15mm%20Zoom%20fisheye%20.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。说明书尺寸仅列 RF 和 PL，不用于 Sony E。"
     ],
     "verification": "partial"
   },
@@ -1070,7 +1183,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 290,
-    "diameter": null,
+    "diameter": 53,
     "length": null,
     "filterSize": 46,
     "minFocus": 0.163,
@@ -1088,10 +1201,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%2085mm%20f5.6%20Macro.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。说明书长度与重量明确为 Leica M，不套用到 Sony E。"
     ],
     "verification": "partial"
   },
@@ -1112,8 +1231,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 620,
-    "diameter": null,
-    "length": null,
+    "diameter": 74,
+    "length": 120,
     "filterSize": 67,
     "minFocus": 0.205,
     "maxMagnification": 2,
@@ -1130,12 +1249,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/90mm%20f2.8%202X%20Ultra%20Macro%20APO.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。共用尺寸为原厂标称值；619g 明确含前后盖，不替代已有净镜重量。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-9mm-f-5-6-ff-rl-lens-sony-fe",
@@ -1154,7 +1279,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 350,
-    "diameter": null,
+    "diameter": 62.4,
     "length": null,
     "filterSize": null,
     "minFocus": 0.12,
@@ -1172,10 +1297,16 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/9mm-f-5-6-ff-rl-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%209mm%20f5.6.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。共用 66mm 长度含 Leica M，Sony E 长度继续待核验。"
     ],
     "verification": "partial"
   },
@@ -1280,8 +1411,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 760,
-    "diameter": null,
-    "length": null,
+    "diameter": 76.8,
+    "length": 103,
     "filterSize": 72,
     "minFocus": 0.5,
     "maxMagnification": 0.1,
@@ -1298,12 +1429,18 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/argus-35mm-f-0-95-ff-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方使用说明书（规格表）",
+        "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%20Argus%2035mm%20f0.95.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
+      "人工核对品牌产品页所附官方说明书规格表。无反共用尺寸为原厂标称约值。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-argus-45mm-f-0-95-ff-sony-fe",

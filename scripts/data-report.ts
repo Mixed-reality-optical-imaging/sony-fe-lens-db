@@ -20,6 +20,29 @@ for (const b of brands) {
   const ls = all.filter((l) => l.brand === b.id);
   md += `| ${b.name} ${b.en} | ${ls.length} | ${ls.filter((l) => l.verification === "verified").length} | ${ls.filter((l) => l.verification === "partial").length} | ${audit.filter((x) => x.brand === b.id && x.status === "pending").length} | ${audit.filter((x) => x.brand === b.id && x.status === "excluded").length} |\n`;
 }
+const specFields = [
+  ["weight", "重量（g）"],
+  ["diameter", "直径（mm）"],
+  ["length", "长度（mm）"],
+  ["filterSize", "滤镜口径（mm）"],
+  ["minFocus", "最近对焦距离（m）"],
+  ["maxMagnification", "最大放大倍率（×）"],
+  ["elements", "镜片数"],
+  ["groups", "镜组数"],
+  ["blades", "光圈叶片数"],
+] as const;
+md +=
+  "\n## 字段覆盖与剩余缺项\n\n空值不自动表示错误：无滤镜接口、固定光圈，以及厂家未公布或版本有冲突的项目均可能为空，具体以条目备注为准。“主要规格完整”不包含价格、发布日期或销售状态，也不是准确性保证。\n\n| 字段 | 已有值 | 空值 |\n|---|---:|---:|\n";
+for (const [key, label] of specFields) {
+  const known = all.filter((l) => l[key] !== null).length;
+  md += `| ${label} | ${known} | ${all.length - known} |\n`;
+}
+md += "\n| 型号 | 尚为空的主要规格 |\n|---|---|\n";
+for (const l of all.filter((l) => l.verification === "partial"))
+  md += `| ${escape(l.name)}（${l.brand}） | ${specFields
+    .filter(([key]) => l[key] === null)
+    .map(([, label]) => label)
+    .join("、")} |\n`;
 md += "\n## 逐品牌范围与型号\n";
 for (const b of brands) {
   const r = review.find((r) => r.brand === b.id);

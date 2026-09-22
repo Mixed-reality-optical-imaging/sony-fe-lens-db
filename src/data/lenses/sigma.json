@@ -2211,9 +2211,9 @@
     "apertureTele": 1.4,
     "focus": "AF",
     "stabilization": false,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 734,
+    "diameter": 77,
+    "length": 120,
     "filterSize": 67,
     "minFocus": 0.3,
     "maxMagnification": 0.192,
@@ -2235,10 +2235,17 @@
         "title": "Sigma 官方停产目录",
         "url": "https://www.sigma-global.com/en/discontinued/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "厂家官方规格补充",
+        "url": "https://www.sigma-global.com/jp/lenses/a012_35_14/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "适马日文官方规格明确列 Sony E：77×120mm、734g；不使用 SA 或 L 卡口数值。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "sigma-a018-40-14",

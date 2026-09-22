@@ -139,15 +139,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
-    "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "weight": 273,
+    "diameter": 68,
+    "length": 79,
+    "filterSize": 58,
+    "minFocus": 0.45,
+    "maxMagnification": 0.13,
+    "elements": 10,
+    "groups": 6,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -161,8 +161,9 @@
       }
     ],
     "notes": [
-      "厂家目录使用 II / Lite 名称，产品型号为 50F1.8S DF；不按颜色重复收录。"
+      "厂家目录使用 II / Lite 名称，产品型号为 50F1.8S DF；不按颜色重复收录。",
+      "人工核对官方 Lite II 产品页 Product Specification 图：长度自安装面至前端，重量为镜头本体约值。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   }
 ]

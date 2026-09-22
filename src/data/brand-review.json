@@ -1,15 +1,80 @@
 [
-  {"brand":"sony","url":"https://www.sony.co.uk/lenses","scope":"原厂 FE 产品规格页逐型号核对，含一、二代及新旧 G / GM / ZA。","limits":"56 款已确认；部分历史停产状态、发布日期和中国大陆现行价格仍待核实。电动变焦摄影镜头保留，专用电影镜头排除。"},
-  {"brand":"sigma","url":"https://www.sigma-global.com/en/discontinued/","scope":"同时清点官方 Sony E 当前产品目录和停产目录，核对 DG / DG DN / DG HSM 的原生 E 卡口版本。","limits":"已拆分 DG DN 旧款与 DG 新标识型号；不同官方条目作为独立型号，不能把名称更新直接视作光学升级。"},
-  {"brand":"tamron","url":"https://www.tamron.com/global/consumer/lenses/","scope":"核对 Di III 全画幅变焦、定焦和 F072 微距的 Sony E 规格。","limits":"G2 与第一代独立收录。规格页仍在线不等于仍在生产，未取得明确停产说明的状态保留为未知。"},
-  {"brand":"zeiss","url":"https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras.html","scope":"Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补充。","limits":"不包含单反 Otus、Milvus 或电影系列。多卡口 Otus ML 仅取表格 E 栏；光圈叶片等未公布字段留空。"},
-  {"brand":"samyang","url":"https://samyangus.com/collections/sony-e","scope":"厂商美国站 Sony E 摄影镜头及商品目录，自动与手动系列分别保留。","limits":"Rokinon 地区名称不重复计数；套装、模块化和无法确认全画幅的条目进入待核验表。历史型号仍可能遗漏。"},
-  {"brand":"viltrox","url":"https://viltrox.com/","scope":"厂商商品目录与 AF / MF 全画幅产品页，含 Air / Pro / LAB / EVO。","limits":"仅有规格图片或混合卡口参数的页面需要进一步人工核验；无明确 E 卡口重量时不采用通用重量。"},
-  {"brand":"laowa","url":"https://www.laowa.nl/laowa/producten-per-merk-mount/sony/sony-e/","scope":"LAOWA 荷兰地区品牌站 Sony E 目录逐页清点，确认 Sony FE / FF 商品型号。","limits":"国际站读取受限。地区站尺寸字段存在不一致，尺寸留空；对焦距离缺少单位时留空。滤镜、重量也应在取得说明书后继续复核。"},
-  {"brand":"voigtlander","url":"https://www.cosina.co.jp/voigtlander/en/e-mount/","scope":"Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格页。","limits":"当前目录不完整代表历史系列；早期 SE 版本及其他已下架型号需继续对照历史目录。"},
-  {"brand":"ttartisan","url":"https://ttartisan.store/","scope":"厂商商品目录确认全画幅与 Sony E 选项，包含倾角、移轴、微距镜头。","limits":"同光学设计的不同颜色不重复计数；不将 M 卡口转接视作原生 E。规格图片待逐项补充。"},
-  {"brand":"7artisans","url":"https://7artisans.store/","scope":"厂商商品目录确认 Full-frame 标识及 E 卡口选项，区分 AF / MF 和已识别代际。","limits":"部分共用商品页标题显示 L 卡口，但选项提供 E 卡口；参数图片、早期版本和全部代际仍需继续核验。"},
-  {"brand":"yongnuo","url":"https://th.hkyongnuo.com/pages/best-sellers","scope":"官方 Sony FE 产品页及全画幅目录，区分早期 YN 与升级版、Lite 版本。","limits":"50mm DSM 的叶片数在官方介绍与表格之间冲突，留空；早期塑料镜身 85mm 单列待核验。"},
-  {"brand":"sirui","url":"https://store.sirui.com/","scope":"官方商店 AURORA 全画幅 AF 摄影镜头，排除 Night Walker、Sniper APS-C 和电影变形镜头。","limits":"当前已确认两款 AURORA；多卡口重量和规格图片待继续核对。"},
-  {"brand":"meike","url":"https://meikeglobal.com/collections/sony","scope":"额外清点美科官方 Sony E 全画幅摄影镜头，分开 Pro / MIX / SE 和第二代。","limits":"11 款已确认身份；规格参数和历史手动系列待进一步补齐。其他长尾品牌尚未完成清点。"}
+  {
+    "brand": "sony",
+    "url": "https://www.sony.co.uk/lenses",
+    "scope": "原厂 FE 产品规格页逐型号核对，含一、二代及新旧 G / GM / ZA。",
+    "limits": "56 款已确认；部分历史停产状态、发布日期和中国大陆现行价格仍待核实。电动变焦摄影镜头保留，专用电影镜头排除。"
+  },
+  {
+    "brand": "sigma",
+    "url": "https://www.sigma-global.com/en/discontinued/",
+    "scope": "同时清点官方 Sony E 当前产品目录和停产目录，核对 DG / DG DN / DG HSM 的原生 E 卡口版本。",
+    "limits": "已拆分 DG DN 旧款与 DG 新标识型号；不同官方条目作为独立型号，不能把名称更新直接视作光学升级。"
+  },
+  {
+    "brand": "tamron",
+    "url": "https://www.tamron.com/global/consumer/lenses/",
+    "scope": "核对 Di III 全画幅变焦、定焦和 F072 微距的 Sony E 规格。",
+    "limits": "G2 与第一代独立收录。规格页仍在线不等于仍在生产，未取得明确停产说明的状态保留为未知。"
+  },
+  {
+    "brand": "zeiss",
+    "url": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras.html",
+    "scope": "Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补充。",
+    "limits": "不包含单反 Otus、Milvus 或电影系列。Otus ML 已补充官方 10 叶片说明；Batis / Loxia 未取得叶片数的充分官方佐证。"
+  },
+  {
+    "brand": "samyang",
+    "url": "https://samyangus.com/collections/sony-e",
+    "scope": "厂商美国站 Sony E 摄影镜头及商品目录，自动与手动系列分别保留。",
+    "limits": "Rokinon 地区名称不重复计数；套装、模块化和无法确认全画幅的条目进入待核验表。历史型号仍可能遗漏。"
+  },
+  {
+    "brand": "viltrox",
+    "url": "https://viltrox.com/",
+    "scope": "厂商商品目录与 AF / MF 全画幅产品页，含 Air / Pro / LAB / EVO。",
+    "limits": "已复核 E/FE 专属参数区并区分同页比较型号。16mm、85mm II 等部分历史资料仍缺逐卡口参数；固定光圈型号的叶片字段不适用。"
+  },
+  {
+    "brand": "laowa",
+    "url": "https://www.laowa.nl/laowa/producten-per-merk-mount/sony/sony-e/",
+    "scope": "LAOWA 荷兰地区品牌站 Sony E 目录逐页清点，确认 Sony FE / FF 商品型号。",
+    "limits": "已逐份核对地区品牌站链接的原厂说明书，补充尺寸和距离单位。部分手册只列 M/F/EF/RF 等卡口尺寸，或与 E 页冲突，相关值继续留空；共用标称尺寸在型号备注说明。"
+  },
+  {
+    "brand": "voigtlander",
+    "url": "https://www.cosina.co.jp/voigtlander/en/e-mount/",
+    "scope": "Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格页。",
+    "limits": "当前目录不完整代表历史系列；早期 SE 版本及其他已下架型号需继续对照历史目录。"
+  },
+  {
+    "brand": "ttartisan",
+    "url": "https://ttartisan.store/",
+    "scope": "厂商商品目录确认全画幅与 Sony E 选项，包含倾角、移轴、微距镜头。",
+    "limits": "已核对官网文字表格、E 卡口尺寸图和 90mm F1.25 官方说明书。跨卡口重量区间不当作 E 卡口定值，未公布倍率继续留空。"
+  },
+  {
+    "brand": "7artisans",
+    "url": "https://7artisans.store/",
+    "scope": "厂商商品目录确认 Full-frame 标识及 E 卡口选项，区分 AF / MF 和已识别代际。",
+    "limits": "已核对官网文字规格及参数图片。10mm F2.8 II 的 8/10 叶片说明冲突，留空；共用 L 页重量尺寸不移用于 E。部分型号尚缺倍率与专属重量。"
+  },
+  {
+    "brand": "yongnuo",
+    "url": "https://th.hkyongnuo.com/pages/best-sellers",
+    "scope": "官方 Sony FE 产品页及全画幅目录，区分早期 YN 与升级版、Lite 版本。",
+    "limits": "已补充 Lite II 官方规格图片中的完整主要参数；50mm DSM 的叶片数冲突仍留空，85mm 仍缺部分官方佐证，早期塑料镜身版本单列待核验。"
+  },
+  {
+    "brand": "sirui",
+    "url": "https://store.sirui.com/",
+    "scope": "官方商店 AURORA 全画幅 AF 摄影镜头，排除 Night Walker、Sniper APS-C 和电影变形镜头。",
+    "limits": "已核对两款 AURORA 的 E Mount 规格，重量和长度使用不含镜头盖口径；85mm 不混入 X 卡口 101.7mm 长度。"
+  },
+  {
+    "brand": "meike",
+    "url": "https://meikeglobal.com/collections/sony",
+    "scope": "额外清点美科官方 Sony E 全画幅摄影镜头，分开 Pro / MIX / SE 和第二代。",
+    "limits": "11 款已确认身份，已读取新款规格图片补齐多数字段；许多型号官网未列最大放大倍率，部分早期镜头仍缺逐卡口重量和尺寸。其他长尾品牌尚未完成清点。"
+  }
 ]

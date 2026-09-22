@@ -17,15 +17,15 @@
     "apertureTele": 1.4,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 648,
+    "diameter": 85,
+    "length": 110,
+    "filterSize": 77,
+    "minFocus": 0.81,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 15,
+    "groups": 11,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -39,7 +39,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -61,15 +61,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 369,
+    "diameter": 76,
+    "length": 100.2,
+    "filterSize": 62,
+    "minFocus": 0.65,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 7,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -83,7 +83,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -105,15 +105,15 @@
     "apertureTele": 1.4,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 556,
+    "diameter": 79,
+    "length": 107,
+    "filterSize": 72,
+    "minFocus": 0.28,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 15,
+    "groups": 12,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -127,7 +127,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -150,14 +150,14 @@
     "focus": "AF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "diameter": 73,
+    "length": 90,
+    "filterSize": 58,
+    "minFocus": 0.45,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 9,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -171,7 +171,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -193,15 +193,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 400,
+    "diameter": 74,
+    "length": 93,
+    "filterSize": 58,
+    "minFocus": 0.35,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 12,
+    "groups": 10,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -215,7 +215,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -237,15 +237,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 389,
+    "diameter": 76,
+    "length": 95,
+    "filterSize": 62,
+    "minFocus": 0.85,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 8,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -259,7 +259,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -281,15 +281,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 364,
+    "diameter": 74,
+    "length": 90,
+    "filterSize": 58,
+    "minFocus": 0.55,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 8,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -303,7 +303,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -324,16 +324,16 @@
     "apertureWide": 1.4,
     "apertureTele": 1.4,
     "focus": "AF",
-    "stabilization": null,
+    "stabilization": false,
     "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "diameter": 87,
+    "length": 114,
+    "filterSize": 77,
+    "minFocus": 0.98,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 13,
+    "groups": 8,
+    "blades": 12,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -347,7 +347,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "人工核对官网 Specifications 图片；逐卡口重量采用 E/FE 栏，共用尺寸按图片标称值收录。未给最大放大倍率；无逐卡口标识的通用重量不补填。"
     ],
     "verification": "partial"
   },
@@ -372,12 +372,12 @@
     "weight": null,
     "diameter": null,
     "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "filterSize": 67,
+    "minFocus": 0.9,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 9,
+    "groups": 6,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -391,7 +391,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "官网明确 E/Z/X 最近对焦距离为 0.9m，EF 版为 0.85m；共用重量尺寸仍待 E 专属参数佐证。"
     ],
     "verification": "partial"
   },
@@ -416,11 +416,11 @@
     "weight": null,
     "diameter": null,
     "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "filterSize": 67,
+    "minFocus": 0.6,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
+    "elements": 12,
+    "groups": 7,
     "blades": null,
     "releaseDate": null,
     "releasePrecision": null,
@@ -435,7 +435,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "官网参数表补充滤镜、最近对焦距离及光学结构；多卡口页面的重量和长度未独立标 E 版本，继续待核验。"
     ],
     "verification": "partial"
   },
@@ -457,14 +457,14 @@
     "apertureTele": 1.7,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 310,
+    "diameter": 61,
+    "length": 54.5,
+    "filterSize": 52,
+    "minFocus": 0.5,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
+    "elements": 6,
+    "groups": 5,
     "blades": null,
     "releaseDate": null,
     "releasePrecision": null,
@@ -479,7 +479,7 @@
       }
     ],
     "notes": [
-      "型号、全画幅及 E 卡口已由厂家商品页确认；参数图片和说明书待逐字段核验，不采用其他卡口数据。"
+      "官网 Sony E 参数栏给出镜身直径 61mm、长度 54.5mm；130×96×90mm 为包装尺寸，不采用。"
     ],
     "verification": "partial"
   }

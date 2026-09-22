@@ -17,15 +17,15 @@
     "apertureTele": 1.4,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
-    "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "weight": 490,
+    "diameter": 76,
+    "length": 102.9,
+    "filterSize": 62,
+    "minFocus": 0.35,
+    "maxMagnification": 0.14,
+    "elements": 16,
+    "groups": 11,
+    "blades": 13,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -39,9 +39,10 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官网 Specifications：重量和长度均取 E Mount、不含镜头盖；直径取 Max Diameter。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "sirui-sirui-aurora-series-85mm-full-frame-autofocus-lens",
@@ -61,15 +62,15 @@
     "apertureTele": 1.4,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
-    "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "weight": 540,
+    "diameter": 80.3,
+    "length": 102,
+    "filterSize": 67,
+    "minFocus": 0.85,
+    "maxMagnification": 0.1152,
+    "elements": 14,
+    "groups": 9,
+    "blades": 15,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -83,8 +84,9 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官网 Specifications：E Mount 不含盖重量 540g、长度 102mm；宣传对比图的 101.7mm 对应 X 版，不混用。最大倍率采用官方同时给出的 0.1152×。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   }
 ]

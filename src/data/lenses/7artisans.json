@@ -17,15 +17,15 @@
     "apertureTele": 2.5,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 504,
+    "diameter": 76,
+    "length": 94,
     "filterSize": null,
-    "minFocus": null,
+    "minFocus": 0.15,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 8,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -39,7 +39,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
     "verification": "partial"
   },
@@ -61,15 +62,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
-    "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "weight": 1014,
+    "diameter": 91.2,
+    "length": 130,
+    "filterSize": 82,
+    "minFocus": 0.68,
+    "maxMagnification": 0.25,
+    "elements": 16,
+    "groups": 13,
+    "blades": 12,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -83,9 +84,10 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "7artisans-af-40mm-f2-5-full-frame-lens-for-e-z-l",
@@ -105,15 +107,15 @@
     "apertureTele": 2.5,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 90,
+    "diameter": 63,
+    "length": 40,
+    "filterSize": 46,
+    "minFocus": 0.4,
     "maxMagnification": null,
     "elements": 7,
     "groups": 6,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -127,7 +129,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
     "verification": "partial"
   },
@@ -149,15 +152,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 426,
+    "diameter": 72,
+    "length": 94,
+    "filterSize": 62,
+    "minFocus": 0.4,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 8,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -171,7 +174,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
     "verification": "partial"
   },
@@ -193,15 +197,15 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 504,
+    "diameter": 79,
+    "length": 87,
+    "filterSize": 77,
+    "minFocus": 0.43,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 13,
+    "groups": 9,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -215,7 +219,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
     "verification": "partial"
   },
@@ -238,14 +243,14 @@
     "focus": "MF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "diameter": 62,
+    "length": 77,
+    "filterSize": 58,
+    "minFocus": 0.88,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 6,
+    "groups": 6,
+    "blades": 13,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -259,7 +264,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
     "verification": "partial"
   },
@@ -281,15 +287,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 424,
+    "diameter": 72,
+    "length": 92,
+    "filterSize": 62,
+    "minFocus": 0.32,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 14,
+    "groups": 11,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -303,7 +309,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
     "verification": "partial"
   },
@@ -372,12 +379,12 @@
     "weight": null,
     "diameter": null,
     "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "filterSize": 62,
+    "minFocus": 0.5,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 9,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -391,7 +398,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官方 L/E 共用型号页补充光学规格；页面的 421g、72×104mm 为 L 卡口，不填入 E 版本。"
     ],
     "verification": "partial"
   },
@@ -413,14 +421,14 @@
     "apertureTele": 5.6,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
+    "weight": 146,
     "diameter": null,
     "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "filterSize": 49,
+    "minFocus": 0.3,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
+    "elements": 7,
+    "groups": 5,
     "blades": null,
     "releaseDate": null,
     "releasePrecision": null,
@@ -435,7 +443,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官网表格给出 E 卡口约 146g；固定 F5.6，叶片栏为 0（不适用），现有空值以本备注解释。"
     ],
     "verification": "partial"
   },
@@ -457,14 +466,14 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 602,
+    "diameter": 75,
+    "length": 95,
     "filterSize": null,
-    "minFocus": null,
+    "minFocus": 0.15,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
+    "elements": 11,
+    "groups": 8,
     "blades": null,
     "releaseDate": null,
     "releasePrecision": null,
@@ -479,7 +488,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官网规格图明确 E 版本约 602g、75×95mm。正文称 8 叶片，规格图写 10 叶片，冲突项留空待核验。"
     ],
     "verification": "partial"
   },
@@ -501,15 +511,15 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
-    "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "weight": 550,
+    "diameter": 70,
+    "length": 109,
+    "filterSize": 67,
+    "minFocus": 0.17,
+    "maxMagnification": 2,
+    "elements": 14,
+    "groups": 12,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -523,9 +533,10 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "7artisans-35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l",
@@ -548,12 +559,12 @@
     "weight": null,
     "diameter": null,
     "length": null,
-    "filterSize": null,
+    "filterSize": 52,
     "minFocus": null,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 7,
+    "groups": 5,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -567,7 +578,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官方正文公布光学结构与叶片、滤镜；仍缺 E 专属重量尺寸及倍率。"
     ],
     "verification": "partial"
   },
@@ -590,14 +602,14 @@
     "focus": "MF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
-    "length": null,
+    "diameter": 70,
+    "length": 86,
     "filterSize": null,
-    "minFocus": null,
+    "minFocus": 0.2,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 16,
+    "groups": 11,
+    "blades": 5,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -611,7 +623,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "核对官网参数表/参数图片；重量只采用明确标注 E 的数值，尺寸取官方标称图示。34mm 为后置 ND，不作为前置旋入滤镜口径。"
     ],
     "verification": "partial"
   },
@@ -637,11 +650,11 @@
     "diameter": null,
     "length": null,
     "filterSize": null,
-    "minFocus": null,
+    "minFocus": 0.17,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 11,
+    "groups": 8,
+    "blades": 8,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -655,7 +668,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官网第一代产品说明明确 11 片 8 组、8 叶片、0.17m；不混入二代 0.15m。"
     ],
     "verification": "partial"
   },
@@ -683,8 +697,8 @@
     "filterSize": null,
     "minFocus": null,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
+    "elements": 5,
+    "groups": 4,
     "blades": null,
     "releaseDate": null,
     "releasePrecision": null,
@@ -699,7 +713,8 @@
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
+      "官网正文明确 5 片 4 组；固定 F5.6，不臆填叶片数。"
     ],
     "verification": "partial"
   }

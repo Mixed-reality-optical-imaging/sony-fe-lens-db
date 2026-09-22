@@ -16,11 +16,11 @@
     "focus": "MF",
     "stabilization": false,
     "weight": 375,
-    "diameter": null,
-    "length": null,
+    "diameter": 67.4,
+    "length": 68.5,
     "filterSize": null,
     "minFocus": 0.3,
-    "maxMagnification": null,
+    "maxMagnification": 0.044,
     "elements": 13,
     "groups": 10,
     "blades": 10,
@@ -41,8 +41,10 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "Cosina E-mount 规格：最大倍率 1:22.7，换算为约 0.044×；无前置滤镜螺纹。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "voigtlander-super-wide-heliar-15mm-f4-5-aspherical-iii",
@@ -61,11 +63,11 @@
     "focus": "MF",
     "stabilization": false,
     "weight": 298,
-    "diameter": null,
-    "length": null,
+    "diameter": 66.4,
+    "length": 62.3,
     "filterSize": 58,
     "minFocus": 0.3,
-    "maxMagnification": null,
+    "maxMagnification": 0.065,
     "elements": 11,
     "groups": 9,
     "blades": 10,
@@ -86,8 +88,10 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "Cosina E-mount 规格：最大倍率 1:15.4，换算为约 0.065×。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "voigtlander-nokton-21mm-f1-4-aspherical",
@@ -106,9 +110,9 @@
     "focus": "MF",
     "stabilization": false,
     "weight": 560,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
+    "diameter": 70.5,
+    "length": 79.5,
+    "filterSize": 62,
     "minFocus": 0.25,
     "maxMagnification": 0.133,
     "elements": 13,
@@ -131,8 +135,10 @@
         "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "Cosina E-mount 规格采用直径×长度 70.5×79.5mm。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "voigtlander-nokton-classic-35mm-f1-4",
