@@ -46,7 +46,6 @@
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
-      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。",
       "重量采用日本代理 Sony E 独立型号栏；尺寸继续采用厂家图纸的标称值。地区代理近似尺寸与厂家图纸有约 0.5–1mm 舍入差异。"
     ],
     "verification": "partial"
@@ -98,7 +97,6 @@
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
-      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。",
       "重量采用日本代理 Sony E 独立型号栏；尺寸继续采用厂家图纸的标称值。地区代理近似尺寸与厂家图纸有约 0.5–1mm 舍入差异。"
     ],
     "verification": "partial"
@@ -121,7 +119,7 @@
     "apertureTele": 2,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
+    "weight": 167,
     "diameter": 61,
     "length": 44,
     "filterSize": 52,
@@ -140,12 +138,17 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/af-40mm-f2",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002298/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
-      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
+      "本轮补充值取自日本正规代理 Sony E 独立型号规格栏；尺寸为不含卡口突出部分的近似标称值，重量为约值。"
     ],
     "verification": "partial"
   },
@@ -167,7 +170,7 @@
     "apertureTele": 2,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
+    "weight": 328,
     "diameter": 67,
     "length": 74,
     "filterSize": 62,
@@ -186,12 +189,17 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/ttartisan-af-75mm-f2",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002139/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
-      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
+      "本轮补充值取自日本正规代理 Sony E 独立型号规格栏；尺寸为不含卡口突出部分的近似标称值，重量为约值。"
     ],
     "verification": "partial"
   },
@@ -259,7 +267,7 @@
     "apertureTele": 6.3,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
+    "weight": 1605,
     "diameter": 88,
     "length": 317,
     "filterSize": 82,
@@ -278,12 +286,18 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/500mm",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000001930/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
-      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
+      "本轮补充值取自日本正规代理 Sony E 独立型号规格栏；尺寸为不含卡口突出部分的近似标称值，重量为约值。",
+      "代理提示 Sony E 在全画幅机身上可能出现轻微暗角。"
     ],
     "verification": "partial"
   },
@@ -350,9 +364,9 @@
     "apertureTele": 1.4,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 450,
+    "diameter": 68,
+    "length": 68,
     "filterSize": 62,
     "minFocus": 0.5,
     "maxMagnification": null,
@@ -369,11 +383,17 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/tilt50mm",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000001796/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。"
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "本轮补充值取自日本正规代理 Sony E 独立型号规格栏；尺寸为不含卡口突出部分的近似标称值，重量为约值。"
     ],
     "verification": "partial"
   },
@@ -486,7 +506,7 @@
     "focus": "MF",
     "stabilization": null,
     "weight": null,
-    "diameter": null,
+    "diameter": 82,
     "length": null,
     "filterSize": 77,
     "minFocus": 1,
@@ -496,7 +516,7 @@
     "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -509,11 +529,17 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://en.ttartisan.com/static/upload/file/20230327/1679882838946101.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000001723/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "官方多卡口使用说明书明确 90mm F1.25、77mm 滤镜、1m 最近对焦。通用约 1013g 未分卡口，不补填重量。"
+      "官方多卡口使用说明书明确 90mm F1.25、77mm 滤镜、1m 最近对焦。通用约 1013g 未分卡口，不补填重量。",
+      "代理商明确标注 Sony E 型号生产结束，销售状态据此记录，不表示各地库存售罄；82mm 为各无反卡口共用直径，长度和重量仍只有范围，保持未知。"
     ],
     "verification": "partial"
   },
@@ -535,11 +561,11 @@
     "apertureTele": 1.5,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 420,
+    "diameter": 56,
+    "length": 76,
     "filterSize": 72,
-    "minFocus": null,
+    "minFocus": 0.5,
     "maxMagnification": null,
     "elements": 13,
     "groups": 11,
@@ -554,11 +580,18 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/ttartisan-21mm-f1-5",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000001578/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。"
+      "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
+      "本轮补充值取自日本正规代理 Sony E 独立型号规格栏；尺寸为不含卡口突出部分的近似标称值，重量为约值。",
+      "72mm 滤镜须使用附带支架；最近对焦采用无反版 0.5m，不混用 Leica M 版 0.7m。"
     ],
     "verification": "partial"
   },
@@ -578,9 +611,9 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 437,
+    "diameter": 65,
+    "length": 77,
     "filterSize": 77,
     "minFocus": 0.2,
     "maxMagnification": null,
@@ -597,10 +630,16 @@
         "title": "铭匠官方产品规格",
         "url": "https://www.ttartisan.com/?full-frame-lenses/347.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002301/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "已确认全画幅及原生 E 卡口，从待核验清单转入。77mm 滤镜须通过滤镜支架安装。官网重量 437–445g 为多卡口范围，E 卡口独立值未确认。"
+      "已确认全画幅及原生 E 卡口，从待核验清单转入。77mm 滤镜须通过滤镜支架安装。官网重量 437–445g 为多卡口范围，本轮通过代理 Sony E 独立型号栏补充重量。",
+      "本轮补充值取自日本正规代理 Sony E 独立型号规格栏；尺寸为不含卡口突出部分的近似标称值，重量为约值。"
     ],
     "verification": "partial"
   },
@@ -620,9 +659,9 @@
     "apertureTele": 4,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 1040,
+    "diameter": 88,
+    "length": 120,
     "filterSize": null,
     "minFocus": 0.3,
     "maxMagnification": null,
@@ -639,10 +678,17 @@
         "title": "铭匠官方产品规格",
         "url": "https://www.ttartisan.com/?full-frame-lenses/345.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "焦点工房：铭匠日本正规代理产品规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002337/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "已确认全画幅及原生 E 卡口，从待核验清单转入。官网重量 1051–1056g 未区分卡口，不取范围端点当作 E 版本重量。"
+      "已确认全画幅及原生 E 卡口，从待核验清单转入。官网重量 1051–1056g 未区分卡口，不取范围端点当作 E 版本重量。",
+      "本轮补充值取自日本正规代理 Sony E 独立型号规格栏；尺寸为不含卡口突出部分的近似标称值，重量为约值。",
+      "代理 E 版本约 1040g，与厂家未分卡口的 1051–1056g 范围存在差异，采用已明确卡口的地区规格并保留差异记录。代理明确不能安装滤镜，滤镜口径保留空值。"
     ],
     "verification": "partial"
   }

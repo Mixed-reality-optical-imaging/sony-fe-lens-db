@@ -68,7 +68,9 @@ test("新增记录已确认 E 卡口，转入正式库的型号不残留在待�
   for (const id of ["ttartisan-14mm-f2-8-asph", "ttartisan-tilt-shift-17mm-f4-asph"]) {
     const lens = get(id);
     assert.equal(lens.mount, "Sony E");
-    assert.equal(lens.weight, null); // 多卡口范围不取端点。
+    // 已找到 E 卡口独立规格，不再用早期缺值作为永久断言。
+    assert.equal(lens.weight, id.includes("14mm") ? 437 : 1040);
+    assert.ok(lens.sources.some((source) => source.url.startsWith("https://www.stkb.jp/shopdetail/")));
     assert.ok(!audit.some((row) => row.brand === lens.brand && row.model === lens.model));
   }
   const zoom = get("thypoch-voyager");

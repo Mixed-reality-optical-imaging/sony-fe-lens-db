@@ -10,6 +10,10 @@
 
 Latest data update: the archive review adds 19 missing values across 14 existing lenses. Primary specifications are complete for 226 of 291 records; this does not mean every metadata field is complete. Remaining gaps and limitations of indexed historical sources are documented in the linked reports.
 
+后续地区资料核验：再补充铭匠 8 款镜头的 17 个数值参数与 1 个销售状态，明确 E 卡口尺寸、重量及来源差异。[地区核验记录 / Regional review](docs/DATA_ENRICHMENT_2026-09-22_REGIONAL.md)。
+
+Follow-up regional review: 17 numerical values and one sales status added across eight TTArtisan lenses, with Sony E dimensions, weights and source discrepancies documented. Primary-spec completeness remains 226/291 because these records still lack other parameters.
+
 ### 仅供参考 / 数据准确性
 
 **本项目及全部镜头参数、价格、日期和销售状态仅供参考，不保证准确、完整或及时。** 人工整理、来源差异、卡口版本差异及厂商后续调整均可能造成错误或遗漏。记录中的“已核验”仅表示曾对照所列来源，不是厂商认证，也不构成准确性保证。购买、使用或判断兼容性前，请以对应型号与卡口的厂商最新规格、说明书和实际产品为准；不要仅依据本项目作出购买决定。
