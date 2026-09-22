@@ -37,6 +37,16 @@ for (const [key, label] of specFields) {
   const known = all.filter((l) => l[key] !== null).length;
   md += `| ${label} | ${known} | ${all.length - known} |\n`;
 }
+md += "\n### 其他查询字段覆盖\n\n以下单独统计，不纳入主要规格完整数。系列和代际可能不适用；未知销售状态不能由产品页存在或消失推断；机身防抖不等于镜头防抖。\n\n| 字段 | 已有明确值 | 未知或未填写 |\n|---|---:|---:|\n";
+for (const [label, known] of [
+  ["镜头防抖", all.filter((l) => l.stabilization !== null).length],
+  ["发布日期", all.filter((l) => l.releaseDate !== null).length],
+  ["销售状态", all.filter((l) => l.status !== "unknown").length],
+  ["对焦方式", all.filter((l) => l.focus !== "unknown").length],
+  ["人民币参考价格", all.filter((l) => l.price !== null).length],
+  ["系列（可能不适用）", all.filter((l) => l.series !== null).length],
+  ["代际（可能不适用）", all.filter((l) => l.generation !== null).length],
+] as const) md += `| ${label} | ${known} | ${all.length - known} |\n`;
 md += "\n| 型号 | 尚为空的主要规格 |\n|---|---|\n";
 for (const l of all.filter((l) => l.verification === "partial"))
   md += `| ${escape(l.name)}（${l.brand}） | ${specFields

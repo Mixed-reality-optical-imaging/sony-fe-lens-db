@@ -23,7 +23,7 @@
     "maxMagnification": 0.105,
     "elements": 11,
     "groups": 10,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -34,10 +34,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-batis-25",
@@ -63,7 +70,7 @@
     "maxMagnification": 0.192,
     "elements": 10,
     "groups": 8,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -74,10 +81,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-batis-40",
@@ -103,7 +117,7 @@
     "maxMagnification": 0.303,
     "elements": 9,
     "groups": 8,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -114,10 +128,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-batis-85",
@@ -143,7 +164,7 @@
     "maxMagnification": 0.127,
     "elements": 11,
     "groups": 8,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -154,10 +175,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-batis-135",
@@ -183,7 +211,7 @@
     "maxMagnification": 0.189,
     "elements": 14,
     "groups": 11,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -194,10 +222,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-loxia-25",
@@ -223,7 +258,7 @@
     "maxMagnification": 0.156,
     "elements": 10,
     "groups": 8,
-    "blades": null,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -234,10 +269,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-loxia-35",
@@ -263,7 +305,7 @@
     "maxMagnification": 0.172,
     "elements": 9,
     "groups": 6,
-    "blades": null,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -274,10 +316,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-loxia-50",
@@ -303,7 +352,7 @@
     "maxMagnification": 0.145,
     "elements": 6,
     "groups": 4,
-    "blades": null,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -314,10 +363,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-loxia-85",
@@ -343,7 +399,7 @@
     "maxMagnification": 0.139,
     "elements": 7,
     "groups": 7,
-    "blades": null,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -354,10 +410,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
-    "verification": "partial"
+    "notes": [
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
+    ],
+    "verification": "verified"
   },
   {
     "id": "zeiss-loxia-21",
@@ -374,7 +437,7 @@
     "apertureWide": 2.8,
     "apertureTele": 2.8,
     "focus": "MF",
-    "stabilization": null,
+    "stabilization": false,
     "weight": 394,
     "diameter": 62.1,
     "length": 72,
@@ -383,7 +446,7 @@
     "maxMagnification": 0.128,
     "elements": 11,
     "groups": 9,
-    "blades": null,
+    "blades": 10,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -394,12 +457,18 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/content/dam/pno/downloads/photo-lenses/datasheets/loxia-lenses/datasheet-zeiss-loxia-2821.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/datasheet-zeiss-loxia-2821.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS E-Mount Lenses 历史目录（2019-06，搜索索引可读）",
+        "url": "https://www.zeiss.co.jp/content/dam/consumer-products/downloads/photography/brochures/en/brochure-zeiss-e-mount-lenses-en.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "官方尺寸不含前后盖为 72mm，含盖为 85mm；本库采用不含盖长度。放大倍率 1:7.81 换算约 0.128×。"
+      "官方尺寸不含前后盖为 72mm，含盖为 85mm；本库采用不含盖长度。放大倍率 1:7.81 换算约 0.128×。",
+      "光圈叶片依据 2019-06 原厂 E-Mount 目录参数表。旧 PDF 直链当前返回 404，本次读取搜索索引中的完整参数表；未将目录的含盖长度或对焦环直径替换为镜身尺寸。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "zeiss-otus-ml-35",
@@ -426,8 +495,8 @@
     "elements": 15,
     "groups": 11,
     "blades": 10,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2026-02-24",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -436,11 +505,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS Otus ML 官方发布公告",
+        "url": "https://www.zeiss.de/photonics-and-optics/home/content/newsroom/news-uebersicht/2026/otus-ml-35mm-launch.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "重量和长度取官网表格的 E 栏；不含前后盖。",
-      "ZEISS Otus ML 官方系列说明明确采用 10 片光圈叶片。"
+      "ZEISS Otus ML 官方系列说明明确采用 10 片光圈叶片。",
+      "发布日期采用厂家新闻稿日期，不代表中国大陆开售日期。"
     ],
     "verification": "verified"
   },
@@ -469,8 +544,8 @@
     "elements": 14,
     "groups": 11,
     "blades": 10,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-02-25",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -479,11 +554,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS Otus ML 官方发布公告",
+        "url": "https://www.zeiss.co.uk/photonics-and-optics/home/content/newsroom/news-overview/2025/new-otus-ml.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "重量和长度取官网表格的 E 栏；不含前后盖。",
-      "ZEISS Otus ML 官方系列说明明确采用 10 片光圈叶片。"
+      "ZEISS Otus ML 官方系列说明明确采用 10 片光圈叶片。",
+      "发布日期采用厂家新闻稿日期，不代表中国大陆开售日期。"
     ],
     "verification": "verified"
   },
@@ -512,8 +593,8 @@
     "elements": 15,
     "groups": 11,
     "blades": 10,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2025-02-25",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -522,11 +603,17 @@
         "title": "ZEISS 官方产品规格",
         "url": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "ZEISS Otus ML 官方发布公告",
+        "url": "https://www.zeiss.co.uk/photonics-and-optics/home/content/newsroom/news-overview/2025/new-otus-ml.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "重量和长度取官网表格的 E 栏；不含前后盖。",
-      "ZEISS Otus ML 官方系列说明明确采用 10 片光圈叶片。"
+      "ZEISS Otus ML 官方系列说明明确采用 10 片光圈叶片。",
+      "发布日期采用厂家新闻稿日期，不代表中国大陆开售日期。"
     ],
     "verification": "verified"
   }

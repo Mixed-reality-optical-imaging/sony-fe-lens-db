@@ -2,7 +2,7 @@
 
 核验日期：2026-09-22。本清单由 `npm run data:report` 从正式记录生成。
 
-共 **291 款、14 个品牌**，其中 215 款主要规格完整，76 款信息不全，6 条可追溯人民币价格，23 款有明确停产依据。
+共 **291 款、14 个品牌**，其中 226 款主要规格完整，65 款信息不全，6 条可追溯人民币价格，23 款有明确停产依据。
 
 **此清单记录已核验范围，不代表市场全量。** 正式条目已确认原生 Sony E 卡口及全画幅身份；缺失字段仍显示暂无数据。
 
@@ -11,9 +11,9 @@
 | 索尼 Sony | 56 | 56 | 0 | 0 | 0 |
 | 适马 Sigma | 58 | 58 | 0 | 0 | 10 |
 | 腾龙 Tamron | 20 | 20 | 0 | 0 | 0 |
-| 蔡司 Zeiss | 13 | 3 | 10 | 0 | 0 |
+| 蔡司 Zeiss | 13 | 13 | 0 | 0 | 0 |
 | 森养 Samyang | 29 | 22 | 7 | 8 | 37 |
-| 唯卓仕 Viltrox | 17 | 14 | 3 | 0 | 15 |
+| 唯卓仕 Viltrox | 17 | 15 | 2 | 0 | 15 |
 | 老蛙 Laowa | 34 | 19 | 15 | 18 | 56 |
 | 福伦达 Voigtländer | 16 | 16 | 0 | 0 | 0 |
 | 铭匠 TTArtisan | 14 | 0 | 14 | 8 | 12 |
@@ -29,20 +29,33 @@
 
 | 字段 | 已有值 | 空值 |
 |---|---:|---:|
-| 重量（g） | 269 | 22 |
-| 直径（mm） | 270 | 21 |
-| 长度（mm） | 262 | 29 |
-| 滤镜口径（mm） | 257 | 34 |
+| 重量（g） | 270 | 21 |
+| 直径（mm） | 271 | 20 |
+| 长度（mm） | 263 | 28 |
+| 滤镜口径（mm） | 258 | 33 |
 | 最近对焦距离（m） | 285 | 6 |
 | 最大放大倍率（×） | 245 | 46 |
 | 镜片数 | 291 | 0 |
 | 镜组数 | 291 | 0 |
-| 光圈叶片数 | 272 | 19 |
+| 光圈叶片数 | 283 | 8 |
+
+### 其他查询字段覆盖
+
+以下单独统计，不纳入主要规格完整数。系列和代际可能不适用；未知销售状态不能由产品页存在或消失推断；机身防抖不等于镜头防抖。
+
+| 字段 | 已有明确值 | 未知或未填写 |
+|---|---:|---:|
+| 镜头防抖 | 163 | 128 |
+| 发布日期 | 45 | 246 |
+| 销售状态 | 73 | 218 |
+| 对焦方式 | 291 | 0 |
+| 人民币参考价格 | 6 | 285 |
+| 系列（可能不适用） | 182 | 109 |
+| 代际（可能不适用） | 23 | 268 |
 
 | 型号 | 尚为空的主要规格 |
 |---|---|
 | AF 28mm F4.5（viltrox） | 滤镜口径（mm）、光圈叶片数 |
-| AF 85mm F1.8 II（viltrox） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、光圈叶片数 |
 | MF 20mm F1.8（viltrox） | 最大放大倍率（×） |
 | MF 12mm F2.8 Fisheye（samyang） | 滤镜口径（mm）、最大放大倍率（×） |
 | MF 14mm F2.8（samyang） | 滤镜口径（mm）、最大放大倍率（×） |
@@ -79,16 +92,6 @@
 | MF 9mm F5.6（7artisans） | 重量（g）、滤镜口径（mm）、最大放大倍率（×） |
 | MF 10mm F2.8 Fisheye（7artisans） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
 | MF 35mm F5.6（7artisans） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最近对焦距离（m）、最大放大倍率（×）、光圈叶片数 |
-| Batis 18mm F2.8（zeiss） | 光圈叶片数 |
-| Batis 25mm F2（zeiss） | 光圈叶片数 |
-| Batis 40mm F2 CF（zeiss） | 光圈叶片数 |
-| Batis 85mm F1.8（zeiss） | 光圈叶片数 |
-| Batis 135mm F2.8（zeiss） | 光圈叶片数 |
-| Loxia 25mm F2.4（zeiss） | 光圈叶片数 |
-| Loxia 35mm F2（zeiss） | 光圈叶片数 |
-| Loxia 50mm F2（zeiss） | 光圈叶片数 |
-| Loxia 85mm F2.4（zeiss） | 光圈叶片数 |
-| Loxia 21mm F2.8（zeiss） | 光圈叶片数 |
 | 100mm F2.8 2X Ultra-Macro APO Lens（laowa） | 长度（mm） |
 | 11mm F4.5 FF RL Lens（laowa） | 长度（mm） |
 | 12-24mm F5.6 Zoom（laowa） | 长度（mm） |
@@ -289,16 +292,16 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
-| Batis 18mm F2.8（`zeiss-batis-18`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
-| Batis 25mm F2（`zeiss-batis-25`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
-| Batis 40mm F2 CF（`zeiss-batis-40`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
-| Batis 85mm F1.8（`zeiss-batis-85`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
-| Batis 135mm F2.8（`zeiss-batis-135`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
-| Loxia 25mm F2.4（`zeiss-loxia-25`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
-| Loxia 35mm F2（`zeiss-loxia-35`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
-| Loxia 50mm F2（`zeiss-loxia-50`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
-| Loxia 85mm F2.4（`zeiss-loxia-85`） | 信息不全 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
-| Loxia 21mm F2.8（`zeiss-loxia-21`） | 信息不全 | [厂家资料](https://www.zeiss.com/content/dam/pno/downloads/photo-lenses/datasheets/loxia-lenses/datasheet-zeiss-loxia-2821.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/datasheet-zeiss-loxia-2821.pdf) |
+| Batis 18mm F2.8（`zeiss-batis-18`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
+| Batis 25mm F2（`zeiss-batis-25`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
+| Batis 40mm F2 CF（`zeiss-batis-40`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
+| Batis 85mm F1.8（`zeiss-batis-85`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
+| Batis 135mm F2.8（`zeiss-batis-135`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/batis-lenses.html) |
+| Loxia 25mm F2.4（`zeiss-loxia-25`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
+| Loxia 35mm F2（`zeiss-loxia-35`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
+| Loxia 50mm F2（`zeiss-loxia-50`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
+| Loxia 85mm F2.4（`zeiss-loxia-85`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/us/photography/products/lenses-for-mirrorless-system-cameras/loxia-lenses.html) |
+| Loxia 21mm F2.8（`zeiss-loxia-21`） | 已核验 | [厂家资料](https://www.zeiss.com/content/dam/pno/downloads/photo-lenses/datasheets/loxia-lenses/datasheet-zeiss-loxia-2821.pdf/_jcr_content/renditions/original.media_file.download_attachment.file/datasheet-zeiss-loxia-2821.pdf) |
 | Otus ML 35mm F1.4（`zeiss-otus-ml-35`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
 | Otus ML 50mm F1.4（`zeiss-otus-ml-50`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
 | Otus ML 85mm F1.4（`zeiss-otus-ml-85`） | 已核验 | [厂家资料](https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras/otus-ml-lenses.html) |
@@ -364,7 +367,7 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 | AF 28mm F1.8（`viltrox-viltrox-af-28mm-f1-8-full-frame-lens-for-sony-e-mount`） | 已核验 | [厂家资料](https://viltrox.com/products/viltrox-af-28mm-f1-8-full-frame-lens-for-sony-e-mount) |
 | AF 20mm F2.8 Air（`viltrox-viltrox-af-20mm-f2-8`） | 已核验 | [厂家资料](https://viltrox.com/products/viltrox-af-20mm-f2-8) |
 | AF 16mm F1.8（`viltrox-viltrox-af-16mm-f1-8-fe`） | 已核验 | [厂家资料](https://viltrox.com/products/viltrox-af-16mm-f1-8-fe) |
-| AF 85mm F1.8 II（`viltrox-viltrox-85mm-f18-e-mount-sony-markii`） | 信息不全 | [厂家资料](https://viltrox.com/products/viltrox-85mm-f18-e-mount-sony-markii) |
+| AF 85mm F1.8 II（`viltrox-viltrox-85mm-f18-e-mount-sony-markii`） | 已核验 | [厂家资料](https://viltrox.com/products/viltrox-85mm-f18-e-mount-sony-markii) |
 | MF 20mm F1.8（`viltrox-viltrox-20mm-f-1-8-wide-angle-full-frame-manual-focus-prime-lens-for-sony-e-mount`） | 信息不全 | [厂家资料](https://viltrox.com/products/viltrox-20mm-f-1-8-wide-angle-full-frame-manual-focus-prime-lens-for-sony-e-mount) |
 
 ### 老蛙 Laowa

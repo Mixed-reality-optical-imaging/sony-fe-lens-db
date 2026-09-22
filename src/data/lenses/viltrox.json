@@ -678,15 +678,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
+    "weight": 484,
+    "diameter": 80,
+    "length": 92,
+    "filterSize": 72,
     "minFocus": 0.8,
     "maxMagnification": 0.125,
     "elements": 10,
     "groups": 7,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -702,13 +702,18 @@
         "title": "唯卓仕 85mm II 官方近摄规格图",
         "url": "https://cdn.shopify.com/s/files/1/0104/0380/7298/files/10_8b5506dd-b183-4d78-b9a9-3853e67811f7.jpg",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "VILTROX AF 85/1.8 II FE 原厂说明书（Coolblue 托管，搜索索引可读）",
+        "url": "https://manuals.coolblue.de/5c/viltrox-fe-85mm-f18-af-ii-sony-e-mount.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "Sony E 产品页明确光学结构为 7 组 10 片；其余缺失规格待说明书核验。",
-      "官方 Sony E 产品页近摄图标注最近对焦 0.8m、倍率 1:8，换算为 0.125 倍。"
+      "官方 Sony E 产品页近摄图标注最近对焦 0.8m、倍率 1:8，换算为 0.125 倍。",
+      "尺寸重量依据原厂 E-Mount 说明书：长度不含镜头盖为 92mm，含盖为 100mm，最大直径 80mm、重量 484g。读取零售商托管原厂 PDF 的搜索索引，直接下载受限。说明书的支持机身防抖不作为镜头内置防抖的证据，防抖字段仍待核实。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "viltrox-viltrox-20mm-f-1-8-wide-angle-full-frame-manual-focus-prime-lens-for-sony-e-mount",
