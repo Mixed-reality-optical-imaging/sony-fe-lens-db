@@ -63,7 +63,7 @@
     "brand": "yongnuo",
     "url": "https://th.hkyongnuo.com/pages/best-sellers",
     "scope": "官方 Sony FE 产品页及全画幅目录，区分早期 YN 与升级版、Lite 版本。",
-    "limits": "已补充 Lite II 官方规格图片中的完整主要参数；50mm DSM 的叶片数冲突仍留空，85mm 仍缺部分官方佐证，早期塑料镜身版本单列待核验。"
+    "limits": "结合中文官方画册补齐 50mm DSM 及 85mm 金属升级版主要规格；原版 85mm 已独立收录并有明确停产依据，新增 18mm F2.8 全画幅型号。部分发布日期、防抖及价格仍未知；合列多卡口尺寸重量不替换 E 专属值。"
   },
   {
     "brand": "sirui",

@@ -58,12 +58,12 @@
     "weight": 395,
     "diameter": 68,
     "length": 85,
-    "filterSize": null,
+    "filterSize": 58,
     "minFocus": 0.45,
     "maxMagnification": 0.15,
     "elements": 11,
     "groups": 8,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -74,12 +74,23 @@
         "title": "YONGNUO 官方产品规格",
         "url": "https://th.hkyongnuo.com/products/yn50mm-f18s-df-dsm",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "永诺官方 2026/04 产品画册，第 05—06 印刷页（PDF 第 5 页）",
+        "url": "https://www.szyongnuo.com/upload/file/202403/2026-03.pdf",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "永诺官方 2022 镜头画册（检索索引中的 E 卡口 50mm 规格）",
+        "url": "https://www.szyongnuo.com/upload/image/202402/YONGNUO-Lens-202203.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "同一官方页面的介绍与表格对光圈叶片数分别写为 7 和 9，存在冲突，暂不采用。"
+      "旧商品页面的介绍与表格分别写 7 和 9 片；2026/04 中文官方画册明确为 9 片，2022 官方镜头画册检索索引亦明确 YN50mm F1.8S DF DSM 为 9 片，本次据此采用 9。滤镜为 58mm。2022 PDF 直接打开超时，未声称成功下载。",
+      "2026 画册将 E/Z 重量合列为 395—417g；保留原 E 卡口产品页的 395g，不将区间另一端移用于 E。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "yongnuo-85f1-8s-df-dsm",
@@ -98,30 +109,46 @@
     "focus": "AF",
     "stabilization": null,
     "weight": 385,
-    "diameter": null,
-    "length": null,
+    "diameter": 67,
+    "length": 88,
     "filterSize": 58,
-    "minFocus": null,
-    "maxMagnification": null,
+    "minFocus": 0.8,
+    "maxMagnification": 0.13,
     "elements": 9,
     "groups": 8,
-    "blades": null,
+    "blades": 7,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1999,
+      "currency": "CNY",
+      "type": "official",
+      "source": {
+        "title": "永诺官方 2026/04 产品画册，第 05—06 印刷页（PDF 第 5 页）",
+        "url": "https://www.szyongnuo.com/upload/file/202403/2026-03.pdf",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "YONGNUO 官方产品规格",
         "url": "https://th.hkyongnuo.com/products/85f18s-df-dsm",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "永诺官方 2026/04 产品画册，第 05—06 印刷页（PDF 第 5 页）",
+        "url": "https://www.szyongnuo.com/upload/file/202403/2026-03.pdf",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "本型号为金属镜身升级版 85F1.8S DF DSM；不与早期 YN85mm F1.8S DF DSM 混用。"
+      "本型号为金属镜身升级版 85F1.8S DF DSM；不与早期 YN85mm F1.8S DF DSM 混用。",
+      "补充参数及人民币价格来自封面标注 2026/04 的官方画册；85F1.8S 为独立 E 卡口列，重量 385g。价格为该期画册公开标价，不代表当前成交价。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "yongnuo-50f1-8s-df",
@@ -163,6 +190,98 @@
     "notes": [
       "厂家目录使用 II / Lite 名称，产品型号为 50F1.8S DF；不按颜色重复收录。",
       "人工核对官方 Lite II 产品页 Product Specification 图：长度自安装面至前端，重量为镜头本体约值。"
+    ],
+    "verification": "verified"
+  },
+  {
+    "id": "yongnuo-yn85mm-f1-8s-df-dsm",
+    "brand": "yongnuo",
+    "name": "FE 85mm F1.8 S DF DSM（原版）",
+    "model": "YN85mm F1.8S DF DSM",
+    "aliases": [
+      "原版塑料镜身85mm"
+    ],
+    "series": null,
+    "generation": "原版",
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.8,
+    "apertureTele": 1.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 346,
+    "diameter": 67,
+    "length": 88,
+    "filterSize": 58,
+    "minFocus": 0.8,
+    "maxMagnification": 0.13,
+    "elements": 9,
+    "groups": 8,
+    "blades": 7,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "discontinued",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "永诺中文官网原版 YN85mm F1.8S DF DSM 规格",
+        "url": "https://www.hkyongnuo.com/productinfo/519024.html",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "永诺官方原版产品页（明确停产）",
+        "url": "https://th.hkyongnuo.com/products/yn85mm-f18s-df-dsm",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "原版 YN85mm 与金属升级版 85F1.8S 分开收录；尺寸及重量采用中文原版规格页 67×88mm、346g。国际旧商品页明确标记停产，但描述夹杂升级版文字，原版参数以中文规格为准。"
+    ],
+    "verification": "verified"
+  },
+  {
+    "id": "yongnuo-yn18mm-f2-8s-df-vcm",
+    "brand": "yongnuo",
+    "name": "FE 18mm F2.8 S DF VCM",
+    "model": "YN18mm F2.8S DF VCM",
+    "aliases": [],
+    "series": "指挥官",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 18,
+    "focalMax": 18,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 375,
+    "diameter": 66,
+    "length": 85,
+    "filterSize": 58,
+    "minFocus": 0.2,
+    "maxMagnification": 0.15,
+    "elements": 10,
+    "groups": 8,
+    "blades": 9,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "永诺官方 2026/04 产品画册，第 05—06 印刷页（PDF 第 5 页）",
+        "url": "https://www.szyongnuo.com/upload/file/202403/2026-03.pdf",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "官网 2026/04 画册 PDF 第 4、5 页明确 Sony E、全画幅及 VCM 音圈马达。未把同页 M4/3 或 APS-C 镜头规格混入。",
+      "画册未明确上市日期及销售状态，亦未列本型号价格；未由目录出现推断已现售。"
     ],
     "verification": "verified"
   }

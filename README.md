@@ -227,3 +227,5 @@ MIT does not relicense third-party trademarks, documents, assets or other protec
 Bug reports, source-backed corrections and pull requests are welcome. Run validation, tests and a production build before submitting changes. References: [MIT license overview](https://choosealicense.com/licenses/mit/) and [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
 
 2026-09-22 新品补充 / New additions: 新增适马 85mm F1.2 DG Art 与 20–60mm F2.8–4 DG Contemporary，按 Sony E 独立参数收录，注明计划上市日期及待核实字段。Added two announced Sigma lenses with Sony E specifications and explicit pre-launch notes. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_NEW.md)。
+
+2026-09-22 永诺补充 / Yongnuo update: 补齐 7 项规格，新增 18mm 与原版 85mm，保留版本区别和官方来源。Resolved seven specifications and added two distinct models. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_YONGNUO.md)。

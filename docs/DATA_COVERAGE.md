@@ -2,7 +2,7 @@
 
 核验日期：2026-09-22。本清单由 `npm run data:report` 从正式记录生成。
 
-共 **293 款、14 个品牌**，其中 228 款主要规格完整，65 款信息不全，6 条可追溯人民币价格，24 款有明确停产依据。
+共 **295 款、14 个品牌**，其中 232 款主要规格完整，63 款信息不全，7 条可追溯人民币价格，25 款有明确停产依据。
 
 **此清单记录已核验范围，不代表市场全量。** 正式条目已确认原生 Sony E 卡口及全画幅身份；缺失字段仍显示暂无数据。
 
@@ -18,7 +18,7 @@
 | 福伦达 Voigtländer | 16 | 16 | 0 | 0 | 0 |
 | 铭匠 TTArtisan | 14 | 0 | 14 | 8 | 12 |
 | 七工匠 7Artisans | 16 | 2 | 14 | 1 | 31 |
-| 永诺 Yongnuo | 4 | 2 | 2 | 1 | 0 |
+| 永诺 Yongnuo | 6 | 6 | 0 | 0 | 0 |
 | 思锐 Sirui | 2 | 2 | 0 | 0 | 22 |
 | 美科 Meike | 11 | 0 | 11 | 0 | 0 |
 | Thypoch Thypoch | 1 | 1 | 0 | 0 | 0 |
@@ -29,15 +29,15 @@
 
 | 字段 | 已有值 | 空值 |
 |---|---:|---:|
-| 重量（g） | 280 | 13 |
-| 直径（mm） | 279 | 14 |
-| 长度（mm） | 270 | 23 |
-| 滤镜口径（mm） | 260 | 33 |
-| 最近对焦距离（m） | 290 | 3 |
-| 最大放大倍率（×） | 247 | 46 |
-| 镜片数 | 293 | 0 |
-| 镜组数 | 293 | 0 |
-| 光圈叶片数 | 285 | 8 |
+| 重量（g） | 282 | 13 |
+| 直径（mm） | 282 | 13 |
+| 长度（mm） | 273 | 22 |
+| 滤镜口径（mm） | 263 | 32 |
+| 最近对焦距离（m） | 293 | 2 |
+| 最大放大倍率（×） | 250 | 45 |
+| 镜片数 | 295 | 0 |
+| 镜组数 | 295 | 0 |
+| 光圈叶片数 | 289 | 6 |
 
 ### 其他查询字段覆盖
 
@@ -45,13 +45,13 @@
 
 | 字段 | 已有明确值 | 未知或未填写 |
 |---|---:|---:|
-| 镜头防抖 | 163 | 130 |
-| 发布日期 | 85 | 208 |
-| 销售状态 | 74 | 219 |
-| 对焦方式 | 293 | 0 |
-| 人民币参考价格 | 6 | 287 |
-| 系列（可能不适用） | 184 | 109 |
-| 代际（可能不适用） | 23 | 270 |
+| 镜头防抖 | 163 | 132 |
+| 发布日期 | 85 | 210 |
+| 销售状态 | 75 | 220 |
+| 对焦方式 | 295 | 0 |
+| 人民币参考价格 | 7 | 288 |
+| 系列（可能不适用） | 185 | 110 |
+| 代际（可能不适用） | 24 | 271 |
 
 | 型号 | 尚为空的主要规格 |
 |---|---|
@@ -107,8 +107,6 @@
 | 9mm F5.6 FF RL Lens（laowa） | 长度（mm）、滤镜口径（mm） |
 | Aksen 45mm F2.8 1-5X Ultra Macro APO（laowa） | 滤镜口径（mm）、最近对焦距离（m） |
 | Aksen 17.5mm F1.7 5-10X Ultra Macro APO（laowa） | 滤镜口径（mm）、最近对焦距离（m） |
-| FE 50mm F1.8 S DF DSM（yongnuo） | 滤镜口径（mm）、光圈叶片数 |
-| FE 85mm F1.8 S DF DSM（yongnuo） | 直径（mm）、长度（mm）、最近对焦距离（m）、最大放大倍率（×）、光圈叶片数 |
 | AF 85mm F1.4 II（meike） | 最大放大倍率（×） |
 | AF 85mm F1.8 II SE（meike） | 最大放大倍率（×） |
 | AF 24mm F1.4 MIX（meike） | 最大放大倍率（×） |
@@ -492,14 +490,16 @@ Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格�
 
 官方 Sony FE 产品页及全画幅目录，区分早期 YN 与升级版、Lite 版本。
 
-覆盖边界：已补充 Lite II 官方规格图片中的完整主要参数；50mm DSM 的叶片数冲突仍留空，85mm 仍缺部分官方佐证，早期塑料镜身版本单列待核验。
+覆盖边界：结合中文官方画册补齐 50mm DSM 及 85mm 金属升级版主要规格；原版 85mm 已独立收录并有明确停产依据，新增 18mm F2.8 全画幅型号。部分发布日期、防抖及价格仍未知；合列多卡口尺寸重量不替换 E 专属值。
 
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
 | FE 35mm F2 S DF DSM（`yongnuo-yn35mm-f2s-df-dsm`） | 已核验 | [厂家资料](https://th.hkyongnuo.com/products/yn35mm-f2s-df-dsm) |
-| FE 50mm F1.8 S DF DSM（`yongnuo-yn50mm-f1-8s-df-dsm`） | 信息不全 | [厂家资料](https://th.hkyongnuo.com/products/yn50mm-f18s-df-dsm) |
-| FE 85mm F1.8 S DF DSM（`yongnuo-85f1-8s-df-dsm`） | 信息不全 | [厂家资料](https://th.hkyongnuo.com/products/85f18s-df-dsm) |
+| FE 50mm F1.8 S DF DSM（`yongnuo-yn50mm-f1-8s-df-dsm`） | 已核验 | [厂家资料](https://th.hkyongnuo.com/products/yn50mm-f18s-df-dsm) |
+| FE 85mm F1.8 S DF DSM（`yongnuo-85f1-8s-df-dsm`） | 已核验 | [厂家资料](https://th.hkyongnuo.com/products/85f18s-df-dsm) |
 | FE 50mm F1.8 II Lite（`yongnuo-50f1-8s-df`） | 已核验 | [厂家资料](https://th.hkyongnuo.com/products/50f18s-df) |
+| FE 85mm F1.8 S DF DSM（原版）（`yongnuo-yn85mm-f1-8s-df-dsm`） | 已核验 | [厂家资料](https://www.hkyongnuo.com/productinfo/519024.html) |
+| FE 18mm F2.8 S DF VCM（`yongnuo-yn18mm-f2-8s-df-vcm`） | 已核验 | [厂家资料](https://www.szyongnuo.com/upload/file/202403/2026-03.pdf) |
 
 ### 思锐 Sirui
 
@@ -764,6 +764,5 @@ Cosina 当前全画幅 E 卡口英文目录，NOKTON 28 F1.5 补用日文规格�
 | 老蛙 | [Sword 35mm T2.9 Interchangeable bayonet – Sony FE](https://www.laowa.nl/sword-35mm-t2-9-interchangeable-bayonet-sony-fe/) | 排除 | 专用电影镜头或配件 |
 | 老蛙 | [Verwisselbare bajonet met Sony E-mount voor Laowa Ranger lenzen](https://www.laowa.nl/verwisselbare-bajonet-met-sony-e-mount-voor-laowa-ranger-lenzen/) | 排除 | 专用电影镜头或配件 |
 | 老蛙 | [Verwisselbare bajonet voor Probe Zoom, Ultima 12-120mm – Sony FE](https://www.laowa.nl/verwisselbare-bajonet-voor-probe-zoom-ultima-12-120mm-sony-fe/) | 待核验 | 名称无法识别：Verwisselbare bajonet voor Probe Zoom, Ultima 12-120mm |
-| 永诺 | [YN85mm F1.8S DF DSM（早期塑料镜身）](https://th.hkyongnuo.com/products/85f18s-df-dsm) | 待核验 | 厂家确认存在早期型号，需另行核对原版完整规格，不能沿用金属升级版。 |
 | 老蛙 | [AF FF 35mm F2.8 CA-Dreamer Macro 1X](https://www.laowalens.com/camera-lens-100) | 待核验 | 官方产品表已发布，但 2026-09 官方仍招募未上市新品体验官；E 长度未列出，AF 最近距离 0.5m 与 MF 微距 0.18m 需在后续记录中区分。 |
 | 老蛙 | [AF FF 100mm F2.8 CA-Dreamer Macro 2X（下载中心标题）](https://www.laowalens.com/instructions) | 待核验 | 下载中心标题含 AF，但所链 PDF 正文、规格表均为旧款手动 MF 100mm；未将标题当作新 AF 型号的确认依据。 |
