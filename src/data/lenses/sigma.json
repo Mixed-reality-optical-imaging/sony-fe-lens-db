@@ -2728,5 +2728,103 @@
       "日期为明确包含 Sony E 卡口版本的官方公告日期，不是同名其他卡口最早发布年份，也不代表实际开售日或中国大陆到货日期。"
     ],
     "verification": "verified"
+  },
+  {
+    "id": "sigma-a026-85-12",
+    "brand": "sigma",
+    "name": "85mm F1.2 DG",
+    "series": "ART",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.2,
+    "apertureTele": 1.2,
+    "weight": 905,
+    "diameter": 87.2,
+    "length": 121.7,
+    "filterSize": 82,
+    "minFocus": 0.84,
+    "maxMagnification": 0.11236,
+    "elements": 17,
+    "groups": 12,
+    "blades": 13,
+    "model": "85mm F1.2 DG",
+    "aliases": [],
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focus": "AF",
+    "stabilization": null,
+    "releaseDate": "2026-09-08",
+    "releasePrecision": "day",
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SIGMA 全球官方产品规格（含 Sony E 独立规格）",
+        "url": "https://www.sigma-global.com/en/lenses/a026_85_12/",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方发布与上市计划",
+        "url": "https://www.sigma-global.com/en/news/2026/09/08/012286/",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "发布日期采用完整产品公告日 2026-09-08；官方计划 2026-09-30 上市，截至核验日尚未到上市日，因此未标为现售。",
+      "最大放大倍率由官方 1:8.9 换算，约 0.11236×。Sony E 长度为 121.7mm，未采用 L 卡口的 119.7mm。",
+      "尚无已核实的中国大陆人民币公开价格；未将海外报价换算。官方规格未明确给出镜头防抖有无，暂保留未知。"
+    ],
+    "verification": "verified"
+  },
+  {
+    "id": "sigma-c026-20-60-28-4",
+    "brand": "sigma",
+    "name": "20-60mm F2.8-4 DG",
+    "series": "CONTEMPORARY",
+    "focalMin": 20,
+    "focalMax": 60,
+    "apertureWide": 2.8,
+    "apertureTele": 4,
+    "weight": 375,
+    "diameter": 72.2,
+    "length": 88,
+    "filterSize": 67,
+    "minFocus": 0.158,
+    "maxMagnification": 0.43478,
+    "elements": 15,
+    "groups": 13,
+    "blades": 9,
+    "model": "20-60mm F2.8-4 DG",
+    "aliases": [],
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focus": "AF",
+    "stabilization": null,
+    "releaseDate": "2026-09-08",
+    "releasePrecision": "day",
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "SIGMA 全球官方产品规格（含 Sony E 独立规格）",
+        "url": "https://www.sigma-global.com/en/lenses/c026_20_60_28_4/",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "SIGMA 官方发布与上市计划",
+        "url": "https://www.sigma-global.com/en/news/2026/09/08/012102/",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "发布日期采用完整产品公告日 2026-09-08；官方计划 2026-09-30 上市，截至核验日尚未到上市日，因此未标为现售。",
+      "最近对焦距离 0.158m 在 28mm 处取得；广角端 0.20m、长焦端 0.25m。最大倍率 1:2.3 在 35mm 处取得，约 0.43478×；60mm 端为 1:2.9。Sony E 为 375g、长 88mm，不能使用 L 卡口的 385g、86mm。",
+      "尚无已核实的中国大陆人民币公开价格；未将海外报价换算。官方规格未明确给出镜头防抖有无，暂保留未知。"
+    ],
+    "verification": "verified"
   }
 ]
