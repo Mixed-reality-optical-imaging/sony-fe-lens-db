@@ -12,6 +12,46 @@
 
 参考价格可能为历史上市指导价，不是实时成交价或报价承诺。收录数量不代表市场全量；缺失参数不会被推测补齐。发现问题可通过 [Issue](https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/issues) 提交型号、字段及可靠来源。
 
+<a id='screenshots'></a>
+
+### 界面与功能展示 / Screenshots
+
+以下图片截自本项目实际运行页面（2026-09-22），界面为简体中文。截图中的规格、价格及销售状态仅用于展示功能，可能不准确或过时，请以厂商最新资料为准。点击图片可查看原图。
+
+These screenshots show the actual running application (2026-09-22), with its Simplified Chinese interface. Specifications, prices and availability are illustrative, may be inaccurate or outdated, and should be checked against current manufacturer information. Click an image to view it at full size.
+
+**1. 镜头库与快捷探索 / Lens library and presets**
+
+通过紧凑卡片浏览焦距、光圈、重量及近摄参数；顶部提供用途快捷筛选，左侧提供品牌与参数筛选。
+
+Browse focal length, aperture, weight and close-focus specifications in compact cards, with presets above and brand/specification filters alongside.
+
+[![镜头库首页：快捷探索、品牌筛选及镜头卡片 / Lens library with presets, filters and cards](docs/screenshots/lens-library.jpg)](docs/screenshots/lens-library.jpg)
+
+**2. 组合搜索与表格视图 / Combined search and table view**
+
+示例同时使用“85mm”搜索、人像定焦规则、索尼与适马品牌多选。表格按统一字段展示结果，便于快速查看差别。
+
+This example combines an “85mm” search, the portrait-prime preset and Sony/Sigma brand selection. The table presents matching lenses in consistent columns.
+
+[![85mm 人像镜头组合筛选与表格结果 / Filtered 85mm portrait lenses in table view](docs/screenshots/search-filters-table.jpg)](docs/screenshots/search-filters-table.jpg)
+
+**3. 参数详情与来源 / Specifications and sources**
+
+详情页展示完整规格、型号与代际、参考价格类型、来源链接及核验日期，并保留参数差异和缺失项说明。
+
+Each detail page includes specifications, model/generation, price reference type, source links, review dates and notes about limitations or missing values.
+
+[![镜头详情页：完整规格、资料来源与参数说明 / Lens detail with specifications, sources and notes](docs/screenshots/lens-detail.jpg)](docs/screenshots/lens-detail.jpg)
+
+**4. 镜头对比与只看差异 / Side-by-side comparison and differences**
+
+示例比较三款 85mm 镜头，并启用“只看差异”。最多支持四款；橙色表示参数不同，不代表性能优劣。
+
+Three 85mm lenses are compared here with “Differences only” enabled. Up to four lenses are supported; orange marks indicate differences, not a performance ranking.
+
+[![三款镜头并排对比，启用只看差异 / Three-lens comparison with differences only enabled](docs/screenshots/lens-comparison.jpg)](docs/screenshots/lens-comparison.jpg)
+
 ## 启动（Windows）
 
 下载并解压项目后，可双击 `启动镜头库.cmd`，脚本会在首次启动时安装依赖。保持启动窗口开启，然后访问 **http://127.0.0.1:5173/**。停止时在启动窗口按 `Ctrl+C`。
@@ -109,6 +149,8 @@ MIT 不重新许可第三方商标、文档、素材或其他受保护内容，�
 ## English
 
 An independent, locally hosted database for Sony E-mount full-frame photography lenses, built with React, TypeScript and Vite. The interface is in Simplified Chinese; this README provides documentation in both Chinese and English. The initial dataset contains **286 lenses across 13 brands**, with source links and review dates for every included record. It is not a complete market inventory.
+
+See the [bilingual screenshot gallery](#screenshots) for the lens library, combined search/table view, specifications with sources, and side-by-side comparison.
 
 ### Reference only — accuracy is not guaranteed
 
