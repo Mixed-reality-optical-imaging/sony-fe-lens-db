@@ -38,8 +38,8 @@
   {
     "brand": "laowa",
     "url": "https://www.laowa.nl/laowa/producten-per-merk-mount/sony/sony-e/",
-    "scope": "LAOWA 荷兰地区品牌站 Sony E 目录逐页清点，确认 Sony FE / FF 商品型号。",
-    "limits": "已逐份核对地区品牌站链接的原厂说明书，补充尺寸和距离单位。部分手册只列 M/F/EF/RF 等卡口尺寸，或与 E 页冲突，相关值继续留空；共用标称尺寸在型号备注说明。"
+    "scope": "核对荷兰 Sony FE 目录、中文官网全部 7 页摄影镜头目录与说明书中心；按 Sony E 独立规格补充新款微距及移轴系列。",
+    "limits": "原厂混列 EF、RF、M 等卡口长度时继续留空；新增 17mm TS 与 17.5mm Aksen。AF 35mm 试用阶段及 AF 100mm 说明书标题/正文冲突进入待核验。"
   },
   {
     "brand": "voigtlander",
@@ -50,13 +50,13 @@
   {
     "brand": "ttartisan",
     "url": "https://ttartisan.store/",
-    "scope": "厂商商品目录确认全画幅与 Sony E 选项，包含倾角、移轴、微距镜头。",
-    "limits": "已核对官网文字表格、E 卡口尺寸图和 90mm F1.25 官方说明书。跨卡口重量区间不当作 E 卡口定值，未公布倍率继续留空。"
+    "scope": "厂商商品目录确认全画幅与 Sony E 选项，包含倾角、移轴、微距镜头。 本轮增加品牌主站、Sony E 兼容名单及日本代理焦点工房规格核验。",
+    "limits": "14mm F2.8 与 17mm F4 移轴已从待核验转入正式查询；Neo 两款重量采用代理 E 版本独立值。多卡口重量区间不直接取端点。"
   },
   {
     "brand": "7artisans",
     "url": "https://7artisans.store/",
-    "scope": "厂商商品目录确认 Full-frame 标识及 E 卡口选项，区分 AF / MF 和已识别代际。",
+    "scope": "厂商商品目录确认 Full-frame 标识及 E 卡口选项，区分 AF / MF 和已识别代际。 补查 Sony E 专属 AF 85mm 页面和 Z/E AF 50mm 参数图，保留旧记录 ID 以兼容链接。",
     "limits": "已核对官网文字规格及参数图片。10mm F2.8 II 的 8/10 叶片说明冲突，留空；共用 L 页重量尺寸不移用于 E。部分型号尚缺倍率与专属重量。"
   },
   {
@@ -76,5 +76,11 @@
     "url": "https://meikeglobal.com/collections/sony",
     "scope": "额外清点美科官方 Sony E 全画幅摄影镜头，分开 Pro / MIX / SE 和第二代。",
     "limits": "11 款已确认身份，已读取新款规格图片补齐多数字段；许多型号官网未列最大放大倍率，部分早期镜头仍缺逐卡口重量和尺寸。其他长尾品牌尚未完成清点。"
+  },
+  {
+    "brand": "thypoch",
+    "url": "https://store.thypoch.com/products/voyager-24-50mm",
+    "scope": "首轮核验 Voyager 24–50mm F2.8 原生 Sony E 全画幅变焦；主规格来自品牌官网，镜身直径由日本代理规格补充。",
+    "limits": "仅核验此型号；Simera、Ksana、Eureka 的 E 版本尚未逐型号清点，不宣称覆盖该品牌全部镜头；Simera-C 专用电影系列不在收录范围。"
   }
 ]

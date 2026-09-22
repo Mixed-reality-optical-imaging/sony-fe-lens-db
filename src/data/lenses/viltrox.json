@@ -634,9 +634,9 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 550,
+    "diameter": 85.2,
+    "length": 103,
     "filterSize": 77,
     "minFocus": 0.27,
     "maxMagnification": 0.1,
@@ -656,9 +656,9 @@
       }
     ],
     "notes": [
-      "官网 Product Information 补充共用光学规格；E/Z 共用重量尺寸栏未逐卡口区分，重量尺寸继续待核验。"
+      "Sony E 产品页列出 E/Z 共用标称尺寸 85.2×103mm、约 550g；不采用 L 卡口页面作为依据。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "viltrox-viltrox-85mm-f18-e-mount-sony-markii",
@@ -682,8 +682,8 @@
     "diameter": null,
     "length": null,
     "filterSize": null,
-    "minFocus": null,
-    "maxMagnification": null,
+    "minFocus": 0.8,
+    "maxMagnification": 0.125,
     "elements": 10,
     "groups": 7,
     "blades": null,
@@ -697,10 +697,16 @@
         "title": "VILTROX 官方产品规格",
         "url": "https://viltrox.com/products/viltrox-85mm-f18-e-mount-sony-markii",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "唯卓仕 85mm II 官方近摄规格图",
+        "url": "https://cdn.shopify.com/s/files/1/0104/0380/7298/files/10_8b5506dd-b183-4d78-b9a9-3853e67811f7.jpg",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "Sony E 产品页明确光学结构为 7 组 10 片；其余缺失规格待说明书核验。"
+      "Sony E 产品页明确光学结构为 7 组 10 片；其余缺失规格待说明书核验。",
+      "官方 Sony E 产品页近摄图标注最近对焦 0.8m、倍率 1:8，换算为 0.125 倍。"
     ],
     "verification": "partial"
   },

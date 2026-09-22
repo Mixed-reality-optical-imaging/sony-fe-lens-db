@@ -4,11 +4,11 @@
 
 ## 简体中文
 
-本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。收录 13 个品牌的 286 款镜头，所有正式记录附资料来源与核验日期。
+本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。收录 14 个品牌的 291 款镜头，所有正式记录附资料来源与核验日期。
 
-最新数据整理：2026-09-22 补充 103 款镜头的 476 个缺失参数，修正 5 个已有数值。详见 [官网补充记录 / Enrichment log](docs/DATA_ENRICHMENT_2026-09-22.md) 与 [覆盖及缺项清单](docs/DATA_COVERAGE.md)。
+最新数据整理：2026-09-22 第二轮扩大检索，补充 30 款已有镜头的 56 个缺失参数、修正 4 个数值，新增 5 款镜头。主要规格完整 215/291 款。详见 [本轮补充记录 / Expanded review](docs/DATA_ENRICHMENT_2026-09-22_EXPANDED.md)、[上一轮记录](docs/DATA_ENRICHMENT_2026-09-22.md) 与 [覆盖及缺项清单](docs/DATA_COVERAGE.md)。
 
-Latest data update: 476 missing values added across 103 lenses, with 5 corrections. Primary specifications are complete for 199 of 286 records; remaining gaps are documented in the linked reports.
+Latest data update: the expanded review adds 56 missing values across 30 existing lenses, corrects 4 values, and adds 5 lenses. Primary specifications are complete for 215 of 291 records; remaining gaps and source limitations are documented in the linked reports.
 
 ### 仅供参考 / 数据准确性
 
@@ -152,7 +152,7 @@ MIT 不重新许可第三方商标、文档、素材或其他受保护内容，�
 
 ## English
 
-An independent, locally hosted database for Sony E-mount full-frame photography lenses, built with React, TypeScript and Vite. The interface is in Simplified Chinese; this README provides documentation in both Chinese and English. The initial dataset contains **286 lenses across 13 brands**, with source links and review dates for every included record. It is not a complete market inventory.
+An independent, locally hosted database for Sony E-mount full-frame photography lenses, built with React, TypeScript and Vite. The interface is in Simplified Chinese; this README provides documentation in both Chinese and English. The dataset currently contains **291 lenses across 14 brands**, with source links and review dates for every included record. It is not a complete market inventory.
 
 See the [bilingual screenshot gallery](#screenshots) for the lens library, combined search/table view, specifications with sources, and side-by-side comparison.
 

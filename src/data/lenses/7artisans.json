@@ -332,15 +332,15 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
-    "filterSize": null,
-    "minFocus": null,
+    "weight": 437.5,
+    "diameter": 72,
+    "length": 96,
+    "filterSize": 62,
+    "minFocus": 0.8,
     "maxMagnification": null,
-    "elements": null,
-    "groups": null,
-    "blades": null,
+    "elements": 10,
+    "groups": 7,
+    "blades": 11,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -351,10 +351,15 @@
         "title": "7ARTISANS 官方产品规格",
         "url": "https://7artisans.store/products/af-85mm-f1-8-full-frame-lens-for-l",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "七工匠官方 Sony E 产品页",
+        "url": "https://7artisans.store/products/af-85mm",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。"
+      "人工核对 Sony E 专属商品页参数长图：FE 卡口、72×96mm、不含前后盖 437.5g、7 组 10 片、11 叶片；历史 ID 保留以兼容旧链接。"
     ],
     "verification": "partial"
   },
@@ -376,9 +381,9 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 421,
+    "diameter": 72,
+    "length": 104,
     "filterSize": 62,
     "minFocus": 0.5,
     "maxMagnification": null,
@@ -395,11 +400,15 @@
         "title": "7ARTISANS 官方产品规格",
         "url": "https://7artisans.store/products/af-50mm-f1-8-full-frame-lens-for-l",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "七工匠官方 Z/E 产品页与参数图",
+        "url": "https://7artisans.store/products/50mm-f1-8-af-lens",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "官方 L/E 共用型号页补充光学规格；页面的 421g、72×104mm 为 L 卡口，不填入 E 版本。"
+      "重新找到官方 Z/E 产品页，参数图明确标称 72×104mm、不含前后盖 421g；与原先仅有 L 版页面的证据区分。历史 ID 保留以兼容旧链接。"
     ],
     "verification": "partial"
   },

@@ -17,7 +17,7 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
+    "weight": 332,
     "diameter": 70,
     "length": 90.5,
     "filterSize": 62,
@@ -36,12 +36,18 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/ttartisan-af-85mm-f1-8-neo",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "日本代理焦点工房：Sony E 型号独立规格",
+        "url": "https://www.stkb.jp/shopdetail/000000003688",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
-      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。",
+      "重量采用日本代理 Sony E 独立型号栏；尺寸继续采用厂家图纸的标称值。地区代理近似尺寸与厂家图纸有约 0.5–1mm 舍入差异。"
     ],
     "verification": "partial"
   },
@@ -63,7 +69,7 @@
     "apertureTele": 1.8,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
+    "weight": 156,
     "diameter": 61,
     "length": 51.5,
     "filterSize": 52,
@@ -82,12 +88,18 @@
         "title": "TTARTISAN 官方产品规格",
         "url": "https://ttartisan.store/products/ttartisan-af-50mm-f1-8-neo",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "日本代理焦点工房：Sony E 型号独立规格",
+        "url": "https://www.stkb.jp/shopdetail/000000003650",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。",
-      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。"
+      "人工核对官网尺寸图，仅取标注 E-mount 的栏位；重量仍需逐卡口确认。",
+      "重量采用日本代理 Sony E 独立型号栏；尺寸继续采用厂家图纸的标称值。地区代理近似尺寸与厂家图纸有约 0.5–1mm 舍入差异。"
     ],
     "verification": "partial"
   },
@@ -547,6 +559,90 @@
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核官网参数表的左右两组键值；跨卡口重量区间不当作 E 卡口定值，尺寸以已核对的 E 卡口图示为准，未公布倍率继续待核验。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-14mm-f2-8-asph",
+    "brand": "ttartisan",
+    "name": "14mm F2.8 ASPH.",
+    "model": "14mm F2.8 ASPH.",
+    "aliases": [],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 14,
+    "focalMax": 14,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 77,
+    "minFocus": 0.2,
+    "maxMagnification": null,
+    "elements": 13,
+    "groups": 10,
+    "blades": 8,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "铭匠官方产品规格",
+        "url": "https://www.ttartisan.com/?full-frame-lenses/347.html",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "已确认全画幅及原生 E 卡口，从待核验清单转入。77mm 滤镜须通过滤镜支架安装。官网重量 437–445g 为多卡口范围，E 卡口独立值未确认。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "ttartisan-tilt-shift-17mm-f4-asph",
+    "brand": "ttartisan",
+    "name": "Tilt-Shift 17mm F4 ASPH.",
+    "model": "Tilt-Shift 17mm F4 ASPH.",
+    "aliases": [],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 17,
+    "focalMax": 17,
+    "apertureWide": 4,
+    "apertureTele": 4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": null,
+    "minFocus": 0.3,
+    "maxMagnification": null,
+    "elements": 17,
+    "groups": 11,
+    "blades": 10,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "铭匠官方产品规格",
+        "url": "https://www.ttartisan.com/?full-frame-lenses/345.html",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "已确认全画幅及原生 E 卡口，从待核验清单转入。官网重量 1051–1056g 未区分卡口，不取范围端点当作 E 版本重量。"
     ],
     "verification": "partial"
   }

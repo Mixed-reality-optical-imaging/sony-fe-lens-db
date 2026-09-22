@@ -498,20 +498,6 @@
   },
   {
     "brand": "ttartisan",
-    "model": "Tilt-Shift 17mm F4 ASPH.",
-    "url": "https://ttartisan.store/products/tilt-shift-17mm-f4-asph",
-    "status": "pending",
-    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
-  },
-  {
-    "brand": "ttartisan",
-    "model": "14mm F2.8 ASPH.",
-    "url": "https://ttartisan.store/products/14mm-f2-8",
-    "status": "pending",
-    "reason": "商品标题未确认全画幅规格，需核验说明书或规格图片"
-  },
-  {
-    "brand": "ttartisan",
     "model": "Tilt APS-C 35mm F1.4",
     "url": "https://ttartisan.store/products/tilt-35mm-f1-4",
     "status": "excluded",
@@ -1242,8 +1228,8 @@
     "brand": "laowa",
     "model": "Bajonet voor Aksen 17.5mm, 45mm – Sony FE",
     "url": "https://www.laowa.nl/bajonet-voor-aksen-17-5mm-45mm-sony-fe/",
-    "status": "pending",
-    "reason": "名称无法识别：Bajonet voor Aksen 17.5mm, 45mm"
+    "status": "excluded",
+    "reason": "卡口替换配件，不是独立镜头；完整 17.5mm 与 45mm E 版本另行正式收录。"
   },
   {
     "brand": "laowa",
@@ -1531,5 +1517,19 @@
     "status": "pending",
     "reason": "厂家确认存在早期型号，需另行核对原版完整规格，不能沿用金属升级版。",
     "url": "https://th.hkyongnuo.com/products/85f18s-df-dsm"
+  },
+  {
+    "brand": "laowa",
+    "model": "AF FF 35mm F2.8 CA-Dreamer Macro 1X",
+    "url": "https://www.laowalens.com/camera-lens-100",
+    "status": "pending",
+    "reason": "官方产品表已发布，但 2026-09 官方仍招募未上市新品体验官；E 长度未列出，AF 最近距离 0.5m 与 MF 微距 0.18m 需在后续记录中区分。"
+  },
+  {
+    "brand": "laowa",
+    "model": "AF FF 100mm F2.8 CA-Dreamer Macro 2X（下载中心标题）",
+    "url": "https://www.laowalens.com/instructions",
+    "status": "pending",
+    "reason": "下载中心标题含 AF，但所链 PDF 正文、规格表均为旧款手动 MF 100mm；未将标题当作新 AF 型号的确认依据。"
   }
 ]

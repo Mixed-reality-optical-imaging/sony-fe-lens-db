@@ -1,0 +1,49 @@
+[
+  {
+    "id": "thypoch-voyager-24-50mm-f2-8-sony-e",
+    "brand": "thypoch",
+    "name": "Voyager 24-50mm F2.8",
+    "model": "Voyager 24-50mm F2.8",
+    "aliases": [],
+    "series": "Voyager",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 24,
+    "focalMax": 50,
+    "apertureWide": 2.8,
+    "apertureTele": 2.8,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": 432,
+    "diameter": 73,
+    "length": 92.8,
+    "filterSize": 67,
+    "minFocus": 0.3,
+    "maxMagnification": 0.216,
+    "elements": 16,
+    "groups": 13,
+    "blades": 10,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "Thypoch 官方 Sony E 产品规格",
+        "url": "https://store.thypoch.com/products/voyager-24-50mm",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "日本代理焦点工房：Sony E 尺寸规格",
+        "url": "https://www.stkb.jp/shopdetail/000000002584",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "官方标明 Sony E、43.2mm 全画幅成像圈。直径 73mm 来自代理镜身尺寸；厂家 Front Dia. 70mm 为前端直径，不混作最大镜身直径。长度采用厂家前端至法兰面 92.8mm。"
+    ],
+    "verification": "verified"
+  }
+]

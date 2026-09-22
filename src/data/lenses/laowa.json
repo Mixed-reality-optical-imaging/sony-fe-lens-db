@@ -584,7 +584,7 @@
     "length": null,
     "filterSize": null,
     "minFocus": 0.2,
-    "maxMagnification": null,
+    "maxMagnification": 0.2,
     "elements": 17,
     "groups": 11,
     "blades": 5,
@@ -603,11 +603,17 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/15mm%20f4.5%20Zero-D%20Shift.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-26",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。原厂共用 103mm 长度未分单反/无反，Sony E 长度继续待核验。"
+      "人工核对品牌产品页所附官方说明书规格表。原厂共用 103mm 长度未分单反/无反，Sony E 长度继续待核验。",
+      "中文官网明确最大放大倍率为 0.2 倍；混合单反/无反的通用长度仍不作为 E 专属长度。"
     ],
     "verification": "partial"
   },
@@ -632,7 +638,7 @@
     "length": null,
     "filterSize": null,
     "minFocus": 0.2,
-    "maxMagnification": null,
+    "maxMagnification": 0.2,
     "elements": 17,
     "groups": 11,
     "blades": 14,
@@ -651,11 +657,17 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/15mm%20f4.5R%20Zero-D%20Shift.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-26",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。原厂共用 103mm 长度未分单反/无反，Sony E 长度继续待核验。"
+      "人工核对品牌产品页所附官方说明书规格表。原厂共用 103mm 长度未分单反/无反，Sony E 长度继续待核验。",
+      "中文官网明确最大放大倍率为 0.2 倍；混合单反/无反的通用长度仍不作为 E 专属长度。"
     ],
     "verification": "partial"
   },
@@ -677,7 +689,7 @@
     "stabilization": null,
     "weight": 140,
     "diameter": 67.1,
-    "length": null,
+    "length": 35.2,
     "filterSize": 39,
     "minFocus": 0.12,
     "maxMagnification": 0.2,
@@ -699,13 +711,17 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/15mm%20f5%20Cookies%20FF.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-84",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。说明书尺寸 67.1×42mm 与地区页 53×35mm 冲突；不同卡口共用长度未确认，长度保持空值，直径采用原厂规格。"
+      "中文官网单独列出 E 卡口 53×35.2mm，区别于 M 卡口的 25mm 长度。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-17mm-f-4-zero-d-shift-sony-fe",
@@ -724,12 +740,12 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 770,
-    "diameter": null,
-    "length": null,
+    "diameter": 93,
+    "length": 111,
     "filterSize": 86,
-    "minFocus": null,
-    "maxMagnification": null,
-    "elements": 12,
+    "minFocus": 0.25,
+    "maxMagnification": 0.131,
+    "elements": 18,
     "groups": 12,
     "blades": 14,
     "releaseDate": null,
@@ -742,13 +758,17 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/17mm-f-4-zero-d-shift-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-92",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。",
-      "最近对焦距离缺少单位，待说明书核验后补充。"
+      "中文官网明确 S 移轴版 E 卡口净重 770g；TS 倾斜移轴版 810g 单独收录。光学结构修正为 12 组 18 片。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-180mm-f-4-5-1-5x-ultra-macro-apo-auto-focus-lens-sony-fe",
@@ -766,11 +786,11 @@
     "apertureTele": 4.5,
     "focus": "AF",
     "stabilization": null,
-    "weight": 520,
-    "diameter": null,
-    "length": null,
+    "weight": 521.6,
+    "diameter": 67.6,
+    "length": 134.4,
     "filterSize": 62,
-    "minFocus": null,
+    "minFocus": 0.3,
     "maxMagnification": 1.5,
     "elements": 12,
     "groups": 9,
@@ -785,13 +805,17 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/180mm-f-4-5-1-5x-ultra-macro-apo-auto-focus-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-90",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。",
-      "最近对焦距离缺少单位，待说明书核验后补充。"
+      "采用中文官网明确标注的 E 卡口尺寸和不含前后盖重量；300mm 为物像距离，换算为 0.3m。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-200mm-f-2-af-ff-sony-fe",
@@ -860,7 +884,7 @@
     "weight": 750,
     "diameter": 95,
     "length": null,
-    "filterSize": null,
+    "filterSize": 82,
     "minFocus": 0.25,
     "maxMagnification": 0.17,
     "elements": 16,
@@ -881,11 +905,17 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/20mm%20f4%20Zero-D%20Shift.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-50",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。原厂共用 91mm 长度未分单反/无反，Sony E 长度继续待核验。"
+      "人工核对品牌产品页所附官方说明书规格表。原厂共用 91mm 长度未分单反/无反，Sony E 长度继续待核验。",
+      "中文官网与说明书标注前置滤镜直径 82mm。"
     ],
     "verification": "partial"
   },
@@ -996,10 +1026,10 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 1350,
-    "diameter": null,
-    "length": null,
+    "diameter": 105,
+    "length": 149,
     "filterSize": 77,
-    "minFocus": null,
+    "minFocus": 0.228,
     "maxMagnification": 0.5,
     "elements": 14,
     "groups": 12,
@@ -1014,13 +1044,17 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/35mm-f-2-8-zero-d-tilt-shift-0-5x-macro-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-93",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。",
-      "最近对焦距离缺少单位，待说明书核验后补充。"
+      "采用中文官网规格表；22.8cm 为物像距离，不是工作距离。重量不含遮光罩、支架和前后盖。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-55mm-f-2-8-tilt-shift-1x-macro-sony-fe",
@@ -1092,8 +1126,8 @@
     "filterSize": 67,
     "minFocus": 0.183,
     "maxMagnification": 2,
-    "elements": null,
-    "groups": null,
+    "elements": 14,
+    "groups": 11,
     "blades": 13,
     "releaseDate": null,
     "releasePrecision": null,
@@ -1110,13 +1144,19 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/58mm%20f2.8%202X%20Ultra%20MAcro%20APO.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-56",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。共用尺寸为原厂标称值；595g 明确含前后盖，不替代已有净镜重量。"
+      "人工核对品牌产品页所附官方说明书规格表。共用尺寸为原厂标称值；595g 明确含前后盖，不替代已有净镜重量。",
+      "中文官网与原厂说明书一致：11 组 14 片。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-8-15mm-f-2-8-ff-zoom-fisheye-sony-fe",
@@ -1188,8 +1228,8 @@
     "filterSize": 46,
     "minFocus": 0.163,
     "maxMagnification": 2,
-    "elements": null,
-    "groups": null,
+    "elements": 13,
+    "groups": 9,
     "blades": 7,
     "releaseDate": null,
     "releasePrecision": null,
@@ -1206,11 +1246,17 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%2085mm%20f5.6%20Macro.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-47",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。说明书长度与重量明确为 Leica M，不套用到 Sony E。"
+      "人工核对品牌产品页所附官方说明书规格表。说明书长度与重量明确为 Leica M，不套用到 Sony E。",
+      "补充光学结构 9 组 13 片；共用表格长度 78mm 与说明书的 M 卡口对应，仍不填入 E 版本。"
     ],
     "verification": "partial"
   },
@@ -1326,9 +1372,9 @@
     "apertureTele": 2.8,
     "focus": "MF",
     "stabilization": null,
-    "weight": 600,
-    "diameter": null,
-    "length": null,
+    "weight": 646,
+    "diameter": 70.2,
+    "length": 149.5,
     "filterSize": null,
     "minFocus": null,
     "maxMagnification": 5,
@@ -1345,10 +1391,15 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/aksen-45mm-f-2-8-1-5x-ultra-macro-apo-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-98",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "中文官网明确 E 卡口尺寸与重量。40.35mm 为工作距离；最近摄影距离标为 N/A，故 minFocus 保留为空。"
     ],
     "verification": "partial"
   },
@@ -1368,12 +1419,12 @@
     "apertureTele": 1.2,
     "focus": "MF",
     "stabilization": null,
-    "weight": null,
-    "diameter": null,
-    "length": null,
+    "weight": 562,
+    "diameter": 68.5,
+    "length": 106.31,
     "filterSize": 62,
     "minFocus": 0.5,
-    "maxMagnification": 0.1,
+    "maxMagnification": 0.073,
     "elements": 13,
     "groups": 7,
     "blades": 13,
@@ -1387,12 +1438,17 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/argus-28mm-f-1-2-ff-lens-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-62",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "采用中文官网多无反卡口共用标称规格（尺寸、重量为约值）；重量不含前后盖与遮光罩。放大倍率按官方 0.073 倍修正，地区页的 0.1 为粗略值。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-argus-35mm-f-0-95-ff-sony-fe",
@@ -1459,8 +1515,8 @@
     "focus": "MF",
     "stabilization": null,
     "weight": 830,
-    "diameter": null,
-    "length": null,
+    "diameter": 76.8,
+    "length": 110,
     "filterSize": 72,
     "minFocus": 0.5,
     "maxMagnification": 0.12,
@@ -1477,10 +1533,99 @@
         "title": "LAOWA 荷兰地区品牌站 · Sony FE 版本",
         "url": "https://www.laowa.nl/argus-45mm-f-0-95-ff-sony-fe/",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-48",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
-      "国际官网读取受限，本记录依据 LAOWA 荷兰地区品牌站的 Sony FE 商品页核验。地区站镜身尺寸字段存在不一致，暂不采纳；以厂商说明书为准。"
+      "中文官网无反卡口共用标称尺寸约 76.8×110mm；未套用单反或 M 卡口长度。"
+    ],
+    "verification": "verified"
+  },
+  {
+    "id": "laowa-17mm-f4-zero-d-tilt-shift-sony-fe",
+    "brand": "laowa",
+    "name": "17mm F4 Zero-D Tilt-Shift",
+    "model": "17mm F4 Zero-D Tilt-Shift",
+    "aliases": [],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 17,
+    "focalMax": 17,
+    "apertureWide": 4,
+    "apertureTele": 4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": 810,
+    "diameter": 93,
+    "length": 111,
+    "filterSize": 86,
+    "minFocus": 0.25,
+    "maxMagnification": 0.131,
+    "elements": 18,
+    "groups": 12,
+    "blades": 14,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-92",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "TS 倾斜＋移轴版与 S 仅移轴版分开收录。官网明确 E 卡口净重 810g，不含遮光罩、支架及前后盖。"
+    ],
+    "verification": "verified"
+  },
+  {
+    "id": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo-sony-fe",
+    "brand": "laowa",
+    "name": "Aksen 17.5mm F1.7 5-10X Ultra Macro APO",
+    "model": "Aksen 17.5mm F1.7 5-10X Ultra Macro APO",
+    "aliases": [],
+    "series": null,
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 17.5,
+    "focalMax": 17.5,
+    "apertureWide": 1.7,
+    "apertureTele": 1.7,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": 618,
+    "diameter": 70.2,
+    "length": 156,
+    "filterSize": null,
+    "minFocus": null,
+    "maxMagnification": 10,
+    "elements": 17,
+    "groups": 12,
+    "blades": 11,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": true,
+    "price": null,
+    "sources": [
+      {
+        "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
+        "url": "https://www.laowalens.com/camera-lens-98",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "采用官方 E 卡口镜头版本的重量和尺寸，不把单独的卡口配件当作镜头。工作距离 22.48mm 不等于最近对焦距离，后者官方标为 N/A。放大范围 5–10 倍，不能按普通镜头理解为可对焦到无穷远。"
     ],
     "verification": "partial"
   }

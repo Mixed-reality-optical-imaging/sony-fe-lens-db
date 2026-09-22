@@ -76,5 +76,11 @@
     "name": "美科",
     "en": "Meike",
     "color": "#4b7287"
+  },
+  {
+    "id": "thypoch",
+    "name": "Thypoch",
+    "en": "Thypoch",
+    "color": "#61795b"
   }
 ]

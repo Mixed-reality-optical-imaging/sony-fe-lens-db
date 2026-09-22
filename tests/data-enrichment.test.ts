@@ -44,3 +44,35 @@ test("距离与滤镜统一口径，冲突值仍为空并说明原因", () => {
   assert.ok(conflicting.notes.some((note) => note.includes("冲突")));
   assert.equal(get("laowa-25mm-f-2-8").length, null);
 });
+
+test("扩展来源区分工作距离、卡口尺寸与移轴版本", () => {
+  const shift = get("laowa-17mm-f-4-zero-d-shift");
+  const tiltShift = get("laowa-17mm-f4-zero-d-tilt-shift");
+  assert.deepEqual([shift.weight, tiltShift.weight], [770, 810]);
+  assert.deepEqual([shift.elements, shift.groups], [18, 12]);
+  assert.equal(get("laowa-15mm-f-5-cookie").length, 35.2);
+  const macro = get("laowa-180mm");
+  assert.deepEqual([macro.minFocus, macro.weight, macro.length], [0.3, 521.6, 134.4]);
+  const aksen = get("laowa-aksen-17-5mm");
+  assert.equal(aksen.minFocus, null);
+  assert.equal(aksen.maxMagnification, 10);
+  assert.ok(aksen.notes.some((note) => note.includes("工作距离")));
+});
+
+test("新增记录已确认 E 卡口，转入正式库的型号不残留在待核验表", () => {
+  const audit = JSON.parse(readFileSync("src/data/coverage.json", "utf8")) as {
+    brand: string;
+    model: string;
+    status: string;
+  }[];
+  for (const id of ["ttartisan-14mm-f2-8-asph", "ttartisan-tilt-shift-17mm-f4-asph"]) {
+    const lens = get(id);
+    assert.equal(lens.mount, "Sony E");
+    assert.equal(lens.weight, null); // 多卡口范围不取端点。
+    assert.ok(!audit.some((row) => row.brand === lens.brand && row.model === lens.model));
+  }
+  const zoom = get("thypoch-voyager");
+  assert.deepEqual([zoom.focalMin, zoom.focalMax, zoom.apertureWide, zoom.apertureTele], [24, 50, 2.8, 2.8]);
+  assert.deepEqual([zoom.diameter, zoom.length], [73, 92.8]);
+  assert.ok(zoom.notes.some((note) => note.includes("前端直径")));
+});

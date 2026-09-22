@@ -108,7 +108,7 @@
     "focus": "AF",
     "stabilization": null,
     "weight": 272,
-    "diameter": null,
+    "diameter": 69.8,
     "length": 71.5,
     "filterSize": 62,
     "minFocus": 0.8,
@@ -129,9 +129,10 @@
       }
     ],
     "notes": [
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-af-16mm-f2-8-p-fe",
@@ -152,7 +153,7 @@
     "focus": "AF",
     "stabilization": null,
     "weight": 207,
-    "diameter": null,
+    "diameter": 69.8,
     "length": 70.5,
     "filterSize": 62,
     "minFocus": 0.12,
@@ -173,9 +174,10 @@
       }
     ],
     "notes": [
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e",
@@ -241,7 +243,7 @@
     "focus": "AF",
     "stabilization": null,
     "weight": 470,
-    "diameter": null,
+    "diameter": 75,
     "length": 99.2,
     "filterSize": 67,
     "minFocus": 0.3,
@@ -262,9 +264,10 @@
       }
     ],
     "notes": [
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-35-150mm-f2-2-8-af-full-frame-zoom-lens",
@@ -497,7 +500,7 @@
     "focus": "AF",
     "stabilization": null,
     "weight": 1027,
-    "diameter": null,
+    "diameter": 88,
     "length": 128.5,
     "filterSize": 82,
     "minFocus": 0.35,
@@ -518,9 +521,10 @@
       }
     ],
     "notes": [
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-24mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
@@ -676,7 +680,7 @@
     "maxMagnification": null,
     "elements": 12,
     "groups": 8,
-    "blades": null,
+    "blades": 7,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -691,7 +695,8 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
     "verification": "partial"
   },
@@ -721,7 +726,7 @@
     "maxMagnification": null,
     "elements": 14,
     "groups": 10,
-    "blades": null,
+    "blades": 6,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -736,7 +741,8 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
     "verification": "partial"
   },
@@ -766,7 +772,7 @@
     "maxMagnification": null,
     "elements": 12,
     "groups": 10,
-    "blades": null,
+    "blades": 8,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -781,7 +787,8 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
     "verification": "partial"
   },
@@ -811,7 +818,7 @@
     "maxMagnification": null,
     "elements": 9,
     "groups": 6,
-    "blades": null,
+    "blades": 8,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -826,7 +833,8 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
     "verification": "partial"
   },
@@ -856,7 +864,7 @@
     "maxMagnification": null,
     "elements": 9,
     "groups": 7,
-    "blades": null,
+    "blades": 8,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -871,7 +879,8 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
     "verification": "partial"
   },
@@ -898,10 +907,10 @@
     "length": 149.1,
     "filterSize": 67,
     "minFocus": 0.3,
-    "maxMagnification": null,
+    "maxMagnification": 1,
     "elements": 15,
     "groups": 12,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -916,9 +925,10 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-135mm-f2-0-full-frame-telephoto",
@@ -946,7 +956,7 @@
     "maxMagnification": null,
     "elements": 11,
     "groups": 7,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -961,7 +971,8 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
     "verification": "partial"
   },
@@ -1204,7 +1215,7 @@
     "maxMagnification": 0.17,
     "elements": 9,
     "groups": 7,
-    "blades": null,
+    "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
     "status": "unknown",
@@ -1219,9 +1230,10 @@
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
-      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。"
+      "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "samyang-35mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
