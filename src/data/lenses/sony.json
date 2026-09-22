@@ -784,8 +784,8 @@
     "elements": 7,
     "groups": 5,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2013-10-16",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -794,12 +794,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel35f28z/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony 日本：首批五款全画幅 E 卡口镜头发布公告（含后续修订）",
+        "url": "https://www.sony.jp/CorporateCruise/Press/201310/13-1016B/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.35m (1.15ft)",
-      "厂商放大倍率原始值：0.12x"
+      "厂商放大倍率原始值：0.12x",
+      "发布日期采用 Sony 日本官方公告原始发布日 2013-10-16；2013-10-25、2013-12-02、2014-03-07 为后续修订日期，不替代首次公告日期。日本发售日期与公告日期不同。"
     ],
     "verification": "verified"
   },
@@ -990,8 +996,8 @@
     "elements": 7,
     "groups": 5,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2013-10-16",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -1000,12 +1006,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel55f18z/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony 日本：首批五款全画幅 E 卡口镜头发布公告（含后续修订）",
+        "url": "https://www.sony.jp/CorporateCruise/Press/201310/13-1016B/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.5m (1.64ft)",
-      "厂商放大倍率原始值：0.14x"
+      "厂商放大倍率原始值：0.14x",
+      "发布日期采用 Sony 日本官方公告原始发布日 2013-10-16；2013-10-25、2013-12-02、2014-03-07 为后续修订日期，不替代首次公告日期。日本发售日期与公告日期不同。"
     ],
     "verification": "verified"
   },
@@ -2098,8 +2110,8 @@
     "elements": 12,
     "groups": 10,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2013-10-16",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -2108,12 +2120,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel2470z/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony 日本：首批五款全画幅 E 卡口镜头发布公告（含后续修订）",
+        "url": "https://www.sony.jp/CorporateCruise/Press/201310/13-1016B/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.4m (1.32ft)",
-      "厂商放大倍率原始值：0.20x"
+      "厂商放大倍率原始值：0.20x",
+      "发布日期采用 Sony 日本官方公告原始发布日 2013-10-16；2013-10-25、2013-12-02、2014-03-07 为后续修订日期，不替代首次公告日期。日本发售日期与公告日期不同。"
     ],
     "verification": "verified"
   },
@@ -2142,8 +2160,8 @@
     "elements": 8,
     "groups": 7,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2020-09-15",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -2152,12 +2170,23 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/lenses/products/sel2860/spec",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国：Alpha 7C 与 FE 28–60mm 正式发布",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20200915.html",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony 日本：FE 28–60mm 单独发售日期公告",
+        "url": "https://www.sony.jp/ichigan/info2/20201218.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：Wide 0.3 m (0.99 ft), Tele 0.45 m (1.48 ft)",
-      "厂商放大倍率原始值：0.16"
+      "厂商放大倍率原始值：0.16",
+      "正式发布于 2020-09-15；日本镜头单独销售自 2021-01-29 开始，与相机套装销售及其他地区的销售时间分开理解。日元价格不换算为人民币价格。"
     ],
     "verification": "verified"
   },
@@ -2451,8 +2480,8 @@
     "elements": 21,
     "groups": 15,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2013-10-16",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -2461,12 +2490,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel70200g/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony 日本：首批五款全画幅 E 卡口镜头发布公告（含后续修订）",
+        "url": "https://www.sony.jp/CorporateCruise/Press/201310/13-1016B/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：1-1.5m (AF) / 1-1.35m (MF) (3.28-4.93ft (AF) /3.28-4.43ft (MF))",
-      "厂商放大倍率原始值：0.13x"
+      "厂商放大倍率原始值：0.13x",
+      "发布日期采用 Sony 日本官方公告原始发布日 2013-10-16；2013-10-25、2013-12-02、2014-03-07 为后续修订日期，不替代首次公告日期。日本发售日期与公告日期不同。"
     ],
     "verification": "verified"
   },
@@ -2556,8 +2591,8 @@
     "elements": 9,
     "groups": 8,
     "blades": 7,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2013-10-16",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
     "price": null,
@@ -2566,12 +2601,18 @@
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel2870/specifications",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Sony 日本：首批五款全画幅 E 卡口镜头发布公告（含后续修订）",
+        "url": "https://www.sony.jp/CorporateCruise/Press/201310/13-1016B/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.3-0.45m (0.99-1.48ft)",
-      "厂商放大倍率原始值：0.19x"
+      "厂商放大倍率原始值：0.19x",
+      "发布日期采用 Sony 日本官方公告原始发布日 2013-10-16；2013-10-25、2013-12-02、2014-03-07 为后续修订日期，不替代首次公告日期。日本发售日期与公告日期不同。"
     ],
     "verification": "verified"
   },
