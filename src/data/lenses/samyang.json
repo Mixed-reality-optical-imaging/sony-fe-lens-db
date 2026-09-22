@@ -384,7 +384,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -392,9 +392,16 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/35mm-f1-4-af-series-ii-full-frame-wide-angle-sony-e",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/discontinued/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -510,7 +517,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -518,11 +525,17 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/24-70mm-f2-8-af-full-frame-zoom-lens-sony-e",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/discontinued/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
-      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。",
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
     ],
     "verification": "verified"
   },
@@ -641,7 +654,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -649,9 +662,16 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/35mm-f1-4-wide-angle-sony-e-mount",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/discontinued/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -821,7 +841,7 @@
     "blades": 8,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -829,12 +849,18 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/50mm-f1-4-full-frame-high-speed",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/50mm_f14_as_umc.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
-      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。",
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
     ],
     "verification": "partial"
   },
@@ -959,7 +985,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -967,12 +993,18 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/135mm-f2-0-full-frame-telephoto",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/17135mm_f20_ed_umc.html",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "厂商页面含多个卡口版本；未明确区分 E 卡口的重量、尺寸不予混用。",
       "复核厂商表格：光学结构取完整单元格；多卡口表的重量和长度仅取 Sony E 列，毫米换算为米。变焦长度采用广角端、重量采用不含盖和遮光罩口径。",
-      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。"
+      "复核官网规格表与正文；补充表格遗漏的口径/叶片数。微距倍率仅在正文明确 1:1 时录入。",
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
     ],
     "verification": "partial"
   },
@@ -1047,7 +1079,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -1055,9 +1087,16 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/45mm-f1-8-af-compact-full-frame-sony-e",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/discontinued/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -1089,7 +1128,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -1097,9 +1136,16 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/85mm-f1-4-af-full-frame-telephoto-sony-e",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/discontinued/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -1131,7 +1177,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -1139,9 +1185,16 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/75mm-f1-4-af-compact-full-frame-sony-e",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/discontinued/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
+    ],
     "verification": "verified"
   },
   {
@@ -1264,7 +1317,7 @@
     "blades": 9,
     "releaseDate": null,
     "releasePrecision": null,
-    "status": "unknown",
+    "status": "discontinued",
     "macro": false,
     "price": null,
     "sources": [
@@ -1272,9 +1325,16 @@
         "title": "SAMYANG 官方产品规格",
         "url": "https://samyangus.com/products/35mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "Kenko Tokina 日本 SAMYANG 产品资料：生産終了（停产）",
+        "url": "https://www.kenko-tokina.co.jp/camera-lens/samyang/discontinued/",
+        "checkedAt": "2026-09-22"
       }
     ],
-    "notes": [],
+    "notes": [
+      "日本代理商 Kenko Tokina 的 SAMYANG 资料明确将本型号 Sony E 版列为「生産終了」（停产）。状态依据该地区公开资料；不表示中国零售库存售罄，也不推断具体停产日期。"
+    ],
     "verification": "verified"
   }
 ]
