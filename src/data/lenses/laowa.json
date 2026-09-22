@@ -65,7 +65,7 @@
     "stabilization": null,
     "weight": 650,
     "diameter": 72,
-    "length": null,
+    "length": 155,
     "filterSize": 67,
     "minFocus": 0.247,
     "maxMagnification": 2,
@@ -87,13 +87,18 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/LAOWA%20100m%20f2.8.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "LAOWA 全球官网分卡口规格",
+        "url": "https://www.venuslens.net/product/laowa-100mm-f-2-8-2x-macro-apo/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。说明书通用长度 125mm 与 Sony E 地区页 155mm 不同，长度暂不补填；Sony E 为 13 叶片，不使用 Nikon 7 / Canon 9。"
+      "全球官网明确区分：Sony FE / RF / Z 长 155mm；125mm 属于 Canon EF / Nikon F。由此解决此前通用说明书与地区 E 页的长度差异。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-100mm-f-2-8-tilt-shift-1x-macro-sony-fe",
@@ -257,7 +262,7 @@
     "stabilization": null,
     "weight": 500,
     "diameter": 69.4,
-    "length": null,
+    "length": 93.6,
     "filterSize": 77,
     "minFocus": 0.15,
     "maxMagnification": 0.4,
@@ -279,13 +284,18 @@
         "title": "厂家官方使用说明书（规格表）",
         "url": "https://fs.myteam44.nl/attachments/Laowa/User_Manual/12-24mm%20f5.6%20Zoom.pdf",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "LAOWA 全球官网分卡口规格",
+        "url": "https://www.venuslens.net/product/laowa-12-24mm-f-5-6-zoom/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。说明书长度 84mm 明确属 Leica M；Sony E 长度继续待核验。"
+      "全球官网分卡口表：Sony E 长 93.6mm，M 为 84mm、RF 为 91.6mm、Z 为 95.6mm；不采用宣传段落的通用 84mm。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe",
@@ -1222,9 +1232,9 @@
     "apertureTele": 5.6,
     "focus": "MF",
     "stabilization": null,
-    "weight": 290,
+    "weight": 259,
     "diameter": 53,
-    "length": null,
+    "length": 81,
     "filterSize": 46,
     "minFocus": 0.163,
     "maxMagnification": 2,
@@ -1251,14 +1261,18 @@
         "title": "老蛙中文官网产品规格（核对 Sony E 版本）",
         "url": "https://www.laowalens.com/camera-lens-47",
         "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "LAOWA 全球官网分卡口规格",
+        "url": "https://www.venuslens.net/product/laowa-85mm-f-5-6-2x-ultra-macro-apo/",
+        "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "核对 LAOWA 地区 Sony FE 产品页及其链接的原厂说明书；单反或 M 卡口专属长度、重量不套用于 Sony E。",
-      "人工核对品牌产品页所附官方说明书规格表。说明书长度与重量明确为 Leica M，不套用到 Sony E。",
-      "补充光学结构 9 组 13 片；共用表格长度 78mm 与说明书的 M 卡口对应，仍不填入 E 版本。"
+      "全球官网明确 Sony E 尺寸 53×81mm、本体约 259g；规格表 291g 包含遮光罩和前后盖。重量字段采用本体 259g，修正此前地区站约 290g 的混合口径。"
     ],
-    "verification": "partial"
+    "verification": "verified"
   },
   {
     "id": "laowa-90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe",

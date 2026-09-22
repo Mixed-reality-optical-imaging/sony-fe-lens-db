@@ -2,7 +2,7 @@
 
 核验日期：2026-09-22。本清单由 `npm run data:report` 从正式记录生成。
 
-共 **295 款、14 个品牌**，其中 232 款主要规格完整，63 款信息不全，7 条可追溯人民币价格，25 款有明确停产依据。
+共 **295 款、14 个品牌**，其中 235 款主要规格完整，60 款信息不全，7 条可追溯人民币价格，25 款有明确停产依据。
 
 **此清单记录已核验范围，不代表市场全量。** 正式条目已确认原生 Sony E 卡口及全画幅身份；缺失字段仍显示暂无数据。
 
@@ -14,7 +14,7 @@
 | 蔡司 Zeiss | 13 | 13 | 0 | 0 | 0 |
 | 森养 Samyang | 29 | 22 | 7 | 8 | 37 |
 | 唯卓仕 Viltrox | 17 | 15 | 2 | 0 | 15 |
-| 老蛙 Laowa | 34 | 19 | 15 | 18 | 56 |
+| 老蛙 Laowa | 34 | 22 | 12 | 18 | 56 |
 | 福伦达 Voigtländer | 16 | 16 | 0 | 0 | 0 |
 | 铭匠 TTArtisan | 14 | 0 | 14 | 8 | 12 |
 | 七工匠 7Artisans | 16 | 2 | 14 | 1 | 31 |
@@ -31,7 +31,7 @@
 |---|---:|---:|
 | 重量（g） | 282 | 13 |
 | 直径（mm） | 282 | 13 |
-| 长度（mm） | 273 | 22 |
+| 长度（mm） | 276 | 19 |
 | 滤镜口径（mm） | 263 | 32 |
 | 最近对焦距离（m） | 293 | 2 |
 | 最大放大倍率（×） | 250 | 45 |
@@ -92,9 +92,7 @@
 | MF 9mm F5.6（7artisans） | 滤镜口径（mm）、最大放大倍率（×） |
 | MF 10mm F2.8 Fisheye（7artisans） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最大放大倍率（×） |
 | MF 35mm F5.6（7artisans） | 重量（g）、直径（mm）、长度（mm）、滤镜口径（mm）、最大放大倍率（×）、光圈叶片数 |
-| 100mm F2.8 2X Ultra-Macro APO Lens（laowa） | 长度（mm） |
 | 11mm F4.5 FF RL Lens（laowa） | 长度（mm） |
-| 12-24mm F5.6 Zoom（laowa） | 长度（mm） |
 | 12mm F2.8 Zero-D Lens（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
 | 15mm F4 1X Macro groothoek（laowa） | 直径（mm）、长度（mm） |
 | 15mm F4.5 Zero-D Shift Lens（laowa） | 长度（mm）、滤镜口径（mm） |
@@ -103,7 +101,6 @@
 | 24mm F14 2X Macro Probe Lens (STD)（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
 | 25mm F2.8 2.5-5X Ultra-Macro Lens（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
 | 8-15mm F2.8 FF Zoom Fisheye（laowa） | 直径（mm）、长度（mm）、滤镜口径（mm） |
-| 85mm F5.6 2X Ultra-Macro APO Lens（laowa） | 长度（mm） |
 | 9mm F5.6 FF RL Lens（laowa） | 长度（mm）、滤镜口径（mm） |
 | Aksen 45mm F2.8 1-5X Ultra Macro APO（laowa） | 滤镜口径（mm）、最近对焦距离（m） |
 | Aksen 17.5mm F1.7 5-10X Ultra Macro APO（laowa） | 滤镜口径（mm）、最近对焦距离（m） |
@@ -379,11 +376,11 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 | 型号（独立 ID） | 主要规格 | 来源 |
 |---|---|---|
 | 10-18mm F4.5-5.6 Zoom Lens（`laowa-10-18mm-f-4-5-5-6-zoom-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/10-18mm-f-4-5-5-6-zoom-lens-sony-fe/) |
-| 100mm F2.8 2X Ultra-Macro APO Lens（`laowa-100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/) |
+| 100mm F2.8 2X Ultra-Macro APO Lens（`laowa-100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/) |
 | 100mm F2.8 Tilt-Shift 1X Macro（`laowa-100mm-f-2-8-tilt-shift-1x-macro-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/100mm-f-2-8-tilt-shift-1x-macro-sony-fe/) |
 | 10mm F2.8 Zero-D FF Auto Focus Lens（`laowa-10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe/) |
 | 11mm F4.5 FF RL Lens（`laowa-11mm-f-4-5-ff-rl-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/11mm-f-4-5-ff-rl-lens-sony-fe/) |
-| 12-24mm F5.6 Zoom（`laowa-12-24mm-f-5-6-zoom-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/12-24mm-f-5-6-zoom-sony-fe/) |
+| 12-24mm F5.6 Zoom（`laowa-12-24mm-f-5-6-zoom-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/12-24mm-f-5-6-zoom-sony-fe/) |
 | 12mm F2.8 Lite Zero-D FF Auto Focus Lens（`laowa-12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe/) |
 | 12mm F2.8 Zero-D Lens（`laowa-12mm-f-2-8-zero-d-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/12mm-f-2-8-zero-d-lens-sony-fe/) |
 | 14mm F4 FF RL Zero-D Lens（`laowa-14mm-f-4-ff-rl-zero-d-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/14mm-f-4-ff-rl-zero-d-lens-sony-fe/) |
@@ -403,7 +400,7 @@ Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补
 | 55mm F2.8 Tilt-Shift 1X Macro（`laowa-55mm-f-2-8-tilt-shift-1x-macro-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/55mm-f-2-8-tilt-shift-1x-macro-sony-fe/) |
 | 58mm F2.8 2X Ultra Macro APO（`laowa-58mm-f-2-8-2x-ultra-macro-apo-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/58mm-f-2-8-2x-ultra-macro-apo-sony-fe/) |
 | 8-15mm F2.8 FF Zoom Fisheye（`laowa-8-15mm-f-2-8-ff-zoom-fisheye-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/8-15mm-f-2-8-ff-zoom-fisheye-sony-fe/) |
-| 85mm F5.6 2X Ultra-Macro APO Lens（`laowa-85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe/) |
+| 85mm F5.6 2X Ultra-Macro APO Lens（`laowa-85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe/) |
 | 90mm F2.8 2X Ultra-Macro APO Lens（`laowa-90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe`） | 已核验 | [厂家资料](https://www.laowa.nl/90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe/) |
 | 9mm F5.6 FF RL Lens（`laowa-9mm-f-5-6-ff-rl-lens-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/9mm-f-5-6-ff-rl-lens-sony-fe/) |
 | Aksen 45mm F2.8 1-5X Ultra Macro APO（`laowa-aksen-45mm-f-2-8-1-5x-ultra-macro-apo-sony-fe`） | 信息不全 | [厂家资料](https://www.laowa.nl/aksen-45mm-f-2-8-1-5x-ultra-macro-apo-sony-fe/) |
