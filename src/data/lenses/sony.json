@@ -650,22 +650,38 @@
     "elements": 11,
     "groups": 9,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2019-07-09",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4700,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 35mm F1.8",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2019/20190710-1.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel35f18f/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 35mm F1.8",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2019/20190710-1.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.22 m(0.73 ft)",
-      "厂商放大倍率原始值：0.24"
+      "厂商放大倍率原始值：0.24",
+      "日期为中国官方正文所述发布日，非零售开售日期；人民币价格为历史上市指导价，不代表当前成交价。"
     ],
     "verification": "verified"
   },
@@ -1182,15 +1198,30 @@
     "elements": 13,
     "groups": 10,
     "blades": 11,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2017-02-08",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11999,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 100mm F2.8 STF GM OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170209.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel100f28gm/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 100mm F2.8 STF GM OSS",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170209.html",
         "checkedAt": "2026-09-22"
       }
     ],
@@ -1198,7 +1229,9 @@
       "STF 镜头标称最大光圈 F2.8，实际透光量 T5.6；T 值不作为另一端的光圈值。",
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.85m / 2.79 ft. (at \"0.85m-∞\" position); 0.57m / 1.87 ft. (at \"0.57m-1.0m\" position)",
-      "厂商放大倍率原始值：0.14 (at \"0.85m-∞\" position); 0.25 (at \"0.57m-1.0m\" position)"
+      "厂商放大倍率原始值：0.14 (at \"0.85m-∞\" position); 0.25 (at \"0.57m-1.0m\" position)",
+      "日期为中国官方正文所述发布日，非零售开售日期；人民币价格为历史上市指导价，不代表当前成交价。",
+      "STF 的 APD 变迹滤镜影响通光量：最大几何光圈 F2.8 对应 T5.6，光圈筛选保留 F2.8，不将 T 值混入 F 值。0.57m 最近对焦及 0.25× 倍率对应近摄切换模式。"
     ],
     "verification": "verified"
   },
@@ -1392,22 +1425,38 @@
     "elements": 9,
     "groups": 8,
     "blades": 9,
-    "releaseDate": null,
-    "releasePrecision": null,
+    "releaseDate": "2017-02-08",
+    "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4299,
+      "currency": "CNY",
+      "type": "launch",
+      "source": {
+        "title": "索尼中国官方发布稿：FE 85mm F1.8",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170209.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
         "url": "https://www.sony.co.uk/electronics/camera-lenses/sel85f18/specifications",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "索尼中国官方发布稿：FE 85mm F1.8",
+        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170209.html",
         "checkedAt": "2026-09-22"
       }
     ],
     "notes": [
       "近摄字段取官方规格列出的最短距离和最大倍率，可能对应特定焦段或手动对焦模式。",
       "厂商对焦距离原始值：0.8m (2.63 ft)",
-      "厂商放大倍率原始值：0.13"
+      "厂商放大倍率原始值：0.13",
+      "日期为中国官方正文所述发布日，非零售开售日期；人民币价格为历史上市指导价，不代表当前成交价。"
     ],
     "verification": "verified"
   },
