@@ -45,5 +45,107 @@
       "官方标明 Sony E、43.2mm 全画幅成像圈。直径 73mm 来自代理镜身尺寸；厂家 Front Dia. 70mm 为前端直径，不混作最大镜身直径。长度采用厂家前端至法兰面 92.8mm。"
     ],
     "verification": "verified"
+  },
+  {
+    "id": "thypoch-simera-28mm-f1-4-sony-e",
+    "brand": "thypoch",
+    "name": "Simera 28mm F1.4 ASPH.",
+    "model": "Simera 28mm F1.4 ASPH.",
+    "aliases": [
+      "TP-S28E-BLK"
+    ],
+    "series": "Simera",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 28,
+    "focalMax": 28,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": 344,
+    "diameter": 60,
+    "length": 70.3,
+    "filterSize": 49,
+    "minFocus": 0.4,
+    "maxMagnification": null,
+    "elements": 11,
+    "groups": 7,
+    "blades": 14,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "Thypoch 官方 Simera 分卡口规格表",
+        "url": "https://thypoch.com/en/simera/28mm",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "日本正規代理焦点工房 Sony E 镜身尺寸与重量",
+        "url": "https://www.stkb.jp/shopdetail/000000002321/",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "Sony E 版本重量 344g、厂家不含遮光罩长度 70.3mm。直径采用代理 E 版镜身约 60mm，不将厂家前端直径 54mm 当作镜身最大直径。",
+      "代理长度约 66mm，明确排除卡口部和突出部，与厂家长度口径不同；保留厂家 E 列长度及这一差异。",
+      "摄影版 Simera 不与 Simera-C T1.5 电影版混用；未见官方最大放大倍率，不能用焦距与最近对焦距离粗略推算。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "thypoch-simera-35mm-f1-4-sony-e",
+    "brand": "thypoch",
+    "name": "Simera 35mm F1.4 ASPH.",
+    "model": "Simera 35mm F1.4 ASPH.",
+    "aliases": [
+      "TP-S35E-BLK"
+    ],
+    "series": "Simera",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 35,
+    "focalMax": 35,
+    "apertureWide": 1.4,
+    "apertureTele": 1.4,
+    "focus": "MF",
+    "stabilization": null,
+    "weight": 296,
+    "diameter": 60,
+    "length": 64.6,
+    "filterSize": 49,
+    "minFocus": 0.45,
+    "maxMagnification": null,
+    "elements": 9,
+    "groups": 5,
+    "blades": 14,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "Thypoch 官方 Simera 分卡口规格表",
+        "url": "https://thypoch.com/en/simera/35mm",
+        "checkedAt": "2026-09-22"
+      },
+      {
+        "title": "日本正規代理焦点工房 Sony E 镜身尺寸与重量",
+        "url": "https://www.stkb.jp/shopdetail/000000002322/",
+        "checkedAt": "2026-09-22"
+      }
+    ],
+    "notes": [
+      "Sony E 版本重量 296g、厂家不含遮光罩长度 64.6mm。直径采用代理 E 版镜身约 60mm，不将厂家前端直径 54mm 当作镜身最大直径。",
+      "代理长度约 60mm，明确排除卡口部和突出部，与厂家长度口径不同；保留厂家 E 列长度及这一差异。",
+      "摄影版 Simera 不与 Simera-C T1.5 电影版混用；未见官方最大放大倍率，不能用焦距与最近对焦距离粗略推算。"
+    ],
+    "verification": "partial"
   }
 ]

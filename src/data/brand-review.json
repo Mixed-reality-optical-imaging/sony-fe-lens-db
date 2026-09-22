@@ -21,7 +21,7 @@
     "brand": "zeiss",
     "url": "https://www.zeiss.com/photonics-and-optics/en/photography/products/lenses-for-mirrorless-system-cameras.html",
     "scope": "Batis、Loxia、Otus ML 三个镜头系列；Loxia 21 使用官方规格 PDF 补充。",
-    "limits": "不包含单反 Otus、Milvus 或电影系列。Otus ML 已补充官方 10 叶片说明；Batis / Loxia 未取得叶片数的充分官方佐证。"
+    "limits": "不包含单反 Otus、Milvus 或电影系列。Otus ML 已补充官方 10 叶片；Batis / Loxia 已依据 2019 官方 E-Mount 目录索引补充叶片数，旧 PDF 直链失效的限制见各记录备注。日期、状态与价格仍有缺项。"
   },
   {
     "brand": "samyang",
@@ -33,7 +33,7 @@
     "brand": "viltrox",
     "url": "https://viltrox.com/",
     "scope": "厂商商品目录与 AF / MF 全画幅产品页，含 Air / Pro / LAB / EVO。",
-    "limits": "已复核 E/FE 专属参数区并区分同页比较型号。16mm、85mm II 等部分历史资料仍缺逐卡口参数；固定光圈型号的叶片字段不适用。"
+    "limits": "已复核 E/FE 专属参数区并区分同页比较型号；16mm 和 85mm II 已补充历史官方参数。20mm F1.8 最大放大倍率仍未知；28mm F4.5 固定光圈的叶片字段不适用。日期、状态和防抖等字段仍待核实。"
   },
   {
     "brand": "laowa",
@@ -80,7 +80,7 @@
   {
     "brand": "thypoch",
     "url": "https://store.thypoch.com/products/voyager-24-50mm",
-    "scope": "首轮核验 Voyager 24–50mm F2.8 原生 Sony E 全画幅变焦；主规格来自品牌官网，镜身直径由日本代理规格补充。",
-    "limits": "仅核验此型号；Simera、Ksana、Eureka 的 E 版本尚未逐型号清点，不宣称覆盖该品牌全部镜头；Simera-C 专用电影系列不在收录范围。"
+    "scope": "核验 Voyager 24–50mm F2.8 和 Simera 28mm / 35mm F1.4 的原生 Sony E 全画幅摄影版本；厂家分卡口表为主，日本正規代理补充镜身直径。",
+    "limits": "已核验 3 款；Simera 两款最大放大倍率尚缺。当前 Simera 21mm / 75mm 规格仅列 M、50mm 仅列 M/Z，未据通用附件名称推断 E 卡口；Ksana、Eureka 尚未逐款清点。Simera-C 专用电影镜头排除。"
   }
 ]

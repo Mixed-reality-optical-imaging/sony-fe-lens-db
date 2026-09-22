@@ -233,3 +233,5 @@ Bug reports, source-backed corrections and pull requests are welcome. Run valida
 2026-09-22 老蛙补充 / Laowa update: 补齐三款 Sony E 长度并修正 85mm 本体重量，区分含配件口径。Resolved three mount-specific lengths and corrected bare-lens weight. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_LAOWA_DIMENSIONS.md)。
 
 2026-09-22 适马历史补充 / Sigma history: 补充七款 DG DN 官方公告日期，并记录 105mm 旧稿日期差异。Added seven sourced announcement dates with the 105mm timestamp discrepancy documented. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_SIGMA_EARLY_DGDN.md)。
+
+2026-09-22 Thypoch 扩展 / Expansion: 新增 Simera 28mm、35mm 摄影版，逐卡口核对规格并保留缺项。Added two mount-specific Simera photo lenses with unknown values retained. [核验记录 / Audit](docs/DATA_ENRICHMENT_2026-09-22_THYPOCH.md)。
