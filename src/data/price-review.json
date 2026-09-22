@@ -45,9 +45,11 @@
     "name": "FE 24mm F1.4 GM",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL24F14GM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-001",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel16f18g",
@@ -65,9 +67,11 @@
     "name": "FE 35mm F1.4 ZA",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL35F14Z 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-002",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel40f25g",
@@ -105,9 +109,11 @@
     "name": "FE 28mm F2",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL28F20 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-003",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel35f18f",
@@ -135,9 +141,11 @@
     "name": "FE 35mm F2.8 ZA",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL35F28Z 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-004",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel50f18f",
@@ -145,9 +153,11 @@
     "name": "FE 50mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL50F18F 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-005",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel50f14z",
@@ -165,9 +175,11 @@
     "name": "FE 50mm F2.8 Macro",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL50M28 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-006",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel55f18z",
@@ -175,9 +187,11 @@
     "name": "FE 55mm F1.8 ZA",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL55F18Z 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-007",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel85f14gm",
@@ -185,9 +199,11 @@
     "name": "FE 85mm F1.4 GM",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL85F14GM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-008",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel85f14gm2",
@@ -205,9 +221,11 @@
     "name": "FE 90mm F2.8 Macro G OSS",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL90M28G 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-009",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel300f28gm",
@@ -315,9 +333,11 @@
     "name": "FE 20-70mm F4 G",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL2070G 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-010",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel2450g",
@@ -335,9 +355,11 @@
     "name": "FE 16-35mm F4 ZA OSS",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL1635Z 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-011",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel1635gm",
@@ -345,9 +367,11 @@
     "name": "FE 16-35mm F2.8 GM",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL1635GM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-012",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel2470gm2",
@@ -395,9 +419,11 @@
     "name": "FE 24-70mm F2.8 GM",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL2470GM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-013",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel24105g",
@@ -415,9 +441,11 @@
     "name": "FE 24-240mm F3.5-6.3 OSS",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL24240 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-014",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-selp28135g",
@@ -445,9 +473,11 @@
     "name": "FE 70-200mm F4 G OSS",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL70200G 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-015",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel70200gm2",
@@ -465,9 +495,11 @@
     "name": "FE 28-70mm F3.5-5.6 OSS",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL2870 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-016",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel2870gm",
@@ -485,9 +517,11 @@
     "name": "FE 70-300mm F4.5-5.6 G OSS",
     "searchedAt": "2026-09-22",
     "query": "索尼 SEL70300G 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-017",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sony-sel100400gm",
@@ -587,7 +621,9 @@
     "query": "适马 14mm F1.4 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a024-15-14",
@@ -595,9 +631,11 @@
     "name": "15mm F1.4 DG DN DIAGONAL FISHEYE",
     "searchedAt": "2026-09-22",
     "query": "适马 15mm F1.4 DG DN DIAGONAL FISHEYE 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-019",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a022-20-14",
@@ -605,9 +643,11 @@
     "name": "20mm F1.4 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 20mm F1.4 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-020",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c023-17-4-re",
@@ -617,7 +657,9 @@
     "query": "适马 17mm F4 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-c022-20-2-re",
@@ -627,7 +669,9 @@
     "query": "适马 20mm F2 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a022-24-14",
@@ -647,7 +691,9 @@
     "query": "适马 24mm F2 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-c021-24-35-re",
@@ -657,7 +703,9 @@
     "query": "适马 24mm F3.5 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a025-35-12",
@@ -685,9 +733,11 @@
     "name": "35mm F1.4 DG II",
     "searchedAt": "2026-09-22",
     "query": "适马 35mm F1.4 DG II 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-025",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c020-35-2-re",
@@ -697,7 +747,9 @@
     "query": "适马 35mm F2 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-c019-45-28-re",
@@ -707,7 +759,9 @@
     "query": "适马 45mm F2.8 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a024-50-12",
@@ -727,7 +781,9 @@
     "query": "适马 50mm F2 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a023-50-14",
@@ -735,9 +791,11 @@
     "name": "50mm F1.4 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 50mm F1.4 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-029",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a020-85-14",
@@ -767,7 +825,9 @@
     "query": "适马 90mm F2.8 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原清单为 DG 更名版，表内报价沿用 DG DN 名称或与旧版共用商品，尚未确认对应版本。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a020-105-28",
@@ -805,9 +865,11 @@
     "name": "500mm F5.6 DG DN OS",
     "searchedAt": "2026-09-22",
     "query": "适马 500mm F5.6 DG DN OS 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-031",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a019-14-24-28",
@@ -835,9 +897,11 @@
     "name": "20-200mm F3.5-6.3 DG",
     "searchedAt": "2026-09-22",
     "query": "适马 20-200mm F3.5-6.3 DG 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-032",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a024-24-70-28-ii",
@@ -845,9 +909,11 @@
     "name": "24-70mm F2.8 DG DN II",
     "searchedAt": "2026-09-22",
     "query": "适马 24-70mm F2.8 DG DN II 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-033",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c021-28-70-28",
@@ -937,7 +1003,9 @@
     "query": "适马 14mm F1.8 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a019-28-14",
@@ -947,7 +1015,9 @@
     "query": "适马 28mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a018-70-28",
@@ -955,9 +1025,11 @@
     "name": "70mm F2.8 DG MACRO",
     "searchedAt": "2026-09-22",
     "query": "适马 70mm F2.8 DG MACRO 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-036",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a023-14-14",
@@ -965,9 +1037,11 @@
     "name": "14mm F1.4 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 14mm F1.4 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-037",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c023-17-4",
@@ -975,9 +1049,11 @@
     "name": "17mm F4 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 17mm F4 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-038",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c022-20-2",
@@ -985,9 +1061,11 @@
     "name": "20mm F2 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 20mm F2 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-039",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c021-24-2",
@@ -995,9 +1073,11 @@
     "name": "24mm F2 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 24mm F2 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-040",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c021-24-35",
@@ -1005,9 +1085,11 @@
     "name": "24mm F3.5 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 24mm F3.5 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-041",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a019-35-12",
@@ -1015,9 +1097,11 @@
     "name": "35mm F1.2 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 35mm F1.2 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-042",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c020-35-2",
@@ -1025,9 +1109,11 @@
     "name": "35mm F2 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 35mm F2 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-043",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c019-45-28",
@@ -1035,9 +1121,11 @@
     "name": "45mm F2.8 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 45mm F2.8 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-044",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c023-50-2",
@@ -1045,9 +1133,11 @@
     "name": "50mm F2 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 50mm F2 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-045",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-c020-65-2",
@@ -1065,9 +1155,11 @@
     "name": "90mm F2.8 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 90mm F2.8 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-046",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a019-24-70-28",
@@ -1075,9 +1167,11 @@
     "name": "24-70mm F2.8 DG DN",
     "searchedAt": "2026-09-22",
     "query": "适马 24-70mm F2.8 DG DN 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-047",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a015-20-14",
@@ -1087,7 +1181,9 @@
     "query": "适马 20mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内型号说明包含原生 E 或转接方案，未明确报价对应原生 E 卡口。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a015-24-14",
@@ -1097,7 +1193,9 @@
     "query": "适马 24mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内型号说明包含原生 E 或转接方案，未明确报价对应原生 E 卡口。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a012-35-14",
@@ -1107,7 +1205,9 @@
     "query": "适马 35mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内型号说明包含原生 E 或转接方案，未明确报价对应原生 E 卡口。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a018-40-14",
@@ -1117,7 +1217,9 @@
     "query": "适马 40mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内型号说明包含原生 E 或转接方案，未明确报价对应原生 E 卡口。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a014-50-14",
@@ -1127,7 +1229,9 @@
     "query": "适马 50mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内型号说明包含原生 E 或转接方案，未明确报价对应原生 E 卡口。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a016-85-14",
@@ -1135,9 +1239,11 @@
     "name": "85mm F1.4 DG HSM",
     "searchedAt": "2026-09-22",
     "query": "适马 85mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-053",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sigma-a018-105-14",
@@ -1147,7 +1253,9 @@
     "query": "适马 105mm F1.4 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内型号说明包含原生 E 或转接方案，未明确报价对应原生 E 卡口。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a017-135-18",
@@ -1157,7 +1265,9 @@
     "query": "适马 135mm F1.8 DG HSM 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内型号说明包含原生 E 或转接方案，未明确报价对应原生 E 卡口。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-a026-85-12",
@@ -1167,7 +1277,9 @@
     "query": "适马 85mm F1.2 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "sigma-c026-20-60-28-4",
@@ -1177,7 +1289,9 @@
     "query": "适马 20-60mm F2.8-4 DG 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "tamron-a046",
@@ -1185,9 +1299,11 @@
     "name": "17-28mm F2.8 Di III RXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 17-28mm F2.8 Di III RXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-058",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a064",
@@ -1195,9 +1311,11 @@
     "name": "16-30mm F2.8 Di III VXD G2",
     "searchedAt": "2026-09-22",
     "query": "腾龙 16-30mm F2.8 Di III VXD G2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-059",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a068",
@@ -1205,9 +1323,11 @@
     "name": "17-50mm F4 Di III VXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 17-50mm F4 Di III VXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-060",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a071",
@@ -1225,9 +1345,11 @@
     "name": "20-40mm F2.8 Di III VXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 20-40mm F2.8 Di III VXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-061",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a063",
@@ -1235,9 +1357,11 @@
     "name": "28-75mm F2.8 Di III VXD G2",
     "searchedAt": "2026-09-22",
     "query": "腾龙 28-75mm F2.8 Di III VXD G2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-062",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a036",
@@ -1245,9 +1369,11 @@
     "name": "28-75mm F2.8 Di III RXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 28-75mm F2.8 Di III RXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-063",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a074",
@@ -1275,9 +1401,11 @@
     "name": "70-180mm F2.8 Di III VXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 70-180mm F2.8 Di III VXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-064",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a047",
@@ -1285,9 +1413,11 @@
     "name": "70-300mm F4.5-6.3 Di III RXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 70-300mm F4.5-6.3 Di III RXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-065",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a065",
@@ -1295,9 +1425,11 @@
     "name": "70-180mm F2.8 Di III VC VXD G2",
     "searchedAt": "2026-09-22",
     "query": "腾龙 70-180mm F2.8 Di III VC VXD G2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-066",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a067",
@@ -1325,9 +1457,11 @@
     "name": "50-300mm F4.5-6.3 Di III VC VXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 50-300mm F4.5-6.3 Di III VC VXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-067",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-a058",
@@ -1335,9 +1469,11 @@
     "name": "35-150mm F2-2.8 Di III VXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 35-150mm F2-2.8 Di III VXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-068",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-f051",
@@ -1345,9 +1481,11 @@
     "name": "24mm F2.8 Di III OSD M1:2",
     "searchedAt": "2026-09-22",
     "query": "腾龙 24mm F2.8 Di III OSD M1:2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-069",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-f050",
@@ -1355,9 +1493,11 @@
     "name": "20mm F2.8 Di III OSD M1:2",
     "searchedAt": "2026-09-22",
     "query": "腾龙 20mm F2.8 Di III OSD M1:2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-070",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-f053",
@@ -1365,9 +1505,11 @@
     "name": "35mm F2.8 Di III OSD M1:2",
     "searchedAt": "2026-09-22",
     "query": "腾龙 35mm F2.8 Di III OSD M1:2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-071",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "tamron-f072",
@@ -1375,9 +1517,11 @@
     "name": "90mm F2.8 Di III MACRO VXD",
     "searchedAt": "2026-09-22",
     "query": "腾龙 90mm F2.8 Di III MACRO VXD 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-072",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-af-26mm-f2-8-fe",
@@ -1385,9 +1529,11 @@
     "name": "AF 26mm F2.8 EVO",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 26mm F2.8 EVO 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-113",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-af-35mm-f1-8-fe",
@@ -1415,9 +1561,11 @@
     "name": "AF 85mm F2.0 EVO",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 85mm F2.0 EVO 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-114",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-af-50mm-f1-4-fe",
@@ -1435,9 +1583,11 @@
     "name": "AF 14mm F4.0 Air",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 14mm F4.0 Air 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-115",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-af-85mm-f1-4-fe",
@@ -1445,9 +1595,11 @@
     "name": "AF 85mm F1.4 Pro",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 85mm F1.4 Pro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-116",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-af-35mm-f1-2-fe",
@@ -1457,7 +1609,9 @@
     "query": "唯卓仕 AF 35mm F1.2 LAB 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内报价为 LAB N 无屏版，数据库为 LAB 版本，不能直接混用。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "viltrox-af-50mm-f2-fe",
@@ -1465,9 +1619,11 @@
     "name": "AF 50mm F2.0 Air",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 50mm F2.0 Air 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-118",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-af-135mm-f1-8-lab-fe",
@@ -1475,9 +1631,11 @@
     "name": "AF 135mm F1.8 LAB",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 135mm F1.8 LAB 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-119",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-28mm-f4-5-fe",
@@ -1485,9 +1643,11 @@
     "name": "AF 28mm F4.5",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 28mm F4.5 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-120",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-af-40mm-f2-5-full-frame-lens-for-sony-fe-mount",
@@ -1495,9 +1655,11 @@
     "name": "AF 40mm F2.5 Air",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 40mm F2.5 Air 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-121",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-viltrox-af-28mm-f1-8-full-frame-lens-for-sony-e-mount",
@@ -1505,9 +1667,11 @@
     "name": "AF 28mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 28mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-122",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-viltrox-af-20mm-f2-8",
@@ -1515,9 +1679,11 @@
     "name": "AF 20mm F2.8 Air",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 20mm F2.8 Air 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-123",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-viltrox-af-16mm-f1-8-fe",
@@ -1525,9 +1691,11 @@
     "name": "AF 16mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 16mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-124",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-viltrox-85mm-f18-e-mount-sony-markii",
@@ -1535,9 +1703,11 @@
     "name": "AF 85mm F1.8 II",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 AF 85mm F1.8 II 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-125",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "viltrox-viltrox-20mm-f-1-8-wide-angle-full-frame-manual-focus-prime-lens-for-sony-e-mount",
@@ -1545,9 +1715,11 @@
     "name": "MF 20mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "唯卓仕 MF 20mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-126",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-rokinon-60-180mm-f2-8-af-zoom-lens-sony-fe-mount",
@@ -1555,9 +1727,11 @@
     "name": "AF 60-180mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 60-180mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-086",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-24-60mm-f2-8-af-standard-zoom-lens-sony-e",
@@ -1565,9 +1739,11 @@
     "name": "AF 24-60mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 24-60mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-087",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-af-85mm-f1-8-p-fe",
@@ -1575,9 +1751,11 @@
     "name": "AF 85mm F1.8 Prima",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 85mm F1.8 Prima 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-088",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-af-16mm-f2-8-p-fe",
@@ -1585,9 +1763,11 @@
     "name": "AF 16mm F2.8 Prima",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 16mm F2.8 Prima 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-089",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-af-14-24mm-f2-8-af-wide-angle-zoom-lens-sony-e",
@@ -1605,9 +1785,11 @@
     "name": "AF 35mm F1.4 Prima",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 35mm F1.4 Prima 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-090",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-35-150mm-f2-2-8-af-full-frame-zoom-lens",
@@ -1615,9 +1797,11 @@
     "name": "AF 35-150mm F2-2.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 35-150mm F2-2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-091",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-85mm-f1-4-af-series-ii-full-frame-telephoto-sony-e",
@@ -1625,9 +1809,11 @@
     "name": "AF 85mm F1.4 II",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 85mm F1.4 II 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-092",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-35mm-f1-4-af-series-ii-full-frame-wide-angle-sony-e",
@@ -1637,7 +1823,9 @@
     "query": "森养 AF 35mm F1.4 II 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "samyang-135mm-f1-8-af-full-frame-telephoto-sony-e",
@@ -1645,9 +1833,11 @@
     "name": "AF 135mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 135mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-094",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-50mm-f1-4-af-series-ii-full-frame-sony-e",
@@ -1655,9 +1845,11 @@
     "name": "AF 50mm F1.4 II",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 50mm F1.4 II 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-095",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-24-70mm-f2-8-af-full-frame-zoom-lens-sony-e",
@@ -1675,9 +1867,11 @@
     "name": "AF 24mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 24mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-096",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-14mm-f2-8-wide-angle-sony-e-mount",
@@ -1685,9 +1879,11 @@
     "name": "AF 14mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 14mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-097",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-35mm-f1-4-wide-angle-sony-e-mount",
@@ -1697,7 +1893,9 @@
     "query": "森养 AF 35mm F1.4 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "samyang-12mm-f2-8-full-frame-fisheye",
@@ -1705,9 +1903,11 @@
     "name": "MF 12mm F2.8 Fisheye",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 12mm F2.8 Fisheye 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-099",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-14mm-f2-8-full-frame-ultra-wide-angle",
@@ -1715,9 +1915,11 @@
     "name": "MF 14mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 14mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-100",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-35mm-f1-4-full-frame-wide-angle",
@@ -1725,9 +1927,11 @@
     "name": "MF 35mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 35mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-101",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-50mm-f1-4-full-frame-high-speed",
@@ -1735,9 +1939,11 @@
     "name": "MF 50mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 50mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-102",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-85mm-f1-4-full-frame",
@@ -1745,9 +1951,11 @@
     "name": "MF 85mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 85mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-103",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-100mm-f2-8-full-frame-macro",
@@ -1755,9 +1963,11 @@
     "name": "MF 100mm F2.8 Macro",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 100mm F2.8 Macro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-104",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-135mm-f2-0-full-frame-telephoto",
@@ -1765,9 +1975,11 @@
     "name": "MF 135mm F2.0",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 135mm F2.0 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-105",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-18mm-f2-8-af-compact-full-frame-sony-e",
@@ -1775,9 +1987,11 @@
     "name": "AF 18mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 18mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-106",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-45mm-f1-8-af-compact-full-frame-sony-e",
@@ -1785,9 +1999,11 @@
     "name": "AF 45mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 45mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-107",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-85mm-f1-4-af-full-frame-telephoto-sony-e",
@@ -1797,7 +2013,9 @@
     "query": "森养 AF 85mm F1.4 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "samyang-75mm-f1-4-af-compact-full-frame-sony-e",
@@ -1805,9 +2023,11 @@
     "name": "AF 75mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 75mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-109",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-14mm-f2-8-series-ii-full-frame-ultra-wide-angle",
@@ -1815,9 +2035,11 @@
     "name": "MF 14mm F2.8 II",
     "searchedAt": "2026-09-22",
     "query": "森养 MF 14mm F2.8 II 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-110",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "samyang-85mm-f1-4-series-ii-high-speed-full-frame",
@@ -1827,7 +2049,9 @@
     "query": "森养 MF 85mm F1.4 II 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "原表无确定人民币数值（未找到、待确认或估算）。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "samyang-35mm-f1-8-af-compact-full-frame-wide-angle-sony-e",
@@ -1835,9 +2059,11 @@
     "name": "AF 35mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "森养 AF 35mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-112",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-ttartisan-af-85mm-f1-8-neo",
@@ -1845,9 +2071,11 @@
     "name": "AF 85mm F1.8 Neo",
     "searchedAt": "2026-09-22",
     "query": "铭匠 AF 85mm F1.8 Neo 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-177",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-ttartisan-af-50mm-f1-8-neo",
@@ -1855,9 +2083,11 @@
     "name": "AF 50mm F1.8 Neo",
     "searchedAt": "2026-09-22",
     "query": "铭匠 AF 50mm F1.8 Neo 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-178",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-af-40mm-f2",
@@ -1885,9 +2115,11 @@
     "name": "100mm F2.8 Macro",
     "searchedAt": "2026-09-22",
     "query": "铭匠 100mm F2.8 Macro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-179",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-500mm",
@@ -1895,9 +2127,11 @@
     "name": "500mm F6.3",
     "searchedAt": "2026-09-22",
     "query": "铭匠 500mm F6.3 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-180",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-ts100",
@@ -1905,9 +2139,11 @@
     "name": "100mm F2.8 Macro Tilt-Shift",
     "searchedAt": "2026-09-22",
     "query": "铭匠 100mm F2.8 Macro Tilt-Shift 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-181",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-tilt50mm",
@@ -1915,9 +2151,11 @@
     "name": "50mm F1.4 Tilt",
     "searchedAt": "2026-09-22",
     "query": "铭匠 50mm F1.4 Tilt 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-182",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-multi-mounts-50mm-f2-0",
@@ -1925,9 +2163,11 @@
     "name": "50mm F2.0",
     "searchedAt": "2026-09-22",
     "query": "铭匠 50mm F2.0 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-183",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-11mmf28",
@@ -1935,9 +2175,11 @@
     "name": "11mm F2.8 Fisheye",
     "searchedAt": "2026-09-22",
     "query": "铭匠 11mm F2.8 Fisheye 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-184",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-90mm-f1-25",
@@ -1945,9 +2187,11 @@
     "name": "90mm F1.25",
     "searchedAt": "2026-09-22",
     "query": "铭匠 90mm F1.25 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-185",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-ttartisan-21mm-f1-5",
@@ -1955,9 +2199,11 @@
     "name": "21mm F1.5",
     "searchedAt": "2026-09-22",
     "query": "铭匠 21mm F1.5 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-186",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-14mm-f2-8-asph",
@@ -1965,9 +2211,11 @@
     "name": "14mm F2.8 ASPH.",
     "searchedAt": "2026-09-22",
     "query": "铭匠 14mm F2.8 ASPH. 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-187",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "ttartisan-tilt-shift-17mm-f4-asph",
@@ -1975,9 +2223,11 @@
     "name": "Tilt-Shift 17mm F4 ASPH.",
     "searchedAt": "2026-09-22",
     "query": "铭匠 Tilt-Shift 17mm F4 ASPH. 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-188",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-af-10mm-f2-5-full-frame-lens-for-e-z-l",
@@ -1985,9 +2235,11 @@
     "name": "AF 10mm F2.5",
     "searchedAt": "2026-09-22",
     "query": "七工匠 AF 10mm F2.5 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-189",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-af-135mm-f1-8-full-frame-lens-for-e-z-l",
@@ -1995,9 +2247,11 @@
     "name": "AF 135mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "七工匠 AF 135mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-190",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-af-40mm-f2-5-full-frame-lens-for-e-z-l",
@@ -2015,9 +2269,11 @@
     "name": "AF 35mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "七工匠 AF 35mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-191",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-14mm-f-2-8-full-frame-wide-angle-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l",
@@ -2027,7 +2283,9 @@
     "query": "七工匠 MF 14mm F2.8 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "7artisans-75mm-f-1-4-full-frame-lens-for-sony-e-canon-eos-r-nikon-z-panasonic-l-lumix-s",
@@ -2035,9 +2293,11 @@
     "name": "MF 75mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "七工匠 MF 75mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-193",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-af-24mm-f1-8-full-frame-lens-for-e",
@@ -2045,9 +2305,11 @@
     "name": "AF 24mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "七工匠 AF 24mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-194",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-af-85mm-f1-8-full-frame-lens-for-l",
@@ -2055,9 +2317,11 @@
     "name": "AF 85mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "七工匠 AF 85mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-195",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-af-50mm-f1-8-full-frame-lens-for-l",
@@ -2075,9 +2339,11 @@
     "name": "MF 18mm F5.6",
     "searchedAt": "2026-09-22",
     "query": "七工匠 MF 18mm F5.6 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-196",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-10mm-f-2-8-ii-ultra-wide-angle-full-frame-fisheye-lens-for-e-l-r-z-1",
@@ -2085,9 +2351,11 @@
     "name": "MF 10mm F2.8 II Fisheye",
     "searchedAt": "2026-09-22",
     "query": "七工匠 MF 10mm F2.8 II Fisheye 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-197",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-60mm-f-2-8-full-frame-2x-ultra-macro-lens-for-e-rf-z",
@@ -2095,9 +2363,11 @@
     "name": "MF 60mm F2.8 Macro",
     "searchedAt": "2026-09-22",
     "query": "七工匠 MF 60mm F2.8 Macro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-198",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-35mm-f-1-4-full-frame-lens-for-e-eos-r-z-l",
@@ -2107,7 +2377,9 @@
     "query": "七工匠 MF 35mm F1.4 III 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "7artisans-9mm-f-5-6-full-frame-wide-angle-lens-for-e-l-r-z",
@@ -2115,9 +2387,11 @@
     "name": "MF 9mm F5.6",
     "searchedAt": "2026-09-22",
     "query": "七工匠 MF 9mm F5.6 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-200",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-7artisans-10mm-f2-8-full-frame-fisheye-lens-for-e-l-r-z-mount",
@@ -2125,9 +2399,11 @@
     "name": "MF 10mm F2.8 Fisheye",
     "searchedAt": "2026-09-22",
     "query": "七工匠 MF 10mm F2.8 Fisheye 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-201",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "7artisans-35mm-f5-6",
@@ -2135,9 +2411,11 @@
     "name": "MF 35mm F5.6",
     "searchedAt": "2026-09-22",
     "query": "七工匠 MF 35mm F5.6 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-202",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "sirui-sirui-aurora-series-35mm-f1-4-full-frame-autofocus-lens",
@@ -2155,9 +2433,11 @@
     "name": "AF 85mm F1.4 AURORA",
     "searchedAt": "2026-09-22",
     "query": "思锐 AF 85mm F1.4 AURORA 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-208",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-heliar-hyper-wide-10mm-f5-6-aspherical",
@@ -2165,9 +2445,11 @@
     "name": "HELIAR-HYPER WIDE 10mm F5.6 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 HELIAR-HYPER WIDE 10mm F5.6 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-161",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-super-wide-heliar-15mm-f4-5-aspherical-iii",
@@ -2175,9 +2457,11 @@
     "name": "SUPER WIDE-HELIAR 15mm F4.5 Aspherical III",
     "searchedAt": "2026-09-22",
     "query": "福伦达 SUPER WIDE-HELIAR 15mm F4.5 Aspherical III 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-162",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-nokton-21mm-f1-4-aspherical",
@@ -2187,7 +2471,9 @@
     "query": "福伦达 NOKTON 21mm F1.4 Aspherical 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "voigtlander-nokton-classic-35mm-f1-4",
@@ -2195,9 +2481,11 @@
     "name": "NOKTON classic 35mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "福伦达 NOKTON classic 35mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-164",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-apo-lanthar-28mm-f2-aspherical",
@@ -2205,9 +2493,11 @@
     "name": "APO-LANTHAR 28mm F2 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 APO-LANTHAR 28mm F2 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-165",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-apo-lanthar-35mm-f2-aspherical",
@@ -2215,9 +2505,11 @@
     "name": "APO-LANTHAR 35mm F2 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 APO-LANTHAR 35mm F2 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-166",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-nokton-40mm-f1-2-aspherical",
@@ -2227,7 +2519,9 @@
     "query": "福伦达 NOKTON 40mm F1.2 Aspherical 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "voigtlander-septon-40mm-f2-aspherical",
@@ -2235,9 +2529,11 @@
     "name": "SEPTON 40mm F2 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 SEPTON 40mm F2 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-168",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-aspherical",
@@ -2247,7 +2543,9 @@
     "query": "福伦达 NOKTON 50mm F1 Aspherical 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "voigtlander-nokton-50mm-f1-2-aspherical",
@@ -2255,9 +2553,11 @@
     "name": "NOKTON 50mm F1.2 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 NOKTON 50mm F1.2 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-170",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-apo-lanthar-50mm-f2-aspherical",
@@ -2265,9 +2565,11 @@
     "name": "APO-LANTHAR 50mm F2 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 APO-LANTHAR 50mm F2 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-171",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-macro-apo-lanthar-65mm-f2-aspherical",
@@ -2275,9 +2577,11 @@
     "name": "MACRO APO-LANTHAR 65mm F2 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 MACRO APO-LANTHAR 65mm F2 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-172",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-portrait-heliar-75mm-f1-8",
@@ -2285,9 +2589,11 @@
     "name": "PORTRAIT HELIAR 75mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "福伦达 PORTRAIT HELIAR 75mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-173",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-nokton-75mm-f1-5-aspherical",
@@ -2295,9 +2601,11 @@
     "name": "NOKTON 75mm F1.5 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 NOKTON 75mm F1.5 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-174",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-macro-apo-lanthar-110mm-f2-5",
@@ -2305,9 +2613,11 @@
     "name": "MACRO APO-LANTHAR 110mm F2.5",
     "searchedAt": "2026-09-22",
     "query": "福伦达 MACRO APO-LANTHAR 110mm F2.5 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-175",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "voigtlander-nokton-28mm-f1-5-aspherical",
@@ -2315,9 +2625,11 @@
     "name": "NOKTON 28mm F1.5 Aspherical",
     "searchedAt": "2026-09-22",
     "query": "福伦达 NOKTON 28mm F1.5 Aspherical 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-176",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-batis-18",
@@ -2325,9 +2637,11 @@
     "name": "Batis 18mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Batis 18mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-073",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-batis-25",
@@ -2335,9 +2649,11 @@
     "name": "Batis 25mm F2",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Batis 25mm F2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-074",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-batis-40",
@@ -2345,9 +2661,11 @@
     "name": "Batis 40mm F2 CF",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Batis 40mm F2 CF 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-075",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-batis-85",
@@ -2355,9 +2673,11 @@
     "name": "Batis 85mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Batis 85mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-076",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-batis-135",
@@ -2365,9 +2685,11 @@
     "name": "Batis 135mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Batis 135mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-077",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-loxia-25",
@@ -2375,9 +2697,11 @@
     "name": "Loxia 25mm F2.4",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Loxia 25mm F2.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-078",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-loxia-35",
@@ -2385,9 +2709,11 @@
     "name": "Loxia 35mm F2",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Loxia 35mm F2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-079",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-loxia-50",
@@ -2395,9 +2721,11 @@
     "name": "Loxia 50mm F2",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Loxia 50mm F2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-080",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-loxia-85",
@@ -2405,9 +2733,11 @@
     "name": "Loxia 85mm F2.4",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Loxia 85mm F2.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-081",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-loxia-21",
@@ -2415,9 +2745,11 @@
     "name": "Loxia 21mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Loxia 21mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-082",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-otus-ml-35",
@@ -2425,9 +2757,11 @@
     "name": "Otus ML 35mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Otus ML 35mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-083",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-otus-ml-50",
@@ -2435,9 +2769,11 @@
     "name": "Otus ML 50mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Otus ML 50mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-084",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "zeiss-otus-ml-85",
@@ -2445,9 +2781,11 @@
     "name": "Otus ML 85mm F1.4",
     "searchedAt": "2026-09-22",
     "query": "蔡司 Otus ML 85mm F1.4 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-085",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-10-18mm-f-4-5-5-6-zoom-lens-sony-fe",
@@ -2455,9 +2793,11 @@
     "name": "10-18mm F4.5-5.6 Zoom Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 10-18mm F4.5-5.6 Zoom Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-127",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-100mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe",
@@ -2465,9 +2805,11 @@
     "name": "100mm F2.8 2X Ultra-Macro APO Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 100mm F2.8 2X Ultra-Macro APO Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-128",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-100mm-f-2-8-tilt-shift-1x-macro-sony-fe",
@@ -2475,9 +2817,11 @@
     "name": "100mm F2.8 Tilt-Shift 1X Macro",
     "searchedAt": "2026-09-22",
     "query": "老蛙 100mm F2.8 Tilt-Shift 1X Macro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-129",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-10mm-f-2-8-zero-d-ff-auto-focus-lens-sony-fe",
@@ -2485,9 +2829,11 @@
     "name": "10mm F2.8 Zero-D FF Auto Focus Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 10mm F2.8 Zero-D FF Auto Focus Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-130",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-11mm-f-4-5-ff-rl-lens-sony-fe",
@@ -2495,9 +2841,11 @@
     "name": "11mm F4.5 FF RL Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 11mm F4.5 FF RL Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-131",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-12-24mm-f-5-6-zoom-sony-fe",
@@ -2505,9 +2853,11 @@
     "name": "12-24mm F5.6 Zoom",
     "searchedAt": "2026-09-22",
     "query": "老蛙 12-24mm F5.6 Zoom 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-132",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-12mm-f-2-8-lite-zero-d-ff-auto-focus-lens-sony-fe",
@@ -2515,9 +2865,11 @@
     "name": "12mm F2.8 Lite Zero-D FF Auto Focus Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 12mm F2.8 Lite Zero-D FF Auto Focus Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-133",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-12mm-f-2-8-zero-d-lens-sony-fe",
@@ -2525,9 +2877,11 @@
     "name": "12mm F2.8 Zero-D Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 12mm F2.8 Zero-D Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-134",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-14mm-f-4-ff-rl-zero-d-lens-sony-fe",
@@ -2535,9 +2889,11 @@
     "name": "14mm F4 FF RL Zero-D Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 14mm F4 FF RL Zero-D Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-135",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-15mm-f-2-zero-d-lens-sony-fe",
@@ -2545,9 +2901,11 @@
     "name": "15mm F2 Zero-D Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 15mm F2 Zero-D Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-136",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-15mm-f-4-1x-macro-groothoek-sony-fe",
@@ -2555,9 +2913,11 @@
     "name": "15mm F4 1X Macro groothoek",
     "searchedAt": "2026-09-22",
     "query": "老蛙 15mm F4 1X Macro groothoek 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-137",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-15mm-f-4-5-0-5x-macro-groothoek-sony-fe-auto-aperture",
@@ -2565,9 +2925,11 @@
     "name": "15mm F4.5 0.5X Macro Groothoek",
     "searchedAt": "2026-09-22",
     "query": "老蛙 15mm F4.5 0.5X Macro Groothoek 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-138",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-15mm-f-4-5-zero-d-shift-lens-sony-fe",
@@ -2575,9 +2937,11 @@
     "name": "15mm F4.5 Zero-D Shift Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 15mm F4.5 Zero-D Shift Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-139",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-15mm-f-4-5r-zero-d-shift-lens-sony-fe",
@@ -2585,9 +2949,11 @@
     "name": "15mm F4.5R Zero-D Shift Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 15mm F4.5R Zero-D Shift Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-140",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-15mm-f-5-cookie-ff-sony-fe-zilver",
@@ -2595,9 +2961,11 @@
     "name": "15mm F5 Cookie FF",
     "searchedAt": "2026-09-22",
     "query": "老蛙 15mm F5 Cookie FF 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-141",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-17mm-f-4-zero-d-shift-sony-fe",
@@ -2605,9 +2973,11 @@
     "name": "17mm F4 Zero-D Shift",
     "searchedAt": "2026-09-22",
     "query": "老蛙 17mm F4 Zero-D Shift 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-142",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-180mm-f-4-5-1-5x-ultra-macro-apo-auto-focus-lens-sony-fe",
@@ -2615,9 +2985,11 @@
     "name": "180mm F4.5 1.5x Ultra Macro APO Auto Focus lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 180mm F4.5 1.5x Ultra Macro APO Auto Focus lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-143",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-200mm-f-2-af-ff-sony-fe",
@@ -2625,9 +2997,11 @@
     "name": "200mm F2 AF FF",
     "searchedAt": "2026-09-22",
     "query": "老蛙 200mm F2 AF FF 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-144",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-20mm-f-4-zero-d-shift-lens-sony-fe",
@@ -2635,9 +3009,11 @@
     "name": "20mm F4 Zero-D Shift Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 20mm F4 Zero-D Shift Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-145",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-24mm-f-14-2x-macro-probe-lens-std-sony-fe",
@@ -2645,9 +3021,11 @@
     "name": "24mm F14 2X Macro Probe Lens (STD)",
     "searchedAt": "2026-09-22",
     "query": "老蛙 24mm F14 2X Macro Probe Lens (STD) 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-146",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-25mm-f-2-8-2-5-5x-ultra-macro-lens-sony-fe",
@@ -2655,9 +3033,11 @@
     "name": "25mm F2.8 2.5-5X Ultra-Macro Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 25mm F2.8 2.5-5X Ultra-Macro Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-147",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-35mm-f-2-8-zero-d-tilt-shift-0-5x-macro-sony-fe",
@@ -2665,9 +3045,11 @@
     "name": "35mm F2.8 Zero-D Tilt-Shift 0.5X Macro",
     "searchedAt": "2026-09-22",
     "query": "老蛙 35mm F2.8 Zero-D Tilt-Shift 0.5X Macro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-148",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-55mm-f-2-8-tilt-shift-1x-macro-sony-fe",
@@ -2675,9 +3057,11 @@
     "name": "55mm F2.8 Tilt-Shift 1X Macro",
     "searchedAt": "2026-09-22",
     "query": "老蛙 55mm F2.8 Tilt-Shift 1X Macro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-149",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-58mm-f-2-8-2x-ultra-macro-apo-sony-fe",
@@ -2685,9 +3069,11 @@
     "name": "58mm F2.8 2X Ultra Macro APO",
     "searchedAt": "2026-09-22",
     "query": "老蛙 58mm F2.8 2X Ultra Macro APO 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-150",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-8-15mm-f-2-8-ff-zoom-fisheye-sony-fe",
@@ -2695,9 +3081,11 @@
     "name": "8-15mm F2.8 FF Zoom Fisheye",
     "searchedAt": "2026-09-22",
     "query": "老蛙 8-15mm F2.8 FF Zoom Fisheye 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-151",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-85mm-f-5-6-2x-ultra-macro-apo-lens-sony-fe",
@@ -2705,9 +3093,11 @@
     "name": "85mm F5.6 2X Ultra-Macro APO Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 85mm F5.6 2X Ultra-Macro APO Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-152",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-90mm-f-2-8-2x-ultra-macro-apo-lens-sony-fe",
@@ -2715,9 +3105,11 @@
     "name": "90mm F2.8 2X Ultra-Macro APO Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 90mm F2.8 2X Ultra-Macro APO Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-153",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-9mm-f-5-6-ff-rl-lens-sony-fe",
@@ -2725,9 +3117,11 @@
     "name": "9mm F5.6 FF RL Lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 9mm F5.6 FF RL Lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-154",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-aksen-45mm-f-2-8-1-5x-ultra-macro-apo-sony-fe",
@@ -2735,9 +3129,11 @@
     "name": "Aksen 45mm F2.8 1-5X Ultra Macro APO",
     "searchedAt": "2026-09-22",
     "query": "老蛙 Aksen 45mm F2.8 1-5X Ultra Macro APO 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-155",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-argus-28mm-f-1-2-ff-lens-sony-fe",
@@ -2745,9 +3141,11 @@
     "name": "Argus 28mm F1.2 FF lens",
     "searchedAt": "2026-09-22",
     "query": "老蛙 Argus 28mm F1.2 FF lens 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-156",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-argus-35mm-f-0-95-ff-sony-fe",
@@ -2755,9 +3153,11 @@
     "name": "Argus 35mm F0.95 FF",
     "searchedAt": "2026-09-22",
     "query": "老蛙 Argus 35mm F0.95 FF 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-157",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-argus-45mm-f-0-95-ff-sony-fe",
@@ -2765,9 +3165,11 @@
     "name": "Argus 45mm F0.95 FF",
     "searchedAt": "2026-09-22",
     "query": "老蛙 Argus 45mm F0.95 FF 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-158",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-17mm-f4-zero-d-tilt-shift-sony-fe",
@@ -2775,9 +3177,11 @@
     "name": "17mm F4 Zero-D Tilt-Shift",
     "searchedAt": "2026-09-22",
     "query": "老蛙 17mm F4 Zero-D Tilt-Shift 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-159",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "laowa-aksen-17-5mm-f1-7-5-10x-ultra-macro-apo-sony-fe",
@@ -2785,9 +3189,11 @@
     "name": "Aksen 17.5mm F1.7 5-10X Ultra Macro APO",
     "searchedAt": "2026-09-22",
     "query": "老蛙 Aksen 17.5mm F1.7 5-10X Ultra Macro APO 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-160",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "yongnuo-yn35mm-f2s-df-dsm",
@@ -2795,9 +3201,11 @@
     "name": "FE 35mm F2 S DF DSM",
     "searchedAt": "2026-09-22",
     "query": "永诺 FE 35mm F2 S DF DSM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-203",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "yongnuo-yn50mm-f1-8s-df-dsm",
@@ -2805,9 +3213,11 @@
     "name": "FE 50mm F1.8 S DF DSM",
     "searchedAt": "2026-09-22",
     "query": "永诺 FE 50mm F1.8 S DF DSM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-204",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "yongnuo-85f1-8s-df-dsm",
@@ -2825,9 +3235,11 @@
     "name": "FE 50mm F1.8 II Lite",
     "searchedAt": "2026-09-22",
     "query": "永诺 FE 50mm F1.8 II Lite 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-205",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "yongnuo-yn85mm-f1-8s-df-dsm",
@@ -2835,9 +3247,11 @@
     "name": "FE 85mm F1.8 S DF DSM（原版）",
     "searchedAt": "2026-09-22",
     "query": "永诺 FE 85mm F1.8 S DF DSM（原版） 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-206",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "yongnuo-yn18mm-f2-8s-df-vcm",
@@ -2845,9 +3259,11 @@
     "name": "FE 18mm F2.8 S DF VCM",
     "searchedAt": "2026-09-22",
     "query": "永诺 FE 18mm F2.8 S DF VCM 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-207",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-8514iie",
@@ -2855,9 +3271,11 @@
     "name": "AF 85mm F1.4 II",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 85mm F1.4 II 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-209",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-8518ii-se-e-mount",
@@ -2875,9 +3293,11 @@
     "name": "AF 24mm F1.4 MIX",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 24mm F1.4 MIX 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-210",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-3520e",
@@ -2885,9 +3305,11 @@
     "name": "AF 35mm F2",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 35mm F2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-211",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-3518proe",
@@ -2895,9 +3317,11 @@
     "name": "AF 35mm F1.8 Pro",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 35mm F1.8 Pro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-212",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-8518proe",
@@ -2905,9 +3329,11 @@
     "name": "AF 85mm F1.8 Pro",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 85mm F1.8 Pro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-213",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-5518e",
@@ -2915,9 +3341,11 @@
     "name": "AF 55mm F1.8 Pro",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 55mm F1.8 Pro 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-214",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-meike-85mm-f1-4-auto-focus-lens",
@@ -2925,9 +3353,11 @@
     "name": "AF 85mm F1.4 MIX",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 85mm F1.4 MIX 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-215",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-85mm-f1-8-full-frame-auto-focus-stm-lens-for-sony-e-mount-cameras",
@@ -2935,9 +3365,11 @@
     "name": "AF 85mm F1.8",
     "searchedAt": "2026-09-22",
     "query": "美科 AF 85mm F1.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-216",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-50mm-large-aperture-lens",
@@ -2945,9 +3377,11 @@
     "name": "MF 50mm F1.2",
     "searchedAt": "2026-09-22",
     "query": "美科 MF 50mm F1.2 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-217",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "meike-meike-mk-50mm-f1-7-full-frame-wedding-photography",
@@ -2955,9 +3389,11 @@
     "name": "MF 50mm F1.7",
     "searchedAt": "2026-09-22",
     "query": "美科 MF 50mm F1.7 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-218",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "thypoch-voyager-24-50mm-f2-8-sony-e",
@@ -2965,9 +3401,11 @@
     "name": "Voyager 24-50mm F2.8",
     "searchedAt": "2026-09-22",
     "query": "Thypoch Voyager 24-50mm F2.8 索尼E 京东 淘宝 价格",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-219",
+    "reason": "按用户表格录入参考值；未独立核验来源网页、商家主体、卡口选项或价格时效。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "imported-user-reference"
   },
   {
     "id": "thypoch-simera-28mm-f1-4-sony-e",
@@ -2977,7 +3415,9 @@
     "query": "Thypoch Simera 28mm F1.4 ASPH. 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   },
   {
     "id": "thypoch-simera-35mm-f1-4-sony-e",
@@ -2987,6 +3427,8 @@
     "query": "Thypoch Simera 35mm F1.4 ASPH. 索尼E 京东 淘宝 价格",
     "status": "unresolved",
     "sourceUrl": null,
-    "reason": "完成检索，尚未确认同型号、同代际、Sony E 版本的新镜头人民币公开商家报价；不填推测值。"
+    "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
+    "submissionReviewedAt": "2026-09-22",
+    "submissionStatus": "pending"
   }
 ]

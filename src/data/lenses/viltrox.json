@@ -30,7 +30,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1399,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 113 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-113",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东唯卓仕官方旗舰店 / 淘宝玖贰贰数码专营店。原表备注：2026年7月发布官方定价1399元；FE/Z卡口通用；全新裸镜行货。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -231,7 +242,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1399,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 114 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-114",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东自营/唯卓仕。原表备注：京东自营面价约1399元；识货全网区间1240-1380元；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -330,7 +352,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 989,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 115 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-115",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东唯卓仕官方旗舰店。原表备注：京东面价989元；识货全网920-960元；Air系列170g；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -374,7 +407,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 116 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-116",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：天猫唯卓仕旗舰店。原表备注：官方定价3299元；天猫旗舰店活动价约3223元；Pro系列HyperVCM马达；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -462,7 +506,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 118 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-118",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东唯卓仕官方旗舰店。原表备注：京东面价999元（领券989）；天猫旗舰店约976元；Air系列205g；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -506,7 +561,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5499,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 119 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-119",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东自营旗舰店 / 天猫唯卓仕旗舰店。原表备注：官方定价5499元（首发4999）；京东面价5159元（满减后约4659）；天猫旗舰店约5103元；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -550,7 +616,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 449,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 120 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-120",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东唯卓仕官方旗舰店。原表备注：京东面价449元（领券439）；黑色449/白色469；60g薯片镜头；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -594,7 +671,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 799,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 121 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-121",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东唯卓仕官方旗舰店。原表备注：京东面价799元（活动789）；Air系列167g；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -638,7 +726,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 122 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-122",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝唯卓仕未来影像专卖店。原表备注：淘宝店标价2299元；海外MSRP $379；全画幅F1.8；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -682,7 +781,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 899,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 123 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-123",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东唯卓仕官方旗舰店。原表备注：官方定价899元；天猫旗舰店约876元；Air系列；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -726,7 +836,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3499,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 124 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-124",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：天猫唯卓仕旗舰店。原表备注：官方参考价3499元；天猫活动价约3139元；海外MSRP $580；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -770,7 +891,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2199,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 125 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-125",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东唯卓仕官方旗舰店。原表备注：ZOL参考价2199元；京东活动价约1699元；STM马达；第二代；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",
@@ -825,7 +957,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1710,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 126 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-126",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东。原表备注：京东面价约1710元；识货全网1640-1720元；手动对焦PFU RBMH系列；全新裸镜。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VILTROX 官方产品规格",

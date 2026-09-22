@@ -28,7 +28,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 7190,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 161 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-161",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（E卡口行货全新）。原表备注：全新E口行货¥7190；B&H $749（全新$1099）；超广角。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -76,7 +87,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 6480,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 162 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-162",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（E卡口三代）。原表备注：全新E口三代¥6480；另有老款Z/VM/E口约¥4300。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -172,7 +194,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3180,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 164 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-164",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（E/Z/RF卡口）。原表备注：全新E口约¥3180；B&H $599（全新$799）；官网749欧元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -219,7 +252,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4750,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 165 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-165",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（E卡口）。原表备注：全新E口约¥4750；B&H $1149。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -271,7 +315,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4750,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 166 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-166",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝。原表备注：全新约¥4750；双A设计。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -365,7 +420,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3150,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 168 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-168",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝。原表备注：全新约¥3150；B&H $699；2026年2月新品，饼干头。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -464,7 +530,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 7270,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 170 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-170",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（E卡口行货）。原表备注：全新E口行货¥7270（含税票）；官网999欧元；B&H $799。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -511,7 +588,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 6680,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 171 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-171",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（E卡口行货）。原表备注：全新E口行货¥6680；另有M/E/Z口并行约¥4280。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -558,7 +646,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": true,
-    "price": null,
+    "price": {
+      "amount": 6650,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 172 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-172",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：ZOL参考价（索尼E卡口）。原表备注：参考价¥6650；E口行货；B&H未查到国内现货价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -605,7 +704,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5005,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 173 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-173",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：上海焦点相机行（淘宝）。原表备注：全新E口约¥5005（Z/RF/E卡口）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -657,7 +767,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4805,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 174 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-174",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：上海焦点相机行（淘宝）。原表备注：全新E口约¥4805（Z/E/RF/VM卡口）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -709,7 +830,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": true,
-    "price": null,
+    "price": {
+      "amount": 8350,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 175 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-175",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（E卡口）。原表备注：全新E口¥8350；ZOL参考价¥8780；B&H $849。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",
@@ -756,7 +888,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4500,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 176 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-176",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝（索尼E卡口）。原表备注：全新E口¥4500。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "VOIGTLANDER 官方产品规格",

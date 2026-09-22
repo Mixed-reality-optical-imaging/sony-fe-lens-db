@@ -30,7 +30,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5899,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 086 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-086",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：SAMYANG森养镜头旗舰店(京东)。原表备注：京东旗舰店面价；慢慢买6月记录5899元；抖音实拍约5700元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -76,7 +87,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4249,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 087 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-087",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：淘宝在售裸镜；官方指导价约4199元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -120,7 +142,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2359,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 088 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-088",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Prima系列P版；淘宝列表页在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -165,7 +198,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2129,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 089 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-089",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Prima系列P版；淘宝列表页在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -266,7 +310,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3499,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 090 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-090",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Prima系列P版(SYIO35SE3-E)；标注\"AF35mmF1.4p二代\"。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -311,7 +366,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5849,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 091 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-091",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：淘宝在售；1688批发价约5659-6259元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -355,7 +421,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 092 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-092",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：FE II二代(SYIO85SE2-E)；淘宝列表页在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -446,7 +523,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4899,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 094 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-094",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：淘宝新品促销价；已售100以内件。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -488,7 +576,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2559,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 095 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-095",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：FE II二代(SYIO5014-E II)；淘宝在售裸镜；另上海中联数码报价2899元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -592,7 +691,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2700,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 096 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-096",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Compact系列；淘宝在售价；另一店报价3007元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -636,7 +746,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 097 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-097",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：AF初代(SYIO14AF-E)；淘宝在售价；ZOL参考报价2175元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -727,7 +848,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2349,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 099 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-099",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：全画幅鱼眼手动；ZOL参考价2699元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -773,7 +905,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1899,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 100 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-100",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：初代手动(SY14M-E)；淘宝在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -819,7 +962,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 101 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-101",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：手动全画幅定焦；淘宝在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -865,7 +1019,18 @@
     "releasePrecision": null,
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1550,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 102 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-102",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：手动全画幅标头；淘宝马来西亚站在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -917,7 +1082,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1880,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 103 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-103",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：初代手动人像头；淘宝在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -963,7 +1139,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": true,
-    "price": null,
+    "price": {
+      "amount": 1999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 104 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-104",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：手动微距；淘宝在售；B&H售价$499。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -1009,7 +1196,18 @@
     "releasePrecision": null,
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3990,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 105 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-105",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：手动长焦；淘宝列表页与AF 135 F1.8同链接在售。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -1061,7 +1259,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1799,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 106 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-106",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Compact系列超广角；淘宝列表页在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -1103,7 +1312,18 @@
     "releasePrecision": null,
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1599,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 107 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-107",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Compact系列；淘宝在售裸镜；另一店报价1939元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -1201,7 +1421,18 @@
     "releasePrecision": null,
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1858,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 109 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-109",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Compact系列人像头；淘宝在售价。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -1250,7 +1481,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2500,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 110 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-110",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：二代手动(MK14-E)；淘宝在售\"二代\"款；B&H售价$499。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",
@@ -1341,7 +1583,18 @@
     "releasePrecision": null,
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2449,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 112 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-112",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝森养镜头店。原表备注：Compact系列；淘宝活动价；B&H售价$349。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SAMYANG 官方产品规格",

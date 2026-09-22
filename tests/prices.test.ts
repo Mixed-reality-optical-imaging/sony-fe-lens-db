@@ -75,5 +75,37 @@ test("全库查询清单无重复，并覆盖本轮所有正式型号", () => {
       lens.price?.type === "retail",
     );
     assert.equal(row.status === "unresolved", !lens.price);
+    assert.equal(
+      row.status === "user-reported",
+      lens.price?.type === "submitted",
+    );
   }
+});
+
+test("用户价格逐行映射，暂缓项不填估值，来源不冒充商家核验", () => {
+  const rows = JSON.parse(
+    readFileSync("src/data/user-price-import.json", "utf8"),
+  );
+  assert.equal(rows.length, 221);
+  assert.equal(new Set(rows.map((r: { id: string }) => r.id)).size, 221);
+  for (const r of rows) {
+    const lens = lenses.find((l) => l.id === r.id)!;
+    assert.ok(lens);
+    if (r.status === "pending") assert.equal(lens.price, null);
+    else {
+      assert.equal(lens.price?.amount, Number(r.amountSubmitted));
+      assert.equal(lens.price?.type, "submitted");
+      assert.equal(priceLabel(lens.price), "用户提供参考价");
+      assert.ok(lens.price?.source.url.endsWith(`#row-${r.number}`));
+      assert.equal(
+        priceSchema.safeParse({ ...lens.price, conditions: undefined }).success,
+        false,
+      );
+    }
+  }
+  for (const n of ["018", "117", "163", "167", "220", "221"])
+    assert.equal(
+      rows.find((r: { number: string }) => r.number === n).status,
+      "pending",
+    );
 });

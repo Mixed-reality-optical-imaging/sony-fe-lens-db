@@ -28,7 +28,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5980,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 058 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-058",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：迪比特数码相机专营店（京东）。原表备注：全新国行裸镜；ZOL参考价¥5980，商家报价¥4940-5920；京东原自营已下柜，第三方在售。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A046",
@@ -70,7 +81,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 7190,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 059 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-059",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：腾龙炫飞（淘宝）。原表备注：全新国行裸镜；2025年7月上市，淘宝优惠价¥7190；日本希望小売価格159。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A064",
@@ -112,7 +134,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3749,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 060 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-060",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：光影捕手相机行（淘宝）。原表备注：全新国行裸镜；什么值得买常卖价¥3749，历史低价¥3329；淘宝第三方¥3370；美国促销价$599。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A068",
@@ -207,7 +240,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3799,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 061 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-061",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝商城（ZOL收录）。原表备注：全新国行裸镜；ZOL参考价¥5280，淘宝商城实际售价¥3799；香港售价HK$5。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A062",
@@ -249,7 +293,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 062 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-062",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：腾龙京东自营旗舰店。原表备注：全新国行裸镜；ZOL京东价¥5580，什么值得买实时低价¥4299；日常价约¥4299-5580。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A063",
@@ -291,7 +346,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5700,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 063 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-063",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：1688国行经销商。原表备注：全新国行裸镜；ZOL参考价¥5780，商家报价¥5722-6316；1688国行价¥5700；注意与A063二代区分。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A036",
@@ -446,7 +512,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 064 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-064",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：腾龙京东自营官方旗舰店。原表备注：全新国行裸镜；ZOL京东价¥6590，天猫¥7199；京东自营面价¥5999，PLUS会员实付约¥5549。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A056",
@@ -494,7 +571,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3590,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 065 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-065",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：腾龙京东自营。原表备注：全新国行裸镜；ZOL参考价¥3590；京东国际叠加优惠后约¥2019（跨境版）；国行全新约¥3590。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A047",
@@ -536,7 +624,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 6766,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 066 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-066",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东（国补后）。原表备注：全新国行裸镜；全国联保价¥8990，国补后约¥6766；美国促销价$999（原价$1099）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A065",
@@ -684,7 +783,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5830,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 067 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-067",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝国补经销商。原表备注：全新国行裸镜；首发价¥5890，国补后约¥5830；淘宝第三方现货¥3200（非国行/渠道货）；日本希望小売価格154。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A069",
@@ -726,7 +836,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 8690,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 068 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-068",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东/天猫授权店。原表备注：全新国行裸镜；什么值得买显示¥8690起；美国促销价$1599（原价$1699）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A058",
@@ -768,7 +889,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1867,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 069 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-069",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：腾龙京东自营旗舰店。原表备注：全新国行裸镜；京东自营旗舰店¥1867，促销低价¥1299；美国EDU价$299。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · F051",
@@ -808,7 +940,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 2280,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 070 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-070",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东（ZOL收录）。原表备注：全新国行裸镜；ZOL京东参考价¥2280；淘宝含发票价¥1210（渠道价/可能非全新国行）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · F050",
@@ -848,7 +991,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1699,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 071 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-071",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝官方授权店。原表备注：全新国行裸镜；淘宝活动价¥1699，官方授权¥1720。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · F053",
@@ -888,7 +1042,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": true,
-    "price": null,
+    "price": {
+      "amount": 5350,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 072 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-072",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝授权经销商。原表备注：全新国行裸镜；淘宝优惠价¥5350，新品现货第三方¥3550；美国$699；日本希望小売価格126。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "Tamron F072 官方规格",

@@ -18,14 +18,17 @@ export const priceSchema = z
   .object({
     amount: z.number().positive(),
     currency: z.literal("CNY"),
-    type: z.enum(["official", "launch", "retail"]),
+    type: z.enum(["official", "launch", "retail", "submitted"]),
     conditions: z.string().min(1).optional(),
     source: sourceSchema,
     collectedAt: date,
   })
   .superRefine((p, ctx) => {
-    if (p.type === "retail" && !p.conditions)
-      ctx.addIssue({ code: "custom", message: "商家页面价必须注明报价条件" });
+    if ((p.type === "retail" || p.type === "submitted") && !p.conditions)
+      ctx.addIssue({
+        code: "custom",
+        message: "商家及用户提供价格必须注明报价条件",
+      });
   });
 export const lensSchema = z
   .object({

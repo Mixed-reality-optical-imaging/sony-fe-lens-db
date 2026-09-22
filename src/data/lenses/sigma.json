@@ -79,7 +79,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 13479,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 019 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-019",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东（适马官方/授权）。原表备注：全新裸镜行货；对角线鱼眼；蜂鸟网2026-08报道国内售价13479元。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a024_15_14",
@@ -127,7 +138,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5694,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 020 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-020",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东（适马授权店/自营）。原表备注：全新裸镜行货；ZOL显示京东价5694（商品页面价5799）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a022_20_14",
@@ -536,7 +558,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 6999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 025 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-025",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：适马京东自营旗舰店。原表备注：全新裸镜行货；新一代DG II Art（非DG DN）；慢慢买显示京东自营面价6999（淘宝国行约6899）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a026_35_14",
@@ -782,7 +815,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5199,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 029 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-029",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：适马京东自营旗舰店。原表备注：全新裸镜行货；京东自营面价5199（国补后约4673）；淘宝约4550。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a023_50_14",
@@ -1166,7 +1210,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 20999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 031 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-031",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东自营（适马）。原表备注：全新裸镜行货；Sports系列带防抖；ZOL到手价20999（京东约2.1万/参考21999）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · s024_500_56",
@@ -1332,7 +1387,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5399,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 032 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-032",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东自营。原表备注：全新裸镜行货；2025-09发布Contemporary天涯镜；ZOL 2026-09-20报道直降后5399（原价5999）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · c025_20_200_35_63",
@@ -1380,7 +1446,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 8089,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 033 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-033",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：适马京东自营旗舰店。原表备注：全新裸镜行货；二代大三元；smzdm显示京东最低8089（太平洋参考8688，淘宝国行7999）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a024_24_70_28_ii",
@@ -2005,7 +2082,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": true,
-    "price": null,
+    "price": {
+      "amount": 3399,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 036 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-036",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东/适马授权店（库存）。原表备注：DG微距Art，库存/少量在售；ZOL到手价3399（参考报价3499）；全新裸镜行货。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a018_70_28",
@@ -2057,7 +2145,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 9399,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 037 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-037",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：适马京东自营旗舰店（京东自营）。原表备注：全新裸镜行货；与018为同一支镜头（DG/DG DN新旧命名），京东价9399（参考价9797）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2109,7 +2208,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4199,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 038 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-038",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝授权店（活动价约4099）。原表备注：全新裸镜国行；I系列超广定焦，2023年款。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2161,7 +2271,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4888,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 039 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-039",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东（SIGMA适马）。原表备注：全新裸镜国行；淘宝华奇天地/杭州云影约4499-4888。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2213,7 +2334,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 040 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-040",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：中关村在线参考价/天猫京东在售。原表备注：全新裸镜；ZOL参考价￥3999，实际成交以店铺为准。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2265,7 +2397,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3399,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 041 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-041",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：SIGMA适马官方旗舰店（天猫）。原表备注：全新裸镜国行；旗舰店标价3399（原5299），识货渠道约3160-3250。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2317,7 +2460,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 8199,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 042 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-042",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东（SIGMA适马）。原表备注：全新裸镜；注意已出二代35/1.2 DG II（约8999-9797），此为一代DG DN。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2369,7 +2523,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 043 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-043",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：中关村在线参考价/天猫在售。原表备注：全新裸镜；ZOL参考价￥3999（淘宝个别低价多为水货/二手，勿混）。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2421,7 +2586,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 044 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-044",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东在售（ZOL比价）。原表备注：全新裸镜；ZOL在售电商价￥4299。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2473,7 +2649,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4499,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 045 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-045",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：淘宝授权店（标价4499）。原表备注：全新裸镜国行；I系列标准定焦。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2588,7 +2775,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4299,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 046 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-046",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：太平洋电脑网/京东在售。原表备注：全新裸镜；PConline参考价￥4299。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2640,7 +2838,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 6999,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 047 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-047",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东/淘宝大店（一代库存）。原表备注：全新裸镜清仓价区间约6899-7399；注意二代DG DN II约7999，此为一代。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",
@@ -2958,7 +3167,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5680,
+      "currency": "CNY",
+      "type": "submitted",
+      "source": {
+        "title": "用户价格表 · 编号 053 · 原始来源与备注",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db/blob/main/docs/PRICE_IMPORT_USER_2026-09-22.md#row-053",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "用户提供，未经独立网页核验；日期为录入日，原表未提供统一查询日期。所报店铺（未核实）：京东/淘宝经销商（ZOL报价）。原表备注：老版；ZOL索尼E口报价￥5680-5799，勿与85/1.4 DG DN（约4599-6999）混淆。来源见用户价格表记录；不代表实时成交价或库存。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",

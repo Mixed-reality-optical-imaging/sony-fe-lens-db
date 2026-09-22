@@ -15,7 +15,7 @@ const date = all
   .sort()
   .at(-1);
 const escape = (s: string) => s.replace(/\|/g, "\\|").replace(/\n/g, " ");
-let md = `# 数据覆盖清单\n\n核验日期：${date}。本清单由 \`npm run data:report\` 从正式记录生成。\n\n共 **${all.length} 款、${brands.filter((b) => all.some((l) => l.brand === b.id)).length} 个品牌**，其中 ${all.filter((l) => l.verification === "verified").length} 款主要规格完整，${all.filter((l) => l.verification === "partial").length} 款信息不全，${all.filter((l) => l.price).length} 条可追溯人民币价格，${all.filter((l) => l.status === "discontinued").length} 款有明确停产依据。\n\n**此清单记录已核验范围，不代表市场全量。** 正式条目已确认原生 Sony E 卡口及全画幅身份；缺失字段仍显示暂无数据。\n\n| 品牌 | 已收录 | 主要规格完整 | 信息不全 | 待核验 | 排除 |\n|---|---:|---:|---:|---:|---:|\n`;
+let md = `# 数据覆盖清单\n\n核验日期：${date}。本清单由 \`npm run data:report\` 从正式记录生成。\n\n共 **${all.length} 款、${brands.filter((b) => all.some((l) => l.brand === b.id)).length} 个品牌**，其中 ${all.filter((l) => l.verification === "verified").length} 款主要规格完整，${all.filter((l) => l.verification === "partial").length} 款信息不全，${all.filter((l) => l.price).length} 条人民币参考价格（其中 ${all.filter((l) => l.price?.type === "submitted").length} 条为未经独立核验的用户提供值），${all.filter((l) => l.status === "discontinued").length} 款有明确停产依据。\n\n**此清单记录已核验范围，不代表市场全量。** 正式条目已确认原生 Sony E 卡口及全画幅身份；缺失字段仍显示暂无数据。\n\n| 品牌 | 已收录 | 主要规格完整 | 信息不全 | 待核验 | 排除 |\n|---|---:|---:|---:|---:|---:|\n`;
 for (const b of brands) {
   const ls = all.filter((l) => l.brand === b.id);
   md += `| ${b.name} ${b.en} | ${ls.length} | ${ls.filter((l) => l.verification === "verified").length} | ${ls.filter((l) => l.verification === "partial").length} | ${audit.filter((x) => x.brand === b.id && x.status === "pending").length} | ${audit.filter((x) => x.brand === b.id && x.status === "excluded").length} |\n`;

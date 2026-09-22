@@ -83,5 +83,5 @@ if (failures.length) {
   process.exitCode = 1;
 } else
   console.log(
-    `数据校验通过：${all.length} 款镜头，${new Set(all.map((l) => l.brand)).size} 个品牌；${all.filter((l) => l.verification === "verified").length} 款主要规格完整，${all.filter((l) => l.price).length} 条可溯源价格。`,
+    `数据校验通过：${all.length} 款镜头，${new Set(all.map((l) => l.brand)).size} 个品牌；${all.filter((l) => l.verification === "verified").length} 款主要规格完整，${all.filter((l) => l.price).length} 条价格参考，其中 ${all.filter((l) => l.price?.type === "submitted").length} 条为用户提供值。`,
   );

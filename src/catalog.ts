@@ -116,7 +116,7 @@ export const fields: {
   { key: "price", label: "参考价格", get: priceText },
   {
     key: "priceType",
-    label: "价格类型 / 采集日期",
+    label: "价格类型 / 采集或录入日期",
     get: (l) =>
       l.price ? `${priceLabel(l.price)} / ${l.price.collectedAt}` : "暂无数据",
   },

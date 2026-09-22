@@ -2,6 +2,10 @@
 
 [简体中文](#简体中文) · [English](#english)
 
+最新价格更新：导入用户提交的 221 行价格表，189 条以“用户提供参考价”展示，32 条因缺价、估算或版本／卡口不明确暂缓。当前 267/299 款有参考数值：189 条用户提供、48 条商家页面价、30 条原有官方／上市价。用户提供值未经独立网页核验，录入日期不等于报价日期；其来源可能为列表、比价站或历史活动，不能视为已确认淘宝／京东现价。[导入及暂缓清单](docs/PRICE_IMPORT_USER_2026-09-22.md)。下方为历史更新记录。
+
+Latest price update: imported 189 user-supplied references from a 221-row workbook and held 32 missing, estimated or version/mount-ambiguous entries. 267/299 records now have reference values: 189 submitted, 48 merchant snapshots and 30 existing official/launch references. Submitted values have not been independently checked against the linked pages; the import date is not the quote date. [Import audit and pending entries](docs/PRICE_IMPORT_USER_2026-09-22.md).
+
 ## 简体中文
 
 本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。当前收录 14 个品牌的 299 款镜头，所有正式记录附资料来源与核验日期。下方历史更新日志中的数量对应各轮整理时点。
