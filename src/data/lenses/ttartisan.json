@@ -132,7 +132,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 889,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · AF 40mm F2 · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/UaTmgC8eEkrmUBhElv1_Gw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "银色；页面附赠 UV 与 ND 镜；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "TTARTISAN 官方产品规格",
@@ -183,7 +194,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1150,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · AF 75mm F2 · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/hQzfqvMWqEshkQwPL3HzVA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "黑色；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "TTARTISAN 官方产品规格",

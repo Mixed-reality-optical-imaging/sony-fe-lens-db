@@ -14,13 +14,19 @@ export const sourceSchema = z.object({
   url: z.url().startsWith("https://"),
   checkedAt: date,
 });
-export const priceSchema = z.object({
-  amount: z.number().positive(),
-  currency: z.literal("CNY"),
-  type: z.enum(["official", "launch"]),
-  source: sourceSchema,
-  collectedAt: date,
-});
+export const priceSchema = z
+  .object({
+    amount: z.number().positive(),
+    currency: z.literal("CNY"),
+    type: z.enum(["official", "launch", "retail"]),
+    conditions: z.string().min(1).optional(),
+    source: sourceSchema,
+    collectedAt: date,
+  })
+  .superRefine((p, ctx) => {
+    if (p.type === "retail" && !p.conditions)
+      ctx.addIssue({ code: "custom", message: "商家页面价必须注明报价条件" });
+  });
 export const lensSchema = z
   .object({
     id: z.string().regex(/^[a-z0-9-]+$/),
@@ -55,6 +61,7 @@ export const lensSchema = z
     status: z.enum(["current", "discontinued", "unknown"]),
     macro: z.boolean(),
     price: priceSchema.nullable(),
+    priceHistory: z.array(priceSchema).optional(),
     sources: z.array(sourceSchema).min(1),
     notes: z.array(z.string()),
     verification: z.enum(["verified", "partial"]),

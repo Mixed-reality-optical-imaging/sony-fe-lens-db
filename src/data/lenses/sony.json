@@ -1454,15 +1454,16 @@
     "status": "unknown",
     "macro": false,
     "price": {
-      "amount": 21999,
+      "amount": 21199,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国官方发布稿：FE 12-24mm F2.8 GM",
-        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20200708.html",
+        "title": "京东 · FE 12-24mm F2.8 GM · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/-UGx1e9WYSmhdivvOunl0w.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -1483,7 +1484,20 @@
       "发布日期取中国官方发布稿正文正式发布日；人民币价格为当年上市指导价，不代表当前成交价。",
       "官方发布稿说明后部滤镜架支持插片式滤镜，附裁切模板；不将后置插片规格填成前置螺纹滤镜口径。"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 21999,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国官方发布稿：FE 12-24mm F2.8 GM",
+          "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2020/20200708.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel85f18",
@@ -1515,15 +1529,16 @@
     "status": "unknown",
     "macro": false,
     "price": {
-      "amount": 4299,
+      "amount": 3799,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国官方发布稿：FE 85mm F1.8",
-        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170209.html",
+        "title": "京东 · FE 85mm F1.8 · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/ditxZRKkLaY7FnmG4BRNFA.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -1543,7 +1558,20 @@
       "厂商放大倍率原始值：0.13",
       "日期为中国官方正文所述发布日，非零售开售日期；人民币价格为历史上市指导价，不代表当前成交价。"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 4299,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国官方发布稿：FE 85mm F1.8",
+          "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20170209.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel600f40gm",
@@ -1574,7 +1602,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 103899,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · FE 600mm F4 GM OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/bNE_tNJNBLUHjCcoR6-jJg.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
@@ -1745,7 +1784,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11899,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · FE 12-24mm F4 G · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/ViXUi6HiexzH8ZP9G8-yvQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
@@ -2126,7 +2176,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5799,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · FE 24-70mm F4 ZA OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/TbB_n38Yr6gO4PcHrXjrVg.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
@@ -2176,7 +2237,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3299,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · FE 28-60mm F4-5.6 · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/3ZhCtpOWPQk2oW8vRh6VwA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
@@ -2282,15 +2354,16 @@
     "status": "unknown",
     "macro": false,
     "price": {
-      "amount": 9999,
+      "amount": 7665,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国官方发布稿：FE 24-105mm F4 G OSS",
-        "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20171026-1.html",
+        "title": "京东 · FE 24-105mm F4 G OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/wcpzURLKdx5UEK2VTYgNLw.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -2310,7 +2383,20 @@
       "厂商放大倍率原始值：0.31",
       "日期采用中国官方正文的正式发布日，不等同于其他地区发布日期或预计开售日。人民币价格为当年上市指导价，不代表当前成交价。"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 9999,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国官方发布稿：FE 24-105mm F4 G OSS",
+          "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2017/20171026-1.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel24240",
@@ -2391,7 +2477,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · FE PZ 28-135mm F4 G OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/jNOpOfaUuzYDIrjBiBHKcA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
@@ -2443,15 +2540,16 @@
     "status": "unknown",
     "macro": true,
     "price": {
-      "amount": 10999,
+      "amount": 8299,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国官方发布稿：FE 70-200mm F4 Macro G II OSS",
-        "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2023/20230713-2.html",
+        "title": "京东 · FE 70-200mm F4 Macro G II OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/i8JMnCGMR-BVPeXnhf2tzw.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -2472,7 +2570,20 @@
       "发布日期采用官方正文所述正式发布日，可能早于网页刊登日；人民币价格为中国大陆上市指导价，不代表当前成交价。",
       "镜头本体全变焦范围最高倍率 0.5×；1:1 需另配 SEL20TC，不能作为本体倍率。"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 10999,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国官方发布稿：FE 70-200mm F4 Macro G II OSS",
+          "url": "https://pet.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2023/20230713-2.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel70200g",
@@ -2554,15 +2665,16 @@
     "status": "unknown",
     "macro": false,
     "price": {
-      "amount": 18999,
+      "amount": 14199,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国官方发布稿：FE 70-200mm F2.8 GM II OSS",
-        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2021/20211013-1.html",
+        "title": "京东 · FE 70-200mm F2.8 GM II OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/eIFZM_t6dA38W3iNlcu9GQ.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -2583,7 +2695,20 @@
       "发布日期取中国官方发布稿正文正式发布日；人民币价格为当年上市指导价，不代表当前成交价。",
       "官方发布稿最近对焦条件：70mm 端 0.4m、200mm 端 0.82m；查询单值为全焦段最短距离。搭配 SEL14TC / SEL20TC 时最大光圈分别为 F4 / F5.6，本体仍为恒定 F2.8。"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 18999,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国官方发布稿：FE 70-200mm F2.8 GM II OSS",
+          "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2021/20211013-1.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel2870",
@@ -2665,15 +2790,16 @@
     "status": "unknown",
     "macro": false,
     "price": {
-      "amount": 22000,
+      "amount": 20499,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国 · 产品发布新闻及上市指导价",
-        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2024/241120.html",
+        "title": "京东 · FE 28-70mm F2 GM · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/-0ON90qk0KWNH5g3XQxtNg.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -2692,7 +2818,20 @@
       "厂商对焦距离原始值：0.38 m(1.25 ft)",
       "厂商放大倍率原始值：0.23"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 22000,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国 · 产品发布新闻及上市指导价",
+          "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2024/241120.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel70300g",
@@ -2833,7 +2972,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · FE 200-600mm F5.6-6.3 G OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/Z-oR8hx7Ji2CqmV1ZtHXRA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SONY 官方产品规格",
@@ -2943,15 +3093,16 @@
     "status": "unknown",
     "macro": true,
     "price": {
-      "amount": 9299,
+      "amount": 10299,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国 · 产品发布新闻及上市指导价",
-        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2025/20251011-1.html",
+        "title": "京东 · FE 100mm F2.8 Macro GM OSS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/POx7jPNWe4UHgibKIAEXxQ.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -2970,7 +3121,20 @@
       "厂商对焦距离原始值：0.26 m (0.86 ft)",
       "厂商放大倍率原始值：1.4"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 9299,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国 · 产品发布新闻及上市指导价",
+          "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2025/20251011-1.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel70200gm",
@@ -3069,15 +3233,16 @@
     "status": "unknown",
     "macro": false,
     "price": {
-      "amount": 28999,
+      "amount": 26499,
       "currency": "CNY",
-      "type": "launch",
+      "type": "retail",
       "source": {
-        "title": "索尼中国官方发布稿：FE 50-150mm F2 GM",
-        "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2025/20250423-1.html",
+        "title": "京东 · FE 50-150mm F2 GM · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/ILiaqDxBwU-yzZbiQiGPGw.html",
         "checkedAt": "2026-09-22"
       },
-      "collectedAt": "2026-09-22"
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
     },
     "sources": [
       {
@@ -3098,7 +3263,20 @@
       "发布日期取索尼中国发布稿正文所述正式发布日，不使用网页刊登日或预计零售上市日。",
       "价格为中国大陆发布时的人民币上市指导价，不代表核验日的市场成交价或现行官方报价。"
     ],
-    "verification": "verified"
+    "verification": "verified",
+    "priceHistory": [
+      {
+        "amount": 28999,
+        "currency": "CNY",
+        "type": "launch",
+        "source": {
+          "title": "索尼中国官方发布稿：FE 50-150mm F2 GM",
+          "url": "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/product/2025/20250423-1.html",
+          "checkedAt": "2026-09-22"
+        },
+        "collectedAt": "2026-09-22"
+      }
+    ]
   },
   {
     "id": "sony-sel814g",

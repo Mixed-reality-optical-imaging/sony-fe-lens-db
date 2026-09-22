@@ -268,7 +268,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5199,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 24mm F1.4 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/Qr44WD1BOJH1I0tutHhvVQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a022_24_14",
@@ -409,7 +420,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 9499,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 35mm F1.2 DG II · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/u7wlvfZbVORPCXXoJq1SWg.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a025_35_12",
@@ -456,7 +478,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4997.78,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 35mm F1.4 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/uuWByaq1ZIqY6NFM-WaxQQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a021_35_14",
@@ -644,7 +677,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 7999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 50mm F1.2 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/bKrWvElTrC8nZVRsy-0i6w.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a024_50_12",
@@ -785,7 +829,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4499,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 85mm F1.4 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/OBa8NfmmBHeAhHUHxKhpZA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a020_85_14",
@@ -832,7 +887,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5099,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 65mm F2 DG · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/3gv04gHxItDXEMv3J7fguw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · c020_65_2_re",
@@ -926,7 +992,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": true,
-    "price": null,
+    "price": {
+      "amount": 5199,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 105mm F2.8 DG DN MACRO · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/VSvRBqbfzbZEDFFpCPOsKA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a020_105_28",
@@ -973,7 +1050,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 12699,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 135mm F1.4 DG · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/dvqYhC3msQneg-aigtMApg.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a025_135_14",
@@ -1020,7 +1108,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 21499,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 200mm F2 DG OS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/SLV1vRwL0GEYhyYpCSkINA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · s025_200_2",
@@ -1114,7 +1213,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 6999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 14-24mm F2.8 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/6z08deON9ifI39FxYp3boQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a019_14_24_28",
@@ -1163,7 +1273,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5129,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 16-28mm F2.8 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/I9e4eKuk80BtGPGJCE3Ktw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · c022_16_28_28",
@@ -1307,7 +1428,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 28-70mm F2.8 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/9IuyaziV-PLyR2--2xFVhw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · c021_28_70_28",
@@ -1355,7 +1487,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 8900,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 28-45mm F1.8 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/lUlW5vrENRiZGnTwkSQGEg.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a024_28_45_18",
@@ -1403,7 +1546,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 9499,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 28-105mm F2.8 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/d6gvC1kBvV60zIwOku379w.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · a024_28_105_28",
@@ -1451,7 +1605,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 11999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 60-600mm F4.5-6.3 DG DN OS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/1zKTPxOKNYEhs76BSrvkVQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · s023_60_600_45_63",
@@ -1499,7 +1664,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 9499,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 70-200mm F2.8 DG DN OS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/ielPdNoJ6hySEflbXqo6uQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · s023_70_200_28",
@@ -1547,7 +1723,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 6249,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 100-400mm F5-6.3 DG DN OS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/Fn1XFUcPuDTYASpZ-Ai9hQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · c020_100_400_5_63",
@@ -1595,7 +1782,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 7999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 150-600mm F5-6.3 DG DN OS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/LePF8XV5WdHDv6QYpa0LWw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · s021_150_600_5_63",
@@ -1643,7 +1841,18 @@
     "releasePrecision": "day",
     "status": "current",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 39999,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 300-600mm F4 DG OS · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/MVf2Wdf3kex7fAfRHXA5Yw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方规格 · s025_300_600_4",
@@ -2316,7 +2525,18 @@
     "releasePrecision": "day",
     "status": "discontinued",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4599,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 65mm F2 DG DN · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/0Cb-ZQIaivJxb9wnZvYx7A.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIGMA 官方产品规格",

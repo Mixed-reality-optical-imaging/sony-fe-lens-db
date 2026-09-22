@@ -1,4 +1,5 @@
 import type { Lens } from "./schema";
+import { priceLabel } from "./prices";
 import brands from "./data/brands.json";
 
 const files = import.meta.glob("./data/lenses/*.json", {
@@ -117,8 +118,6 @@ export const fields: {
     key: "priceType",
     label: "价格类型 / 采集日期",
     get: (l) =>
-      l.price
-        ? `${l.price.type === "launch" ? "上市指导价" : "官方公开价"} / ${l.price.collectedAt}`
-        : "暂无数据",
+      l.price ? `${priceLabel(l.price)} / ${l.price.collectedAt}` : "暂无数据",
   },
 ];

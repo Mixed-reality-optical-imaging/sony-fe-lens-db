@@ -154,7 +154,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3269,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 28-200mm F2.8-5.6 Di III RXD · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/HQaW6DGMC52zyvn7rM3Fyg.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A071",
@@ -328,7 +339,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 4110,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 28-300mm F4-7.1 Di III VC VXD · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/7k0fMDxXNVKxFmi6PfvBQA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A074",
@@ -370,7 +392,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5545,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 25-200mm F2.8-5.6 Di III VXD G2 · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/cSyCuq_AaYO7SgyMb0UVRA.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A075",
@@ -545,7 +578,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 8499,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 50-400mm F4.5-6.3 Di III VC VXD · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/gHj8tndFBGCra4M8HucR_Q.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A067",
@@ -587,7 +631,18 @@
     "releasePrecision": "day",
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5199,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · 150-500mm F5-6.7 Di III VC VXD · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/oUz9H_tC8IM5c9hAay6ZhQ.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "TAMRON 官方规格 · A057",

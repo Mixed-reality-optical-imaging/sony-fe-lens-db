@@ -1,5 +1,6 @@
 // Keep page components separate from the entry point so hot updates reuse the root.
 import React, { useEffect, useMemo, useRef, useState } from "react";
+import { priceLabel } from "./prices";
 
 import {
   Link,
@@ -1091,7 +1092,7 @@ function LensCard({
       </div>
       <div className="card-bottom">
         <div>
-          <span>{l.price?.type === "launch" ? "上市指导价" : "参考价格"}</span>
+          <span>{priceLabel(l.price)}</span>
           <strong className={!l.price ? "no-price" : ""}>{priceText(l)}</strong>
         </div>
         <Link to={`/lenses/${l.id}`}>
@@ -1205,7 +1206,7 @@ function Detail({
           <Tags lens={l} />
         </div>
         <div className="detail-actions">
-          <span>{l.price?.type === "launch" ? "上市指导价" : "参考价格"}</span>
+          <span>{priceLabel(l.price)}</span>
           <strong>{priceText(l)}</strong>
           <button className="primary-button" onClick={() => toggle(l.id)}>
             {selected.includes(l.id) ? <Check size={16} /> : <Plus size={16} />}{" "}
@@ -1252,17 +1253,24 @@ function Detail({
                 <small>核验于 {s.checkedAt}</small>
               </a>
             ))}
-            {l.price && (
-              <a
-                className="source-link"
-                href={l.price.source.url}
-                target="_blank"
-                rel="noreferrer"
-              >
-                价格来源
-                <ExternalLink size={14} />
-                <small>采集于 {l.price.collectedAt} · 不代表实时成交价</small>
-              </a>
+            {[...(l.price ? [l.price] : []), ...(l.priceHistory ?? [])].map(
+              (p, i) => (
+                <a
+                  key={`${p.source.url}-${i}`}
+                  className="source-link"
+                  href={p.source.url}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  {i > 0 ? "历史参考 · " : ""}
+                  {priceLabel(p)} · ¥{p.amount.toLocaleString("zh-CN")}
+                  <ExternalLink size={14} />
+                  <small>
+                    采集于 {p.collectedAt} · 不代表实时成交价
+                    {p.conditions ? ` · ${p.conditions}` : ""}
+                  </small>
+                </a>
+              ),
             )}
           </section>
           <section className="surface">
@@ -1491,7 +1499,7 @@ function Coverage() {
               “信息不全”指已确认卡口、画幅和型号身份，但部分参数仍然缺失。
             </li>
             <li>
-              价格只记录有来源的人民币官方公开价或上市指导价，并标明日期；不提供实时成交价。
+              价格记录有来源的人民币商家页面价、官方公开价或上市指导价，并标明日期。商家页面价是查询快照，优惠、配送地区、库存及结算价以商家页面为准；历史指导价在详情中保留。
             </li>
             <li>无法确认的数值显示“暂无数据”，不会根据相似型号补造。</li>
           </ul>

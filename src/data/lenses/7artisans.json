@@ -120,7 +120,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 739,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · AF 40mm F2.5 · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/bGMcRC1faQzKSGPNZyapGw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面附赠 UV、反光板与镜头袋；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "7ARTISANS 官方产品规格",
@@ -394,7 +405,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 1090,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · AF 50mm F1.8 · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/hVzK1mxUMN_3YeomLG8hxg.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "7ARTISANS 官方产品规格",

@@ -4,7 +4,11 @@
 
 ## 简体中文
 
-本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。收录 14 个品牌的 291 款镜头，所有正式记录附资料来源与核验日期。
+本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。当前收录 14 个品牌的 299 款镜头，所有正式记录附资料来源与核验日期。下方历史更新日志中的数量对应各轮整理时点。
+
+2026-09-22 全库价格查询：已逐款查询 299 款，新增 48 款京东商品页面价；现有 78 款具有可溯源人民币参考价，221 款仍未确认报价。商家页面价仅为查询快照，不是实时到手价、最低价或库存保证；型号、卡口、采集日期、来源及限制均附在记录中。原有上市指导价在详情页保留。[逐款查询记录 / Full price audit](docs/PRICE_REVIEW_ALL_2026-09-22.md)。
+
+Full-catalog price review (2026-09-22): all 299 records were individually searched. Added 48 JD product-page price snapshots; 78 records now have sourced CNY references and 221 remain unpriced. Listing snapshots are not live checkout prices, lowest-price claims or stock guarantees. Sources, dates and conditions are recorded, and earlier launch prices remain available on detail pages.
 
 最新数据整理：2026-09-22 历史资料补充核验，补充 14 款已有镜头的 19 项参数，主要规格完整 226/291 款。详见 [本轮历史资料核验 / Archive review](docs/DATA_ENRICHMENT_2026-09-22_ARCHIVES.md)、[扩大检索记录](docs/DATA_ENRICHMENT_2026-09-22_EXPANDED.md)、[首轮记录](docs/DATA_ENRICHMENT_2026-09-22.md) 与 [覆盖及缺项清单](docs/DATA_COVERAGE.md)。
 
@@ -199,7 +203,7 @@ Open **http://127.0.0.1:5173/** and keep the terminal running. Press `Ctrl+C` to
 
 ### Data and maintenance
 
-Initial review date: **2026-09-22**. Manufacturer product pages, specifications, catalogs and manuals are the primary references. Conflicting or unavailable values may be `null`, with notes. Dates can refer to announcements or availability dates; check individual source notes. Yuan price references currently include traceable Sony China launch announcements and Viltrox launch-price references; overseas prices are not converted.
+Initial review date: **2026-09-22**. Manufacturer product pages, specifications, catalogs and manuals are the primary specification references. Conflicting or unavailable values may be `null`, with notes. Dates can refer to announcements or availability dates; check individual source notes. CNY references include official prices, historical launch prices and explicitly labeled merchant listing snapshots; overseas prices are not converted.
 
 Edit per-brand files in `src/data/lenses/`. Shared types and validation rules live in `src/schema.ts`; query logic lives in `src/query.ts`. See the [coverage inventory](docs/DATA_COVERAGE.md), [maintenance guide](docs/DATA_MAINTENANCE.md) and [acceptance record](docs/ACCEPTANCE.md) for details (currently in Chinese).
 

@@ -30,7 +30,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3699,
+      "currency": "CNY",
+      "type": "retail",
+      "source": {
+        "title": "京东 · AF 35mm F1.4 AURORA · Sony E 商品页面标价",
+        "url": "https://item.jd.com/product/J6-btzKGlRU-Jw3nkpRaUw.html",
+        "checkedAt": "2026-09-22"
+      },
+      "collectedAt": "2026-09-22",
+      "conditions": "页面所列 Sony E 版本；公开页面标价，页面提示登录查看到手价。默认配送地区为北京，未核实店铺主体、库存、运费、优惠及最终结算价；非最低价承诺。"
+    },
     "sources": [
       {
         "title": "SIRUI 官方产品规格",
