@@ -3437,9 +3437,11 @@
     "name": "AF 50mm F1.2 Moonlit FE",
     "searchedAt": "2026-09-23",
     "query": "松若 SongRaw AF 50/1.2 FE Moonlit 官方产品资料及人民币报价",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "本轮核对官网目录、产品页和规格图，未取得可核实人民币报价；海外美元价格不换算。尚未完成淘宝／京东逐款价格核验。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-1",
+    "reason": "用户称为国内官方定价，未附官方价格来源；未独立核验，不代表当前成交价，录入日期不等于报价日期。",
+    "submissionReviewedAt": "2026-09-23",
+    "submissionStatus": "imported"
   },
   {
     "id": "songraw-50mm-f1-2-ms",
@@ -3447,9 +3449,11 @@
     "name": "AF 50mm F1.2 MS FE",
     "searchedAt": "2026-09-23",
     "query": "松若 SongRaw AF 501.2 FE MS 官方产品资料及人民币报价",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "本轮核对官网目录、产品页和规格图，未取得可核实人民币报价；海外美元价格不换算。尚未完成淘宝／京东逐款价格核验。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-2",
+    "reason": "用户称为国内官方定价，未附官方价格来源；未独立核验，不代表当前成交价，录入日期不等于报价日期。",
+    "submissionReviewedAt": "2026-09-23",
+    "submissionStatus": "imported"
   },
   {
     "id": "songraw-85mm-f1-2-ms",
@@ -3457,8 +3461,10 @@
     "name": "AF 85mm F1.2 MS FE",
     "searchedAt": "2026-09-23",
     "query": "松若 SongRaw AF 851.2 FE MS 官方产品资料及人民币报价",
-    "status": "unresolved",
-    "sourceUrl": null,
-    "reason": "本轮核对官网目录、产品页和规格图，未取得可核实人民币报价；海外美元价格不换算。尚未完成淘宝／京东逐款价格核验。"
+    "status": "user-reported",
+    "sourceUrl": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-3",
+    "reason": "用户称为国内官方定价，未附官方价格来源；未独立核验，不代表当前成交价，录入日期不等于报价日期。",
+    "submissionReviewedAt": "2026-09-23",
+    "submissionStatus": "imported"
   }
 ]

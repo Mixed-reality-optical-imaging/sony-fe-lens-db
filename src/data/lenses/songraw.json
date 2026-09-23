@@ -23,7 +23,7 @@
     "apertureTele": 1.2,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
+    "weight": 900,
     "diameter": null,
     "length": null,
     "filterSize": 72,
@@ -36,7 +36,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 5999,
+      "currency": "CNY",
+      "type": "submitted",
+      "conditions": "用户称为国内官方定价，未附官方价格来源；未独立核验，不代表当前成交价，录入日期不等于报价日期。",
+      "source": {
+        "title": "用户提供的松若 FE 价格、重量及版本备注（未独立核验）",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-1",
+        "checkedAt": "2026-09-23"
+      },
+      "collectedAt": "2026-09-23"
+    },
     "sources": [
       {
         "title": "松若官方镜头目录（FE 与 Z 分列）",
@@ -52,13 +63,19 @@
         "title": "官方规格参数图（产品页引用）",
         "url": "https://img.wanwang.xin/contents/sitefiles2071/10356549/images/176664761.jpg",
         "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "用户提供的松若 FE 价格、重量及版本备注（未独立核验）",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-1",
+        "checkedAt": "2026-09-23"
       }
     ],
     "notes": [
-      "官方规格图合列多个卡口，标称重量约 900g，未给出 Sony E 独立重量；重量筛选字段暂留空，未混用 Z 版本。",
+      "重量 900g 由用户于 2026-09-23 明确按 FE 版本提供；与官网多卡口图标称值一致，但尚未独立核验 E 专属重量。",
       "官方规格图确认全画幅、AF/MF、光圈 F1.2–F16；采用内对焦与 STM 马达，最大放大倍率 0.13×。",
-      "镜身直径、长度、准确发布日期、销售状态及人民币参考价尚未核实；官网目录或固件存在不等于确认现售。",
-      "该规格图未列光学防抖，暂记未知；Moonlit 旗舰版与 MS 青春版作为不同型号收录。"
+      "镜身直径、长度、准确发布日期及销售状态尚未核实；人民币价格为用户提供值。官网目录或固件存在不等于确认现售。",
+      "该规格图未列光学防抖，暂记未知；Moonlit 旗舰版与 MS 青春版作为不同型号收录。",
+      "用户提供的版本备注：旗舰版，黑色镜身；带实体光圈环，支持无极光圈切换。"
     ],
     "verification": "partial"
   },
@@ -86,7 +103,7 @@
     "apertureTele": 1.2,
     "focus": "AF",
     "stabilization": null,
-    "weight": null,
+    "weight": 800,
     "diameter": null,
     "length": null,
     "filterSize": 72,
@@ -99,7 +116,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3299,
+      "currency": "CNY",
+      "type": "submitted",
+      "conditions": "用户称为国内官方定价，未附官方价格来源；未独立核验，不代表当前成交价，录入日期不等于报价日期。",
+      "source": {
+        "title": "用户提供的松若 FE 价格、重量及版本备注（未独立核验）",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-2",
+        "checkedAt": "2026-09-23"
+      },
+      "collectedAt": "2026-09-23"
+    },
     "sources": [
       {
         "title": "松若官方镜头目录（FE 与 Z 分列）",
@@ -115,13 +143,19 @@
         "title": "官方规格参数图（产品页引用）",
         "url": "https://img.wanwang.xin/contents/sitefiles2071/10356549/images/176586055.jpg",
         "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "用户提供的松若 FE 价格、重量及版本备注（未独立核验）",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-2",
+        "checkedAt": "2026-09-23"
       }
     ],
     "notes": [
-      "官方规格图合列多个卡口，标称重量约 800g，未给出 Sony E 独立重量；重量筛选字段暂留空，未混用 Z 版本。",
+      "重量 800g 由用户于 2026-09-23 明确按 FE 版本提供；与官网多卡口图标称值一致，但尚未独立核验 E 专属重量。",
       "官方规格图确认全画幅、AF/MF、光圈 F1.2–F16；采用内对焦与 STM 马达，最大放大倍率 0.13×。",
-      "镜身直径、长度、准确发布日期、销售状态及人民币参考价尚未核实；官网目录或固件存在不等于确认现售。",
-      "该规格图未列光学防抖，暂记未知；Moonlit 旗舰版与 MS 青春版作为不同型号收录。"
+      "镜身直径、长度、准确发布日期及销售状态尚未核实；人民币价格为用户提供值。官网目录或固件存在不等于确认现售。",
+      "该规格图未列光学防抖，暂记未知；Moonlit 旗舰版与 MS 青春版作为不同型号收录。",
+      "用户提供的版本备注：青春版，银灰色镜身；取消实体光圈环。用户将其定位为性价比版本，此表述不作为客观评分。"
     ],
     "verification": "partial"
   },
@@ -149,7 +183,7 @@
     "apertureTele": 1.2,
     "focus": "AF",
     "stabilization": false,
-    "weight": null,
+    "weight": 1120,
     "diameter": null,
     "length": null,
     "filterSize": 86,
@@ -162,7 +196,18 @@
     "releasePrecision": null,
     "status": "unknown",
     "macro": false,
-    "price": null,
+    "price": {
+      "amount": 3799,
+      "currency": "CNY",
+      "type": "submitted",
+      "conditions": "用户称为国内官方定价，未附官方价格来源；未独立核验，不代表当前成交价，录入日期不等于报价日期。",
+      "source": {
+        "title": "用户提供的松若 FE 价格、重量及版本备注（未独立核验）",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-3",
+        "checkedAt": "2026-09-23"
+      },
+      "collectedAt": "2026-09-23"
+    },
     "sources": [
       {
         "title": "松若官方镜头目录（FE 与 Z 分列）",
@@ -178,13 +223,19 @@
         "title": "官方规格参数图（产品页引用）",
         "url": "https://img.wanwang.xin/contents/sitefiles2071/10356549/images/176715161.jpg",
         "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "用户提供的松若 FE 价格、重量及版本备注（未独立核验）",
+        "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-library/blob/main/docs/SONGRAW_USER_SUBMISSION_2026-09-23.md#row-3",
+        "checkedAt": "2026-09-23"
       }
     ],
     "notes": [
-      "官方规格图合列多个卡口，标称重量约 1120g，未给出 Sony E 独立重量；重量筛选字段暂留空，未混用 Z 版本。",
+      "重量 1120g 由用户于 2026-09-23 明确按 FE 版本提供；与官网多卡口图标称值一致，但尚未独立核验 E 专属重量。",
       "官方规格图确认全画幅、AF/MF、光圈 F1.2–F16；采用内对焦与 STM 马达，最大放大倍率 0.13×。",
-      "镜身直径、长度、准确发布日期、销售状态及人民币参考价尚未核实；官网目录或固件存在不等于确认现售。",
-      "官网当前规格图标称约 1120g，与部分第三方页面的 1001g 不同，未把第三方重量写入 E 卡口字段。"
+      "镜身直径、长度、准确发布日期及销售状态尚未核实；人民币价格为用户提供值。官网目录或固件存在不等于确认现售。",
+      "官网当前规格图标称约 1120g，与部分第三方页面的 1001g 不同，未把第三方重量写入 E 卡口字段。",
+      "用户提供的版本备注：青春版，无实体光圈环，86mm 滤镜口径。"
     ],
     "verification": "partial"
   }
