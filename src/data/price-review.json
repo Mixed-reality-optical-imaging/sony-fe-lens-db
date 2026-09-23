@@ -3430,5 +3430,35 @@
     "reason": "表内注明价格待确认、其他卡口价格参照或估算，不能作为本型号已确认人民币报价。",
     "submissionReviewedAt": "2026-09-22",
     "submissionStatus": "pending"
+  },
+  {
+    "id": "songraw-50mm-f1-2-moonlit",
+    "brand": "songraw",
+    "name": "AF 50mm F1.2 Moonlit FE",
+    "searchedAt": "2026-09-23",
+    "query": "松若 SongRaw AF 50/1.2 FE Moonlit 官方产品资料及人民币报价",
+    "status": "unresolved",
+    "sourceUrl": null,
+    "reason": "本轮核对官网目录、产品页和规格图，未取得可核实人民币报价；海外美元价格不换算。尚未完成淘宝／京东逐款价格核验。"
+  },
+  {
+    "id": "songraw-50mm-f1-2-ms",
+    "brand": "songraw",
+    "name": "AF 50mm F1.2 MS FE",
+    "searchedAt": "2026-09-23",
+    "query": "松若 SongRaw AF 501.2 FE MS 官方产品资料及人民币报价",
+    "status": "unresolved",
+    "sourceUrl": null,
+    "reason": "本轮核对官网目录、产品页和规格图，未取得可核实人民币报价；海外美元价格不换算。尚未完成淘宝／京东逐款价格核验。"
+  },
+  {
+    "id": "songraw-85mm-f1-2-ms",
+    "brand": "songraw",
+    "name": "AF 85mm F1.2 MS FE",
+    "searchedAt": "2026-09-23",
+    "query": "松若 SongRaw AF 851.2 FE MS 官方产品资料及人民币报价",
+    "status": "unresolved",
+    "sourceUrl": null,
+    "reason": "本轮核对官网目录、产品页和规格图，未取得可核实人民币报价；海外美元价格不换算。尚未完成淘宝／京东逐款价格核验。"
   }
 ]

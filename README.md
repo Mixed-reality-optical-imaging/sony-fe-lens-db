@@ -2,11 +2,13 @@
 
 **[在线访问 / Live Website](https://sony-fe-lens-db.1428609588.workers.dev/)**
 
+**源码公开 · 非商业许可 / Source available · Noncommercial license** — [PolyForm Noncommercial 1.0.0](LICENSE)。本许可不授权商业用途；历史 MIT 版本及第三方内容见下方说明。 Commercial use is not granted under this license; see the historical MIT and third-party exceptions below.
+
 [简体中文](#简体中文) · [English](#english)
 
 ## 简体中文
 
-支持在线访问和本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。当前收录 14 个品牌的 299 款镜头，所有正式记录附资料来源与核验日期。
+支持在线访问和本地运行的简体中文索尼 E 卡口全画幅摄影镜头查询网站。界面采用浅灰底、橙色强调、紧凑卡片与左侧筛选栏，支持搜索、参数筛选、详情及最多四款镜头对比。当前收录 15 个品牌的 302 款镜头，所有正式记录附资料来源与核验日期。
 
 ### 仅供参考 / 数据准确性
 
@@ -138,19 +140,23 @@ docs/                   数据维护、覆盖清单、验收记录
 
 欢迎通过 Issue 报告参数错误、提交官方资料链接，或通过 Pull Request 改进功能和数据。提交数据前请阅读 [数据维护说明](docs/DATA_MAINTENANCE.md)，保留来源、核验日期及缺失字段说明，并运行数据校验、测试和生产构建。
 
-本项目原创代码及维护者有权许可的原创整理内容采用 [MIT 许可证](LICENSE)，按现状提供；具体许可条件、担保排除和责任限制以许可证原文及适用法律为准。数据准确性提示说明项目局限，不对 MIT 授予的使用方式另加限制。
+本项目原创代码及维护者有权许可的原创整理内容采用 [PolyForm Noncommercial 1.0.0](LICENSE)，允许许可条款规定的非商业使用、修改和分发，不授予商业用途许可。具体允许用途、通知义务、违约处理、担保排除和责任限制以英文许可原文及适用法律为准。该许可还明确允许所列慈善、教育、公共研究等机构的使用，不因其资金来源或相关义务而排除；法定合理使用权不受限制。
+
+**这是源码公开的非商业许可项目，不属于 OSI 定义的开源软件。** 许可不是技术防复制措施，也不能保证无人违反条款。
+
+**历史版本：** 此次许可变更不撤销已发布版本授予的 MIT 权利。提交 `fdc8ce67c1d65b65204b670f21d105bdbca6f1c7` 及此前以 MIT 发布的内容，仍可按原 MIT 条款使用，包括商业用途。新许可无法给这些已授予的权利追加限制。第三方依赖及他人享有权利的内容不因本次变更而重新许可；镜头参数等事实本身也不因整理进入本库而自动获得排他权。
 
 第三方依赖保留各自许可证和版权声明，已安装运行依赖的原文见 [第三方许可声明](public/THIRD_PARTY_NOTICES.txt)，该文件也随生产构建发布。更新依赖后请运行 `npm run licenses:generate` 更新声明；开发依赖的许可证保留在各自 npm 包中。
 
 索尼及其他厂商名称、型号和商标仅用于识别产品；本项目不代表、不隶属于，也未获这些厂商背书。来源链接仅用于溯源，不表示已取得复制、批量抓取或再分发厂商内容的许可。本仓库不包含厂商产品图片、说明书 PDF、完整产品页或采集缓存。
 
-MIT 不重新许可第三方商标、文档、素材或其他受保护内容，也不能免除第三方许可、网站服务条款或适用法律可能规定的义务。**免责声明不等同于授权或合规保证，无法保证所有使用场景均不涉及第三方协议或权利。** 补充数据应采用有权使用的资料，保留来源，避免提交受限制的原文或素材。权利人可通过 Issue 提供具体文件、内容和权利依据，维护者将据此核查、更正或移除相关内容。
+本项目许可不重新许可第三方商标、文档、素材或其他受保护内容，也不能免除第三方许可、网站服务条款或适用法律可能规定的义务。**免责声明不等同于授权或合规保证，无法保证所有使用场景均不涉及第三方协议或权利。** 补充数据应采用有权使用的资料，保留来源，避免提交受限制的原文或素材。权利人可通过 Issue 提供具体文件、内容和权利依据，维护者将据此核查、更正或移除相关内容。
 
-参考：[MIT 许可说明](https://choosealicense.com/licenses/mit/) · [GitHub 服务条款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)。
+参考：[PolyForm 许可原文](https://polyformproject.org/licenses/noncommercial/1.0.0) · [GitHub 服务条款](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)。
 
 ## English
 
-An independent database available online and for local use for Sony E-mount full-frame photography lenses, built with React, TypeScript and Vite. The interface is in Simplified Chinese; this README provides documentation in both Chinese and English. The dataset currently contains **299 lenses across 14 brands**, with source links and review dates for every included record. It is not a complete market inventory.
+An independent database available online and for local use for Sony E-mount full-frame photography lenses, built with React, TypeScript and Vite. The interface is in Simplified Chinese; this README provides documentation in both Chinese and English. The dataset currently contains **302 lenses across 15 brands**, with source links and review dates for every included record. It is not a complete market inventory.
 
 See the [bilingual screenshot gallery](#screenshots) for the lens library, combined search/table view, specifications with sources, and side-by-side comparison.
 
@@ -202,12 +208,16 @@ Validation checks identity, mount, format, units, date precision and duplicate r
 
 ### License, third-party rights and contributions
 
-Original code and original compilation work that the maintainers are entitled to license are released under the [MIT License](LICENSE), as is. The license text and applicable law govern permission, warranty exclusions and limitations of liability. The reference-only notice describes data limitations and does not impose additional restrictions on MIT permissions.
+Original code and original compilation work that the maintainers are entitled to license are provided under [PolyForm Noncommercial 1.0.0](LICENSE). The license permits noncommercial use, modification and distribution under its terms; it does not grant commercial-use rights. The English license text and applicable law govern permitted purposes, notices, violations, warranty exclusions and liability. Its expressly listed charitable, educational, public research and other institutions are permitted users regardless of their funding source or related obligations; statutory fair-use rights remain unaffected.
+
+**This is a source-available, noncommercial project, not open-source software under the OSI definition.** A license is not a technical copy-protection mechanism and cannot guarantee compliance.
+
+**Historical releases:** This change does not revoke MIT rights already granted. Content released under MIT at commit `fdc8ce67c1d65b65204b670f21d105bdbca6f1c7` and earlier remains usable under those original terms, including commercially. The new license cannot add restrictions to those existing grants. Third-party dependencies and material owned by others retain their own terms; factual lens specifications do not automatically become exclusive property through inclusion in this compilation.
 
 Dependencies retain their own licenses and copyright notices. Full notices for installed runtime dependencies are included in [THIRD_PARTY_NOTICES.txt](public/THIRD_PARTY_NOTICES.txt) and copied into production builds. Regenerate them with `npm run licenses:generate` after updating dependencies. Development dependency licenses remain in their respective npm packages.
 
 Manufacturer names, model names and trademarks identify products only. This project is not affiliated with, endorsed by or an official service of Sony or any other manufacturer. Source links document provenance; they do not grant permission to copy, scrape or redistribute third-party material. Manufacturer product images, manual PDFs, complete product pages and collection caches are not included in this repository.
 
-MIT does not relicense third-party trademarks, documents, assets or other protected content, and does not override third-party licenses, website terms or applicable law. **A disclaimer is neither authorization nor a compliance guarantee; we cannot guarantee that every use is free of third-party obligations or rights.** Contributors should submit material they are entitled to share, preserve sources and avoid restricted text or assets. Rights holders may open an Issue identifying the affected file, content and basis of their concern so maintainers can investigate, correct or remove it.
+The project license does not relicense third-party trademarks, documents, assets or other protected content, and does not override third-party licenses, website terms or applicable law. **A disclaimer is neither authorization nor a compliance guarantee; we cannot guarantee that every use is free of third-party obligations or rights.** Contributors should submit material they are entitled to share, preserve sources and avoid restricted text or assets. Rights holders may open an Issue identifying the affected file, content and basis of their concern so maintainers can investigate, correct or remove it.
 
-Bug reports, source-backed corrections and pull requests are welcome. Run validation, tests and a production build before submitting changes. References: [MIT license overview](https://choosealicense.com/licenses/mit/) and [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+Bug reports, source-backed corrections and pull requests are welcome. Run validation, tests and a production build before submitting changes. References: [PolyForm license text](https://polyformproject.org/licenses/noncommercial/1.0.0) and [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).

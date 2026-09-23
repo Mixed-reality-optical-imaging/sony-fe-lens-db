@@ -31,7 +31,7 @@
     "vite": "^7.3.0"
   },
   "description": "索尼 E 卡口全画幅镜头数据库：中文搜索、筛选与参数对比",
-  "license": "MIT",
+  "license": "PolyForm-Noncommercial-1.0.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/Mixed-reality-optical-imaging/sony-fe-lens-db.git"

@@ -82,5 +82,11 @@
     "name": "Thypoch",
     "en": "Thypoch",
     "color": "#61795b"
+  },
+  {
+    "id": "songraw",
+    "name": "松若",
+    "en": "SongRaw",
+    "color": "#816e60"
   }
 ]

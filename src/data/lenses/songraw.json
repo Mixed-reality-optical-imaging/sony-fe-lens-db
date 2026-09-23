@@ -1,0 +1,191 @@
+[
+  {
+    "id": "songraw-50mm-f1-2-moonlit",
+    "brand": "songraw",
+    "name": "AF 50mm F1.2 Moonlit FE",
+    "model": "AF 50/1.2 FE Moonlit",
+    "aliases": [
+      "松若",
+      "SongRaw",
+      "松若 50mm F1.2",
+      "AF 50/1.2 FE Moonlit",
+      "旗舰版",
+      "Moonlit",
+      "50 1.2"
+    ],
+    "series": "Moonlit",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.2,
+    "apertureTele": 1.2,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 72,
+    "minFocus": 0.52,
+    "maxMagnification": 0.13,
+    "elements": 15,
+    "groups": 10,
+    "blades": 13,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "松若官方镜头目录（FE 与 Z 分列）",
+        "url": "https://www.songraw.com/jt",
+        "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "松若 AF 50/1.2 FE Moonlit 官方产品页",
+        "url": "https://www.songraw.com/50moonlit",
+        "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "官方规格参数图（产品页引用）",
+        "url": "https://img.wanwang.xin/contents/sitefiles2071/10356549/images/176664761.jpg",
+        "checkedAt": "2026-09-23"
+      }
+    ],
+    "notes": [
+      "官方规格图合列多个卡口，标称重量约 900g，未给出 Sony E 独立重量；重量筛选字段暂留空，未混用 Z 版本。",
+      "官方规格图确认全画幅、AF/MF、光圈 F1.2–F16；采用内对焦与 STM 马达，最大放大倍率 0.13×。",
+      "镜身直径、长度、准确发布日期、销售状态及人民币参考价尚未核实；官网目录或固件存在不等于确认现售。",
+      "该规格图未列光学防抖，暂记未知；Moonlit 旗舰版与 MS 青春版作为不同型号收录。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "songraw-50mm-f1-2-ms",
+    "brand": "songraw",
+    "name": "AF 50mm F1.2 MS FE",
+    "model": "AF 501.2 FE MS",
+    "aliases": [
+      "松若",
+      "SongRaw",
+      "松若 50mm F1.2",
+      "AF 501.2 FE MS",
+      "青春版",
+      "M-Simplify",
+      "50 1.2"
+    ],
+    "series": "M-Simplify",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 50,
+    "focalMax": 50,
+    "apertureWide": 1.2,
+    "apertureTele": 1.2,
+    "focus": "AF",
+    "stabilization": null,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 72,
+    "minFocus": 0.52,
+    "maxMagnification": 0.13,
+    "elements": 15,
+    "groups": 10,
+    "blades": 13,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "松若官方镜头目录（FE 与 Z 分列）",
+        "url": "https://www.songraw.com/jt",
+        "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "松若 AF 501.2 FE MS 官方产品页",
+        "url": "https://www.songraw.com/szssrsysbyxgsgw_05132206_252",
+        "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "官方规格参数图（产品页引用）",
+        "url": "https://img.wanwang.xin/contents/sitefiles2071/10356549/images/176586055.jpg",
+        "checkedAt": "2026-09-23"
+      }
+    ],
+    "notes": [
+      "官方规格图合列多个卡口，标称重量约 800g，未给出 Sony E 独立重量；重量筛选字段暂留空，未混用 Z 版本。",
+      "官方规格图确认全画幅、AF/MF、光圈 F1.2–F16；采用内对焦与 STM 马达，最大放大倍率 0.13×。",
+      "镜身直径、长度、准确发布日期、销售状态及人民币参考价尚未核实；官网目录或固件存在不等于确认现售。",
+      "该规格图未列光学防抖，暂记未知；Moonlit 旗舰版与 MS 青春版作为不同型号收录。"
+    ],
+    "verification": "partial"
+  },
+  {
+    "id": "songraw-85mm-f1-2-ms",
+    "brand": "songraw",
+    "name": "AF 85mm F1.2 MS FE",
+    "model": "AF 851.2 FE MS",
+    "aliases": [
+      "松若",
+      "SongRaw",
+      "松若 85mm F1.2",
+      "AF 851.2 FE MS",
+      "青春版",
+      "M-Simplify",
+      "85 1.2"
+    ],
+    "series": "M-Simplify",
+    "generation": null,
+    "mount": "Sony E",
+    "format": "Full Frame",
+    "focalMin": 85,
+    "focalMax": 85,
+    "apertureWide": 1.2,
+    "apertureTele": 1.2,
+    "focus": "AF",
+    "stabilization": false,
+    "weight": null,
+    "diameter": null,
+    "length": null,
+    "filterSize": 86,
+    "minFocus": 0.85,
+    "maxMagnification": 0.13,
+    "elements": 18,
+    "groups": 10,
+    "blades": 13,
+    "releaseDate": null,
+    "releasePrecision": null,
+    "status": "unknown",
+    "macro": false,
+    "price": null,
+    "sources": [
+      {
+        "title": "松若官方镜头目录（FE 与 Z 分列）",
+        "url": "https://www.songraw.com/jt",
+        "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "松若 AF 851.2 FE MS 官方产品页",
+        "url": "https://www.songraw.com/85qcb",
+        "checkedAt": "2026-09-23"
+      },
+      {
+        "title": "官方规格参数图（产品页引用）",
+        "url": "https://img.wanwang.xin/contents/sitefiles2071/10356549/images/176715161.jpg",
+        "checkedAt": "2026-09-23"
+      }
+    ],
+    "notes": [
+      "官方规格图合列多个卡口，标称重量约 1120g，未给出 Sony E 独立重量；重量筛选字段暂留空，未混用 Z 版本。",
+      "官方规格图确认全画幅、AF/MF、光圈 F1.2–F16；采用内对焦与 STM 马达，最大放大倍率 0.13×。",
+      "镜身直径、长度、准确发布日期、销售状态及人民币参考价尚未核实；官网目录或固件存在不等于确认现售。",
+      "官网当前规格图标称约 1120g，与部分第三方页面的 1001g 不同，未把第三方重量写入 E 卡口字段。"
+    ],
+    "verification": "partial"
+  }
+]

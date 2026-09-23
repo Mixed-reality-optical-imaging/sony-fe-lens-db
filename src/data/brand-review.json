@@ -82,5 +82,11 @@
     "url": "https://store.thypoch.com/products/voyager-24-50mm",
     "scope": "核验 Voyager 24–50mm F2.8 和 Simera 28mm / 35mm F1.4 的原生 Sony E 全画幅摄影版本；厂家分卡口表为主，日本正規代理补充镜身直径。",
     "limits": "已核验 3 款；Simera 两款最大放大倍率尚缺。当前 Simera 21mm / 75mm 规格仅列 M、50mm 仅列 M/Z，未据通用附件名称推断 E 卡口；Ksana、Eureka 尚未逐款清点。Simera-C 专用电影镜头排除。"
+  },
+  {
+    "brand": "songraw",
+    "url": "https://www.songraw.com/jt",
+    "scope": "核对松若官网目录及三款产品页原始规格图，收录 50mm F1.2 Moonlit、50mm F1.2 MS、85mm F1.2 MS 的原生 FE 全画幅版本。",
+    "limits": "Moonlit 与 MS 分开，Z 卡口不重复计数。多卡口规格图标称重量未作为 E 专属重量；尺寸、日期、销售状态和人民币价格待核验。仅代表本轮确认的三款，不宣称历史全量。"
   }
 ]
